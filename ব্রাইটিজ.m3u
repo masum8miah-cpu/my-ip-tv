@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/79g2kMA.png",T Sports HD 🇧🇩
-https://your-stream-url.m3u8
+#EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports HD" tvg-logo="https://i.imgur.com/79g2kMA.png",T Sports HD 🇧🇩
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BTV Live 🇧🇩
-http://103.14.151.101:11/manik-kuttar-baccha-telegram-batpar.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",World Cup S2
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FIFA Live - Bangla 🇮🇳
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FIFA Live - Bangla A 🇮🇳
