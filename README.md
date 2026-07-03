@@ -1,2 +1,2 @@
 # my-ip-tv
-bdix tested up to date iptv m3u
+নিয়মিত আপডেট ও বাছাই কৃত আইপি টিভি ফাইল
