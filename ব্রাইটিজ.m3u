@@ -182,73 +182,28 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Football World Cup 2026 (4K)
-http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",PSL 2026 GEO SUPER
-http://stalker.hakunamata.workers.dev/play/1100/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FANCODE (Link 1)
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FANCODE (Link 2)
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FANCODE (Link 3)
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Willow SPORTS
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Unknown Channel
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",T Sports
-http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DAZN FAST+
-https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DAZN COMBAT
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RAJDHANI TV
-https://sm-monirul.top/toffee/play/rajdhani_tv.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FS1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FOX NY
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FOX 11 Green Bay WI (WLUK)
-https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FOX Sports 2 [2]
-http://190.61.101.11:7050/play/a08v/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Telemundo 2
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Fox Deportes
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein US
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dazn 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dazn 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dazn 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dazn 6
-http://23.237.104.106:8080/DAZN_6/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSports (Opción 1)
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSports (Opción 3)
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSports (Opción 4)
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSports (Opción 5)
-http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSports (Opción 6)
-http://190.223.48.46:8000/play/a028/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSports (Opción 7)
-http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSports (Opción 8)
-http://190.117.20.37:8000/play/a08d/index.m3u
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSports (Opción 10)
-http://8.243.126.131:8000/play/a05a/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein Xtra (720)
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FOX Sports (720)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Caze TV (720)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TUDN
