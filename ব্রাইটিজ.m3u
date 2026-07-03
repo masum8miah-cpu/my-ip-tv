@@ -1,4 +1,7 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 
 # ===== SPORTS CHANNELS =====
 #EXTINF:-1 tvg-id="TSports.bd" tvg-name="T Sports HD" tvg-logo="https://i.ibb.co/0jKzqYf/t-sports.png",T Sports HD 🇧🇩
@@ -215,8 +218,3 @@ https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/79g2kMA.png",H20 TV
 https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
-
