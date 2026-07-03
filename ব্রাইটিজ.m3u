@@ -188,15 +188,6 @@ http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein US
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dazn 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dazn 3
-http://23.237.104.106:8080/DAZN_3/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Dazn 4
-http://23.237.104.106:8080/DAZN_4/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein Xtra (720)
 https://d9ssxzmclhfo4.cloudfront.net/bein_sports720p.m3u8
@@ -206,82 +197,43 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Caze TV (720)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TUDN
-http://24.152.53.3:8090/play/a012/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Fubo Sports 2
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NBA
-http://41.223.30.230/ESPN2/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",CT SPORT HD
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TYC SPORTS FUENTE 2
 http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157580
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TELEFE FUENTE 1
-http://tv.zeuspro.xyz:8080/peterordonez/OKEtJocXkL/157590
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",RCN (Colombia) (🇨🇴)
-http://181.78.211.244:8005/play/a0ak/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Caracol
-http://181.78.8.199:8000/play/a0b0/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Choppertown
-https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Commune
-https://082cdda06abe450a84acd825e814a6b8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_Commune-1/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Cricket Gold
 https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Documentary+
 https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Drone TV
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Field & Stream
-https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FIGHT NETWORK
-https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",FUEL TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GCTV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",GoPro
-https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",H20 TV
 https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Hard Knocks
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/121.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Harlem Globetrotters
-https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Horse & Country
-https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",win
-http://8.243.126.131:8000/play/a025/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",WIN SPORTS (Link 2)
-http://181.78.71.71:18000/play/a03p/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",win+
-http://190.60.37.154:45000/play/a00q/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSPORTS 1 🇦🇷
-http://190.117.20.37:8000/play/a08d/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",espn premium
-http://205.235.6.29:8000/play/a0pz/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",tnt sport
 http://205.235.6.29:8000/play/a0xa/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",tnt sport premium
 http://205.235.6.29:8000/play/a104/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",espn
 http://205.235.6.29:8000/play/a0zf/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",espn 7
-http://205.235.6.29:8000/play/a0zv/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DSports
-http://38.226.210.46:8000/play/A008/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",BEIN SPORTS Ñ
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ESPN PREMIUM CHI
-http://186.33.40.97:8789/play/22
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",WIN SPORTS (Link 3)
-http://190.60.39.195:8000/play/a0ug/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ESPN PREMIUN 1
 http://190.7.19.197:232/play/a038/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ESPN 5
 http://181.118.158.103:8000/play/a03c/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ESPN ARG
