@@ -1,36 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://static.wikia.nocookie.net/bbc/images/d/d9/BBCN.png/revision/latest?cb=20220516180809" group-title="Others",BBC News
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://static.wikia.nocookie.net/bbc/images/d/d9/BBCN.png/revision/latest?cb=20220516180809" group-title="international news",BBC News
 https://tplay.live/out/news/bbc-news/index.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1280px-CNN.svg.png" group-title="Others",CNN
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
-#EXTINF:-1 tvg-name="CNN Headlines" tvg-logo="https://i.postimg.cc/yYqSkTYR/CNN-Headlines.png" group-title="Others",CNN Headlines
+
+#EXTINF:-1 tvg-name="CNN Headlines" tvg-logo="https://i.postimg.cc/yYqSkTYR/CNN-Headlines.png" group-title="international news",CNN Headlines
 https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
-#EXTINF:-1 tvg-name="Deutsche Welle" tvg-logo="https://i.postimg.cc/VsnLnm8k/dwger.png" group-title="Others",Deutsche Welle
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.postimg.cc/mkLJw9Tj/Al-Jazeera.png" group-title="Others",Al Jazeera
+
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.postimg.cc/mkLJw9Tj/Al-Jazeera.png" group-title="international news",Al Jazeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
-#EXTINF:-1 tvg-name="Press TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/1280px-Press_TV_logo.svg.png" group-title="Others",Press TV
+
+#EXTINF:-1 tvg-name="Press TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/1280px-Press_TV_logo.svg.png" group-title="international news",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1 tvg-name="RT" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bbaf7e856287b0ef436f9e69e2e435be.png" group-title="Others",RT
+
+#EXTINF:-1 tvg-name="RT" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bbaf7e856287b0ef436f9e69e2e435be.png" group-title="international news",RT
 https://wisewatchoott.wiseplayout.com/RT/master.m3u8
-#EXTINF:-1 tvg-name="Reuters" tvg-logo="https://i.postimg.cc/284T6ymr/Reuters.png" group-title="Others",Reuters
-https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197
-#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://i.postimg.cc/G24nwYZV/skynews.png" group-title="Others",Sky News
-https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8
-#EXTINF:-1 tvg-name="Sky News Now" tvg-logo="https://i.postimg.cc/8zGGJ76c/skynews-now.png" group-title="Others",Sky News Now
+
+#EXTINF:-1 tvg-name="Sky News Now" tvg-logo="https://i.postimg.cc/8zGGJ76c/skynews-now.png" group-title="international news",Sky News Now
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg Television" tvg-logo="https://i.postimg.cc/25wS8491/Bloomberg-Television.png" group-title="Others",Bloomberg Television
-https://dcfcae89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdUVl9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="Bloomberg Originals" tvg-logo="https://i.postimg.cc/NFwt6FnL/Bloomberg-Originals.png" group-title="Others",Bloomberg Originals
-https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdPcmlnaW5hbHNfSExT/playlist.m3u8
-#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.postimg.cc/fRyG0Yb9/Global-News.png" group-title="Others",Global News
+
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.postimg.cc/fRyG0Yb9/Global-News.png" group-title="international news",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-name="Fox News HD" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Emblem.png" group-title="Others",Fox News HD
-https://nog-live1-ott.izzigo.tv/2/out/u/dash/FOX-NEWS-HD/default.mpd
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="Others",CGTN
+
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="international news",CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/d0b3176fe609005f88aabbe2f6dc521c.png" group-title="Others",NHK World
+
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/d0b3176fe609005f88aabbe2f6dc521c.png" group-title="international news",NHK World
 https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+
 #EXTINF:-1 tvg-name="WION" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9f31d642976f5887bb62bd3b6a07f556.png" group-title="Others",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-name="CNBC TV18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNBC_TV18_2026.svg/1280px-CNBC_TV18_2026.svg.png" group-title="Hindi",CNBC TV18
