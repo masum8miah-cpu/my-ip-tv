@@ -360,3 +360,9 @@ https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
 #EXTINF:-1 group-title="FIFA 2026",FIFA fast
 #EXTGRP:FIFA 2026
 https://stream.sports3.win/iptv/live/signal-4459802-10083.m3u8
+#EXTINF:-1 group-title="FIFA 2026",fifa fast 3
+#EXTGRP:FIFA 2026
+https://stream.sports3.win/iptv/live/signal-4459802-10083.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_beIN_SPORTS_MAX.png/799px-Logo_beIN_SPORTS_MAX.png" group-title="FIFA 2026",fifa fast 2
+#EXTGRP:FIFA 2026
+https://hls.live123.fans/live/4459802.m3u8
