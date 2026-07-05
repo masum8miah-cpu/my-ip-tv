@@ -20,15 +20,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/CGTN_English.png" group-title="national news",CGTN
 #EXTGRP:national news
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
-#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/d0b3176fe609005f88aabbe2f6dc521c.png" group-title="national news",NHK World
-#EXTGRP:national news
-https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-name="WION" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9f31d642976f5887bb62bd3b6a07f556.png" group-title="national news",WION
-#EXTGRP:national news
-https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-name="CNBC TV18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNBC_TV18_2026.svg/1280px-CNBC_TV18_2026.svg.png" group-title="national news",CNBC TV18
-#EXTGRP:national news
-https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-name="CNN News18" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9feb8c032a7632e9a4bbcfd6ca89a8b6.png" group-title="national news",CNN News18
 #EXTGRP:national news
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
@@ -38,12 +29,6 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://i.postimg.cc/hv5qqwfs/ndtv24.png" group-title="national news",NDTV 24x7
 #EXTGRP:national news
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-name="TOI Global" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/920966f3d02ccbec93d235bfd89e0898.png" group-title="national news",TOI Global
-#EXTGRP:national news
-https://live.sli.ke/live/npnhm84gz9/fhd/stream.m3u8
-#EXTINF:-1 tvg-name="DD India" tvg-logo="https://i.postimg.cc/x1z2bMjr/dd-india.png" group-title="national news",DD India
-#EXTGRP:national news
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 #EXTINF:-1 tvg-name="DD News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dd-news_logo.png" group-title="national news",DD News
 #EXTGRP:national news
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
@@ -53,15 +38,6 @@ https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index
 #EXTINF:-1 tvg-name="Aaj Tak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="national news",Aaj Tak
 #EXTGRP:national news
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
-#EXTINF:-1 tvg-name="Aaj Tak HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aaj_Tak_logo.svg/1280px-Aaj_Tak_logo.svg.png" group-title="national news",Aaj Tak HD
-#EXTGRP:national news
-https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.postimg.cc/vHvsFQ4h/ndtv-india.png" group-title="national news",NDTV India
-#EXTGRP:national news
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-name="India TV Speed News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/edfc00ff2a9812a5e940b6318b732693.png" group-title="national news",India TV Speed News
-#EXTGRP:national news
-https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/janya/master.m3u8
 #EXTINF:-1 tvg-name="NKTV Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/19882e79d666c48e72d1bda6e4678ee7.png" group-title="Kolkata bangla",NKTV Bangla
 #EXTGRP:Kolkata bangla
 https://cdn-6.pishow.tv/live/10012/master.m3u8
@@ -184,8 +160,6 @@ https://s3.ideationtec.live/Filmax/Filmax.m3u8
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="B4U Kadak" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63ca523d57c534aae4b50f9cd4d2a80c.png" group-title="Hindi",B4U Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Bhojpuri Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Bhojpuri_Cinema.png/revision/latest?cb=20240319172045" group-title="Movies",Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Sananda" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Sananda_TV_logo_%282011%29.png/revision/latest?cb=20210428083412" group-title="Kolkata bangla",Sananda
 #EXTGRP:Kolkata bangla
 https://live.sanandatelevision.in/sananda/index.m3u8
@@ -259,9 +233,6 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN Discovering China" tvg-logo="https://d2gpx7np84fwh1.cloudfront.net/external/d2y2efdi5wgkcl.cloudfront.net/fit-in/688x464/media-io/2025/10/17/Channel_Logo.80dcf707.png?width=1920" group-title="Documentary & others",CGTN Discovering China
 #EXTGRP:Documentary & others
 https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
-#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary & others",CGTN Documentary
-#EXTGRP:Documentary & others
-https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="History TV 18 English" tvg-logo="https://i.postimg.cc/dVdZpytL/history18.png" group-title="Documentary & others",History TV 18 English
 #EXTGRP:Documentary & others
 https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8
@@ -353,8 +324,8 @@ http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment",Sony Aath
 #EXTGRP:Entertainment
 https://yowaimo.in/Sflex-ArtlPVT0719/SONY_8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="KOLKATA" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Colors Bangla Cinema
-#EXTGRP:KOLKATA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Kolkata bangla" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Colors Bangla Cinema
+#EXTGRP:Kolkata bangla
 #EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
 https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
 #EXTINF:-1 group-title="FIFA 2026",FIFA fast
@@ -362,7 +333,10 @@ https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
 https://stream.sports3.win/iptv/live/signal-4459802-10083.m3u8
 #EXTINF:-1 group-title="FIFA 2026",fifa fast 3
 #EXTGRP:FIFA 2026
-https://stream.sports3.win/iptv/live/signal-4459802-9398.m3u8
+https://stream.sports3.win/iptv/live/signal-4459802-10083.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_beIN_SPORTS_MAX.png/799px-Logo_beIN_SPORTS_MAX.png" group-title="FIFA 2026",fifa fast 2
+#EXTGRP:FIFA 2026
+https://hls.live123.fans/live/4459802.m3u8
+#EXTINF:-1 group-title="FIFA 2026",fifa fast 4
 #EXTGRP:FIFA 2026
 https://hls.live123.fans/live/4459802.m3u8
