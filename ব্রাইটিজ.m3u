@@ -357,3 +357,6 @@ https://yowaimo.in/Sflex-ArtlPVT0719/SONY_8.m3u8
 #EXTGRP:KOLKATA
 #EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
 https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
+#EXTINF:-1 group-title="FIFA 2026",FIFA fast
+#EXTGRP:FIFA 2026
+https://stream.sports3.win/iptv/live/signal-4459802-10083.m3u8
