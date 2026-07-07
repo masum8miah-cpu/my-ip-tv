@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="FIFA 2026",FIFA fast 1
 #EXTGRP:FIFA 2026
 https://stream.sports3.win/iptv/live/signal-4459802-10083.m3u8
-#EXTINF:-1 group-title="FIFA 2026",fifa fast 2
+#EXTINF:-1 tvg-name="DUFA" tvg-logo="https://github.com/masum8miah-cpu/logo-for-iptv-m3u/blob/main/Screenshot_20260708-023113%7E2.png" tvg-country="japanese" tvg-language="japanese" group-title="FIFA 2026",fifa fast 2
 #EXTGRP:FIFA 2026
 https://pull.niues.live/live/stream-9912108_lhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Logo_beIN_SPORTS_MAX.png/799px-Logo_beIN_SPORTS_MAX.png" group-title="FIFA 2026",fifa fast 3
@@ -14,15 +14,21 @@ https://hls.live123.fans/live/4459802.m3u8
 #EXTINF:-1 group-title="FIFA 2026",fifa fast 5
 #EXTGRP:FIFA 2026
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783352720~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBUUq9wTD-jaDHZTdKJmwjYa0sbQ187VZq_j3clvSFjAFcIaP__EUU1mh9pTuCtJP-SG9fE4lHfmY1rV4IgD9MD
-#EXTINF:-1,FIFA 1
+#EXTINF:-1 group-title="FIFA 2026",FIFA 1
+#EXTGRP:FIFA 2026
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/37024f6e-40b3-4627-a0c7-dad03f2ea433/0.m3u8
-#EXTINF:-1,FIFA 2
+#EXTINF:-1 group-title="FIFA 2026",FIFA 2
+#EXTGRP:FIFA 2026
 https://tvex.easypecker.com/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FIFA 3
+#EXTINF:-1 group-title="FIFA 2026",FIFA 3
+#EXTGRP:FIFA 2026
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/37024f6e-40b3-4627-a0c7-dad03f2ea433/2.m3u8
-#EXTINF:-1,FIFA 4
+#EXTINF:-1 group-title="FIFA 2026",FIFA 4
+#EXTGRP:FIFA 2026
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/37024f6e-40b3-4627-a0c7-dad03f2ea433/3.m3u8
-#EXTINF:-1,FIFA 5
+#EXTINF:-1 group-title="FIFA 2026",FIFA 5
+#EXTGRP:FIFA 2026
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1,FIFA 6
+#EXTINF:-1 group-title="FIFA 2026",FIFA 6
+#EXTGRP:FIFA 2026
 https://tfxa4gr4uqmtt8y41hcjwghzdrqjpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSession=71c45dc51fa724e2ada54f44-178318310634054&wsIPSercert=2e4fdf4b9468ce3f5681e376f0c2d248&wsBindIP=2&wsserid=1168229687413827975
