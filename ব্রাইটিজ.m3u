@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="FIFA 2026",FIFA fast 1
 #EXTGRP:FIFA 2026
-https://live2.streambylivepulse.com/live/channel19.m3u8
+https://live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=4b945baead66d2419c90660b5026d2bf&wsABSTime=1784184932
 #EXTINF:-1 tvg-name="DUFA" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" tvg-country="japanese" tvg-language="japanese" group-title="FIFA 2026",fifa fast 2
 #EXTGRP:FIFA 2026
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
@@ -16,19 +16,19 @@ https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1784058504-0-0-6b39
 https://live.inplyr.com/room/494201.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="FIFA 2026",FIFA 6
 #EXTGRP:FIFA 2026
-https://tfxl1gwh1hcjigezdncb3fahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=e70471fd1d50b79bf2785140b8f7803f&wsABSTime=1784184465&wsSession=da91794d1c82a6518aab13e0-178414127388302&wsIPSercert=d125dfc8cc993c0e0dc7a17698c8442c&wsBindIP=2&wsserid=1168262300818150876
+https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001784141728-0-0-7d37218fac2f1a64825b1c398559fd7b
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="FIFA 2026",FIFA 7
 #EXTGRP:FIFA 2026
 https://live1.streambylivepulse.com/live/channel11/playlist.m3u8?wsSecret=6bbfb448aec74f31cce49506899c6377&wsABSTime=1784098455
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="FIFA 2026",FIFA 8
 #EXTGRP:FIFA 2026
-https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-426539094&e=pa&n=1136445495497931&aid=GCCG&amp=0&at=1&c=-1&ccp=0&cp=0&d=2&eb=0&ed=6&emi=b4l2bf1a5937&et=classic&i=1&lid=1w0bpxqi7of8&lsa=set&mt=1&pbd=1&pbr=1&pgi=blepia1p5zux&ph=0&pii=0&pl=192&plc=1&pli=16lk7zkf10o2&pp=hlsjs&prc=1&ps=4&pss=1&pt=&pu=https%3A%2F%2Fsocoliveku.cc%2F&pv=8.31.0&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.15&vb=1&vi=1&vl=90&wd=340&ab=0&cme=0&dnt=unspecified&flc=0&lng=en&mu=https%3A%2F%2Flive1.streambylivepulse.com%2Flive%2Fchannel1%2Fplaylist.m3u8%3FwsSecret%3De70471fd1d50b79bf2785140b8f7803f%26wsABSTime%3D1784184465&pd=2&plng=en&pni=0&pr=7&tb=0&vd=0&sa=1784141272651
+https://live2.streambylivepulse.com/live/channel15.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="FIFA 2026",FIFA 9
 #EXTGRP:FIFA 2026
-https://spown.pull-sp-tail-op.online/stream69?&.m3u8
+https://live.inplyr.com/room/414317.m3u8
 #EXTINF:-1 group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png",FIFA 10
 #EXTGRP:FIFA 2026
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1784145564-0-0-d2ae2b754e8377641a6d36ff7f3ede38
 #EXTINF:-1 group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png",FIFA 11
 #EXTGRP:FIFA 2026
 https://tfxa4gr4uqmtt8y41hcjwghzdrqjpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSession=71c45dc51fa724e2ada54f44-178318310634054&wsIPSercert=2e4fdf4b9468ce3f5681e376f0c2d248&wsBindIP=2&wsserid=1168229687413827975
