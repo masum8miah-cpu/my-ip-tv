@@ -60,10 +60,6 @@ http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
 http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangla",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-id="229000" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Bangla",Maasranga TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="134000" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla",Deepto TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Bangla",Channel 9 HD
@@ -206,76 +202,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="𝐊𝐢𝐝𝐬",0. Toon Goggles
 https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
-#EXTINF:-1 tvg-id="t_sports_hd_2" tvg-logo="https://ottking.top/app/uploads/tv_image/t-sports-hd.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T SPORTS HD 2
-http://monirul.bro.bd/sm/live.php?id=t_sports_hd_2&e=.m3u8
-#EXTINF:-1 tvg-id="t_sports_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/t-sports-hd.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T SPORTS HD
-http://monirul.bro.bd/sm/live.php?id=t_sports_hd&e=.m3u8
-#EXTINF:-1 tvg-id="fifa-world-cup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGnWla8lDRA4RhlkE1PBB2-QjICLzs48cYGvBTgdci-dzn-MZu55nFz3cg&s=10" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",FIFA-World-Cup
-http://monirul.bro.bd/sm/live.php?id=fifa-world-cup&e=.m3u8
-#EXTINF:-1 tvg-id="sony_ten_3_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-ten-3.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",SONY TEN 3 HD
-http://monirul.bro.bd/sm/live.php?id=sony_ten_3_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_ten_5_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-ten-5.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",SONY TEN 5 HD
-http://monirul.bro.bd/sm/live.php?id=sony_ten_5_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_sports_1" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-1.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",STAR SPORTS 1
-http://monirul.bro.bd/sm/live.php?id=star_sports_1&e=.m3u8
-#EXTINF:-1 tvg-id="star_sports_2" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",STAR SPORTS 2
-http://monirul.bro.bd/sm/live.php?id=star_sports_2&e=.m3u8
-#EXTINF:-1 tvg-id="star_sports_select_1" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-selected-1.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",STAR SPORTS SELECT 1
-http://monirul.bro.bd/sm/live.php?id=star_sports_select_1&e=.m3u8
-#EXTINF:-1 tvg-id="star_sports_select_2" tvg-logo="https://ottking.top/app/uploads/tv_image/star-sports-selected-2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",STAR SPORTS SELECT 2
-http://monirul.bro.bd/sm/live.php?id=star_sports_select_2&e=.m3u8
-#EXTINF:-1 tvg-id="sony_ten_2_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-ten-2.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",SONY TEN 2 HD
-http://monirul.bro.bd/sm/live.php?id=sony_ten_2_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_ten_1_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-ten-1.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",SONY TEN 1 HD
-http://monirul.bro.bd/sm/live.php?id=sony_ten_1_hd&e=.m3u8
-#EXTINF:-1 tvg-id="a_sports_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/a-sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A SPORTS HD
-http://monirul.bro.bd/sm/live.php?id=a_sports_hd&e=.m3u8
-#EXTINF:-1 tvg-id="ten_cricket" tvg-logo="https://ottking.top/app/uploads/tv_image/enter-10.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Ten Cricket
-http://monirul.bro.bd/sm/live.php?id=ten_cricket&e=.m3u8
-#EXTINF:-1 tvg-id="euro_sports_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/eurospot-hd.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Euro Sports HD
-http://monirul.bro.bd/sm/live.php?id=euro_sports_hd&e=.m3u8
-#EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/ptv-sports.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",PTV SPORTS HD
-http://monirul.bro.bd/sm/live.php?id=ptv_sports_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sun_bangla_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/sun-%E0%A6%AC%E0%A6%B2.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",SUN BANGLA HD
-http://monirul.bro.bd/sm/live.php?id=sun_bangla_hd&e=.m3u8
-#EXTINF:-1 tvg-id="colors_bangla_cinema" tvg-logo="http://ottking.top/cdn/image/colors%20bangla%20cinema.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",COLORS BANGLA CINEMA
-http://monirul.bro.bd/sm/live.php?id=colors_bangla_cinema&e=.m3u8
-#EXTINF:-1 tvg-id="sangeet_bangla" tvg-logo="http://ottking.top/cdn/image/Sangeet-Bangla.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sangeet Bangla
-http://monirul.bro.bd/sm/live.php?id=sangeet_bangla&e=.m3u8
-#EXTINF:-1 tvg-id="sony_aath" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-8.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",SONY AATH
-http://monirul.bro.bd/sm/live.php?id=sony_aath&e=.m3u8
-#EXTINF:-1 tvg-id="zee_bangla_hd" tvg-logo="https://portal.caretelbd.com/uploads/tv_image/sm/zee-bangla-hd.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",ZEE BANGLA HD
-http://monirul.bro.bd/sm/live.php?id=zee_bangla_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_jalsha_hd" tvg-logo="https://portal.caretelbd.com/uploads/tv_image/sm/star-jalsha-hd.jpg" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
-http://monirul.bro.bd/sm/live.php?id=star_jalsha_hd&e=.m3u8
-#EXTINF:-1 tvg-id="enterr_10" tvg-logo="https://ottking.top/app/uploads/tv_image/enter-10-bangla.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",ENTERR 10
-http://monirul.bro.bd/sm/live.php?id=enterr_10&e=.m3u8
-#EXTINF:-1 tvg-id="colors_bangla_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/colors-bangla-hd.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Colors Bangla HD
-http://monirul.bro.bd/sm/live.php?id=colors_bangla_hd&e=.m3u8
-#EXTINF:-1 tvg-id="jalsha_movies_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/%E0%A6%9C%E0%A6%B2%E0%A6%B8-movies-hd.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",JALSHA MOVIES HD
-http://monirul.bro.bd/sm/live.php?id=jalsha_movies_hd&e=.m3u8
-#EXTINF:-1 tvg-id="zee-bangla-cinema" tvg-logo="https://ottking.top/app/uploads/tv_image/zee-bangla-soner.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee-Bangla-Cinema
-http://monirul.bro.bd/sm/live.php?id=zee-bangla-cinema&e=.m3u8
-#EXTINF:-1 tvg-id="star_plus_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/star-plus-hd.png" group-title="Hindi",STAR PLUS HD
-http://monirul.bro.bd/sm/live.php?id=star_plus_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_movies_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/star-movie-selected.png" group-title="Hindi",STAR MOVIES HD
-http://monirul.bro.bd/sm/live.php?id=star_movies_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_gold_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/star-gold-hd.png" group-title="Hindi",STAR GOLD HD
-http://monirul.bro.bd/sm/live.php?id=star_gold_hd&e=.m3u8
-#EXTINF:-1 tvg-id="zee_cinema_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/zee-cinema-hd.png" group-title="Hindi",Zee Cinema HD
-http://monirul.bro.bd/sm/live.php?id=zee_cinema_hd&e=.m3u8
-#EXTINF:-1 tvg-id="colors_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/colors-tv.png" group-title="Hindi",COLORS HD
-http://monirul.bro.bd/sm/live.php?id=colors_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_max_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-max-hd.png" group-title="Hindi",Sony Max HD
-http://monirul.bro.bd/sm/live.php?id=sony_max_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_entertainmnt_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-hd.png" group-title="Hindi",Sony Entertainmnt HD
-http://monirul.bro.bd/sm/live.php?id=sony_entertainmnt_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_sab_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/sony-sab-hd.png" group-title="Hindi",SONY SAB HD
-http://monirul.bro.bd/sm/live.php?id=sony_sab_hd&e=.m3u8
-#EXTINF:-1 tvg-id="nick_bangla" tvg-logo="https://ottking.top/app/uploads/tv_image/nick-bangla.png" group-title="𝐊𝐢𝐝𝐬",NICK BANGLA
-http://monirul.bro.bd/sm/live.php?id=nick_bangla&e=.m3u8
-#EXTINF:-1 tvg-id="cartoon_network" tvg-logo="https://ottking.top/app/uploads/tv_image/cartoon-network.png" group-title="𝐊𝐢𝐝𝐬",CARTOON NETWORK
-http://monirul.bro.bd/sm/live.php?id=cartoon_network&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/discovery-channel-bengali.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Discovery Channel Bengali
 #EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
 https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
@@ -351,39 +277,9 @@ https://madanitv.assadikb.workers.dev/live.php?id=279&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-anmol.png" group-title="Hindi" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Zee Anmol
 #EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
 https://book4u.top/worker/index.php?path=api/cf342d11fc/playlist.m3u8
-#EXTINF:-1 tvg-id="gtv" tvg-logo="https://ottking.top/app/uploads/tv_image/gazi-tv.png" group-title="Bangla",GTV
-http://monirul.bro.bd/sm/live.php?id=gtv&e=.m3u8
-#EXTINF:-1 tvg-id="channel_9_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-9.png" group-title="Bangla",CHANNEL 9 HD
-http://monirul.bro.bd/sm/live.php?id=channel_9_hd&e=.m3u8
-#EXTINF:-1 tvg-id="channel_i_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-i.png" group-title="Bangla",Channel i HD
-http://monirul.bro.bd/sm/live.php?id=channel_i_hd&e=.m3u8
-#EXTINF:-1 tvg-id="ekatoor_tv" tvg-logo="https://ottking.top/app/uploads/tv_image/ekatoor-tv.png" group-title="Bangla",Ekatoor TV
-http://monirul.bro.bd/sm/live.php?id=ekatoor_tv&e=.m3u8
-#EXTINF:-1 tvg-id="channel_24_hd" tvg-logo="https://ottking.top/app/uploads/tv_image/channel-24.png" group-title="Bangla",Channel 24 HD
-http://monirul.bro.bd/sm/live.php?id=channel_24_hd&e=.m3u8
-#EXTINF:-1 tvg-id="nexus_tv" tvg-logo="https://ottking.top/app/uploads/tv_image/nexus-tv.png" group-title="Bangla",Nexus TV
-http://monirul.bro.bd/sm/live.php?id=nexus_tv&e=.m3u8
-#EXTINF:-1 tvg-id="global_tv" tvg-logo="https://ottking.top/app/uploads/tv_image/global-tv.png" group-title="Bangla",Global TV
-http://monirul.bro.bd/sm/live.php?id=global_tv&e=.m3u8
-#EXTINF:-1 tvg-id="boishaki_tv" tvg-logo="https://ottking.top/app/uploads/tv_image/boishaki-tv.png" group-title="Bangla",Boishaki TV
-http://monirul.bro.bd/sm/live.php?id=boishaki_tv&e=.m3u8
-#EXTINF:-1 tvg-id="jamuna_tv" tvg-logo="https://ottking.top/app/uploads/tv_image/jamuna-tv.png" group-title="Bangla",Jamuna TV
-http://monirul.bro.bd/sm/live.php?id=jamuna_tv&e=.m3u8
-#EXTINF:-1 tvg-id="ekhon_tv" tvg-logo="https://ottking.top/app/uploads/tv_image/ekhon-tv.png" group-title="Bangla",Ekhon TV
-http://monirul.bro.bd/sm/live.php?id=ekhon_tv&e=.m3u8
 #EXTINF:-1 tvg-id="news24_tv" tvg-logo="https://ottking.top/app/uploads/tv_image/news-24.png" group-title="News",NEWS24 TV
 http://monirul.bro.bd/sm/live.php?id=news24_tv&e=.m3u8
 #EXTINF:-1 tvg-id="dbc_news" tvg-logo="https://ottking.top/app/uploads/tv_image/dbc-news.png" group-title="News",DBC NEWS
 http://monirul.bro.bd/sm/live.php?id=dbc_news&e=.m3u8
-#EXTINF:-1 tvg-id="my_tv" tvg-logo="https://ottking.top/app/uploads/tv_image/my-tv.png" group-title="Bangla",My TV
-http://monirul.bro.bd/sm/live.php?id=my_tv&e=.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://ottking.top/app/uploads/tv_image/ntv.png" group-title="Bangla",NTV
-http://monirul.bro.bd/sm/live.php?id=ntv&e=.m3u8
-#EXTINF:-1 tvg-id="bangla_vison" tvg-logo="https://ottking.top/app/uploads/tv_image/bangla-vision.png" group-title="Bangla",BANGLA VISON
-http://monirul.bro.bd/sm/live.php?id=bangla_vison&e=.m3u8
-#EXTINF:-1 tvg-id="maasranga_tv" tvg-logo="https://ottking.top/app/uploads/tv_image/macranga-tv.png" group-title="Bangla",Maasranga TV
-http://monirul.bro.bd/sm/live.php?id=maasranga_tv&e=.m3u8
-#EXTINF:-1 tvg-id="atn_bangla" tvg-logo="https://ottking.top/app/uploads/tv_image/atn-bangla.png" group-title="Bangla",ATN BANGLA
-http://monirul.bro.bd/sm/live.php?id=atn_bangla&e=.m3u8
-#EXTINF:-1 tvg-id="rtv" tvg-logo="https://ottking.top/app/uploads/tv_image/rtv.png" group-title="Bangla",RTV
-http://monirul.bro.bd/sm/live.php?id=rtv&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png" group-title="Bangla",Maasranga
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
