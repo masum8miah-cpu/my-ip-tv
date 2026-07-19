@@ -138,8 +138,6 @@ http://103.175.73.12:8080/live/646/646_0.m3u8
 http://103.175.73.12:8080/live/53/53_0.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Movie
 http://103.175.73.12:8080/live/51/51_0.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRKCsfQ/20240823_020937.png" group-title="𝐊𝐢𝐝𝐬",Durunto
 http://dvltv.cc:8080/live/Livetv66/55887799/395.ts
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/G2F8757j/20240823-021053.png",Rongeen
@@ -175,10 +173,6 @@ https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hls.assadikb.workers.dev/?url=https://babu.khelalive.top/vids/ix/stream.m3u8?id=akash-aath
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png" group-title="Bangladeshi",Maasranga
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="Bangladeshi",Drama 24
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" group-title="Bangladeshi",BTV National
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="98000" tvg-name="Somoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg" group-title="Bangladeshi",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="229000" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Bangladeshi",Maasranga TV
@@ -223,14 +217,8 @@ https://iptvbd.live/metv1080/1080.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/NRB.png" group-title="Bangladeshi",NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/srk-tv-bd.png" group-title="Bangladeshi",SRKTV Bangla
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png" group-title="Bangladeshi",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Enterr 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Bangladeshi",Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg" group-title="Bangladeshi",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Jalsha Movies HD
@@ -253,8 +241,6 @@ https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 #EXTINF:-1 tvg-id="244000" tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="𝐊𝐢𝐝𝐬",Crazy Ex
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
-#EXTINF:-1 tvg-id="ekushey.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png" group-title="Bangladeshi",Ekushay TV (Local)
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="enter10bangla.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 tvg-id="sonyaathhd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",SONY AATH HD
@@ -293,8 +279,6 @@ https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 #EXTINF:-1 group-title="FIFA 2026"tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png",Server 2
 https://live1.streambylivepulse.com/live/channel5/playlist.m3u8
-#EXTINF:-1 group-title="FIFA 2026"tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png",Server 3
-https://pull.niues.live/live/stream-9912060_lhd.m3u8
 #EXTINF:-1 tvg-name="Fox Sports HD" group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",Fox Sports HD
 http://206.212.244.63/63/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1 Max Arabic" group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",Bein Sports 1 Max Arabic
