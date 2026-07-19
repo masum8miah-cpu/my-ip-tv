@@ -301,3 +301,19 @@ https://tfxo0gr4uqmtt8y41hcjugwzdkpjpptwzc3jt.100ycdn.com/live1.streambylivepuls
 https://live1.streambylivepulse.com/live/channel5/playlist.m3u8
 #EXTINF:-1 group-title="FIFA 2026"tvg-logo="https://i.postimg.cc/PJjvWTSM/Gemini-Generated-Image-9ob2rz9ob2rz9ob2.png",Server 3
 https://pull.niues.live/live/stream-9912060_lhd.m3u8
+#EXTINF:-1 tvg-name="Fox Sports HD" group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",Fox Sports HD
+http://206.212.244.63/63/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 1 Max Arabic" group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",Bein Sports 1 Max Arabic
+http://starhub.pro/live/farhat-3379/67897-913379/744517.ts
+#EXTINF:-1 tvg-name="Bein Sports" group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",Bein Sports
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-name="Bein Sports Tekrar" group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",Bein Sports Tekrar
+https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-name="QAZ Sports HD" group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",QAZ Sports HD
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 tvg-name="PTV Sports HD" group-title="FIFA 2026" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",PTV Sports HD
+http://103.165.93.31:8095/Fifa-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 1" group-title="Football",Bein Sports 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-name="A SPOR" group-title="Football",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
