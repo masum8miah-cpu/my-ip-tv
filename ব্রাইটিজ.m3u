@@ -158,14 +158,8 @@ http://103.175.73.12:8080/live/664/664_0.m3u8
 https://hls.assadikb.workers.dev/?url=https://babu.khelalive.top/vids/ix/stream.m3u8?id=akash-aath
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="sports",T Sports HD
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="sports",A Sports HD
-http://103.151.60.204:881/A-Sports/video.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="sports",Star Sports 1
-http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="sports",Star Sports 2
-http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="sports",beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="sports",beIN sports Xtra
@@ -176,12 +170,8 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 #EXTINF:-1 tvg-id="219000" tvg-name="Fighters" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="sports",Fighters
 https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
-#EXTINF:-1 tvg-name="Fox Sports HD" group-title="sports" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",Fox Sports HD
-http://206.212.244.63/63/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports" group-title="sports" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",Bein Sports
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-name="Bein Sports Tekrar" group-title="sports" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1784472658/file_00000000888c8207a61cdbe85211118a_yghnfi.png",Bein Sports Tekrar
-https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-name="A SPOR" group-title="sports" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="sports",beIN SPORTS 1 UHD
@@ -290,34 +280,6 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="𝐊𝐢𝐝𝐬",ZB Cartun TV
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="star_bharat_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR BHARAT HD1745045255.png" group-title="sports",STAR BHARAT HD
-http://monirul.bro.bd/sm/stream.php?id=star_bharat_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_gold_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR GOLD 2 HD1745043441.png" group-title="sports",STAR GOLD 2 HD
-http://monirul.bro.bd/sm/stream.php?id=star_gold_2_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_gold_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR GOLD HD1745034037.png" group-title="sports",STAR GOLD HD
-http://monirul.bro.bd/sm/stream.php?id=star_gold_hd&e=.m3u8
-#EXTINF:-1 tvg-id="ptv_sports_hd" tvg-logo="http://monirul.bro.bd/assets/images/PTV SPORTS HD1745044993.png" group-title="sports",PTV SPORTS HD
-http://monirul.bro.bd/sm/stream.php?id=ptv_sports_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 1 hd.png" group-title="sports",SONY SPORTS 1 HD
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_1_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 2 hd.png" group-title="sports",SONY SPORTS 2 HD
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_2_hd&e=.m3u8
-#EXTINF:-1 tvg-id="sony_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/Sony sports 3.png" group-title="sports",SONY SPORTS 3
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_3&e=.m3u8
-#EXTINF:-1 tvg-id="sony_sports_4" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 4.png" group-title="sports",SONY SPORTS 4
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_4&e=.m3u8
-#EXTINF:-1 tvg-id="sony_sports_5_hd" tvg-logo="http://monirul.bro.bd/assets/images/sony sports 5 hd.png" group-title="sports",SONY SPORTS 5 HD
-http://monirul.bro.bd/sm/stream.php?id=sony_sports_5_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_select_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SELECT 1 HD1745038777.png" group-title="sports",STAR SELECT 1 HD
-http://monirul.bro.bd/sm/stream.php?id=star_select_1_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_sports_1_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 1 HD1744991778.png" group-title="sports",STAR SPORTS 1 HD
-http://monirul.bro.bd/sm/stream.php?id=star_sports_1_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_sports_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 2 HD1744991842.png" group-title="sports",STAR SPORTS 2 HD
-http://monirul.bro.bd/sm/stream.php?id=star_sports_2_hd&e=.m3u8
-#EXTINF:-1 tvg-id="star_sports_3" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS 31745039893.png" group-title="sports",STAR SPORTS 3
-http://monirul.bro.bd/sm/stream.php?id=star_sports_3&e=.m3u8
-#EXTINF:-1 tvg-id="star_sports_select_2_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR SPORTS SELECT 2 HD1745033722.png" group-title="sports",STAR SPORTS SELECT 2 HD
-http://monirul.bro.bd/sm/stream.php?id=star_sports_select_2_hd&e=.m3u8
 #EXTINF:-1 tvg-id="duranta_tv" tvg-logo="http://monirul.bro.bd/assets/images/DURANTA TV1745043400.png" group-title="𝐊𝐢𝐝𝐬",DURANTA TV
 http://monirul.bro.bd/sm/stream.php?id=duranta_tv&e=.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Colors Bangla
@@ -330,3 +292,27 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://monirul.bro.bd/sm/stream.php?id=madani_tv_hd&e=.m3u8
 #EXTINF:-1 tvg-id="peace_tv_bangla" tvg-logo="http://monirul.bro.bd/assets/images/PEACE TV BANGLA1745044480.png" group-title="Religion",PEACE TV BANGLA
 http://monirul.bro.bd/sm/stream.php?id=peace_tv_bangla&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="sports",T Sports
+http://dvltv.cc:8080/live/Livetv66/55887799/408.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="sports",T Sports HD
+http://dvltv.cc:8080/live/Livetv66/55887799/409.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="sports",Star Sports 1
+http://dvltv.cc:8080/live/Livetv66/55887799/398.ts
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="sports",Star Sports SL 1
+http://dvltv.cc:8080/live/Livetv66/55887799/403.ts
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="sports",Sony Ten 1
+http://dvltv.cc:8080/live/Livetv66/55887799/404.ts
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="sports",Sony Ten 2
+http://dvltv.cc:8080/live/Livetv66/55887799/405.ts
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/red-bull-tv.png" group-title="sports" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Red Bull TV
+#EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
+https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd/en/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png" group-title="sports" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sony Sports Ten 5
+#EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
+https://fifa.assadikb.workers.dev/?id=sony_sports_5_hd
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-2.png" group-title="sports" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sony Sports Ten 2
+#EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
+https://fifa.assadikb.workers.dev/?id=sony_sports_2_hd
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link" group-title="sports" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sony Sports Ten 1
+#EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
+https://fifa.assadikb.workers.dev/?id=sony_sports_1_hd
