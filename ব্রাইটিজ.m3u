@@ -121,20 +121,10 @@ http://103.175.73.12:8080/live/646/646_0.m3u8
 http://103.175.73.12:8080/live/53/53_0.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Movie
 http://103.175.73.12:8080/live/51/51_0.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Hindi",SONY MAX HD
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Hindi",SONY MAX
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max&e=.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Hindi",SONY MAX 2
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonymax_2&e=.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="Hindi",Zee TV HD
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_tv_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="Hindi",Zee Anmol
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=zee_anmol&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
 http://103.191.99.248:5550/302/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Jalsha Movies HD
-http://103.191.99.248:5550/303/index.m3u8
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FJalsha_Movie%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
 http://27.124.71.27/Zee_Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png"group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Enter 10 Bangla
@@ -184,10 +174,6 @@ http://103.175.73.12:8080/live/155/155_0.m3u8
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/hPFhzrTG/20250529_121624.png",yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/Noboruptvnew.jpeg" group-title="𝐌𝐮𝐬𝐢𝐜",Music Bangla 2025
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="𝐌𝐮𝐬𝐢𝐜",B4U Music
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=b4u_music&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="𝐌𝐮𝐬𝐢𝐜",Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1  group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png",9XM TV
@@ -280,18 +266,12 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="𝐊𝐢𝐝𝐬",ZB Cartun TV
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="duranta_tv" tvg-logo="http://monirul.bro.bd/assets/images/DURANTA TV1745043400.png" group-title="𝐊𝐢𝐝𝐬",DURANTA TV
-http://monirul.bro.bd/sm/stream.php?id=duranta_tv&e=.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Colors Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1 tvg-id="BanglaJagoTV" tvg-logo="https://banglajagotv.com/wp-content/themes/BANGLAJAGOTV/images/logo.png" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",IN | Bangla Jago TV
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="madani_tv_hd" tvg-logo="http://monirul.bro.bd/assets/images/MADANI TV HD1745044303.png" group-title="Religion",MADANI TV HD
-http://monirul.bro.bd/sm/stream.php?id=madani_tv_hd&e=.m3u8
-#EXTINF:-1 tvg-id="peace_tv_bangla" tvg-logo="http://monirul.bro.bd/assets/images/PEACE TV BANGLA1745044480.png" group-title="Religion",PEACE TV BANGLA
-http://monirul.bro.bd/sm/stream.php?id=peace_tv_bangla&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="sports",T Sports
 http://dvltv.cc:8080/live/Livetv66/55887799/408.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="sports",T Sports HD
