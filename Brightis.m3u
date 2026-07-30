@@ -228,7 +228,7 @@ http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Star Sports 1 (server1)
 http://monirul.bro.bd/sm/stream.php?id=star_sports_1_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Star Sports 1 Hindi
-http://103.253.18.58:8000/play/a03o
+https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=XCeg2aguG4ncj4PwfwwETw&expires=1785342019
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",PTV Sports
 http://monirul.bro.bd/sm/stream.php?id=ptv_sports_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow HD
@@ -236,13 +236,13 @@ https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=RmV_m3IhEuyeoAtv6kJFCA&e
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Willow HD 2
 https://cdn10.zohanayaan.com:1686/hls/willowextra.m3u8?md5=IKb_6uFjpfmBqoKjE0fzlQ&expires=1785342019
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Ten Sports (server2)
-https://cdn7.zohanayaan.com:1686/hls/tenspk.m3u8?md5=-V_X6uNl0hCjIEoHJ-5tSQ&expires=1785342019
+https://fifa.assadikb.workers.dev/?id=ten_cricket
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",A Sports HD
 http://monirul.bro.bd/sm/stream.php?id=a_sports_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Sky Sports Cricket
-https://xemzi.short.gy/2000006
+https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=tLewvoBEQOPKTZYmKrODEw&expires=1785342019
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",Sky Sports F1
-https://xemzi.short.gy/2000005
+https://cdn4.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=5YxlXG4HNNkq5nARxXQ6mQ&expires=1785342021
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",ESPN 2
 https://cdn8.zohanayaan.com:1686/hls/espn2.m3u8?md5=Y_3w7VvXxEPZyjw7XVY_gQ&expires=1785342021
 #EXTINF:-1 group-title="sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",beIN Sports 1
