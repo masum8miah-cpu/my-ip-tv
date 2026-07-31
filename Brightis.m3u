@@ -331,3 +331,19 @@ https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" group-title="English movie",Originals
 https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English movie",And Flix HD
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max-hd.png" group-title="Hindi" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sony MAX HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max2.png" group-title="Hindi" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sony MAX2
+https://fifa.assadikb.workers.dev/?id=sonymax_2
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max.png" group-title="Hindi" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sony MAX
+https://fifa.assadikb.workers.dev/?id=sony_max
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png" group-title="Hindi" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sony HD (SET HD)
+https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png" group-title="Hindi" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Colors Cineplex HD
+https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" group-title="Hindi" http-user-agent="okhttp/5.1.0",Sony Entertainment Television
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyentertainmnt_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" group-title="Hindi" http-user-agent="okhttp/5.1.0",Sony Entertainment Television HD
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m3u8
