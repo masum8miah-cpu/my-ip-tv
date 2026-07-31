@@ -259,8 +259,6 @@ https://tvsen5.aynaott.com/espn/index.m3u8
 https://tvsen7.aynaott.com/tsn1/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://imglink.cc/cdn/u7SqaFacbH.png",TSN 2
 https://tvsen7.aynaott.com/tsn2/index.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/ten-sports.png" group-title="sports" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Ten Sports (server1)
-https://fifa.assadikb.workers.dev/?id=ten_cricket
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/SRKS6TwR/20240823_022008.png",9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hz6tG8D/20250529_121941.png" group-title="𝐌𝐮𝐬𝐢𝐜",Zoom
@@ -275,8 +273,6 @@ https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=3006&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" group-title="𝐌𝐮𝐬𝐢𝐜" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="𝐊𝐢𝐝𝐬",Gopal Bhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbKqj0w3/1000086946.jpg" group-title="𝐊𝐢𝐝𝐬",Moto Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TomandJerry2" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="𝐊𝐢𝐝𝐬",0. Tom and Jerry 2
