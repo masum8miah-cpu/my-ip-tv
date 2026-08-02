@@ -10,7 +10,7 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_news&format=.m3u8
 #EXTINF:-1 tvg-id="star_news" tvg-name="Star News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_4c8e446a0a7c9f1c28fd6aef2c19132d_playmist_star_news400x400.jpg" group-title="Bangladeshi",Star News
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=star_news&format=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png" group-title="Bangladeshi" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Desh TV
-https://ftp.assadikb.workers.dev/stream.m3u8?id=desh_tv
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="188000" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Bangladeshi",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-id="atn_bangla" tvg-name="ATN Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/3a36a406fcc9616cd0b32514bb29eb36.jpg" group-title="Bangladeshi",ATN Bangla
@@ -192,9 +192,9 @@ https://cdn4.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=5YxlXG4HNNkq5nARxXQ6mQ&ex
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" group-title="sports" http-referrer="https://executeandship.com/" referrer="https://executeandship.com/",ESPN 2
 https://cdn8.zohanayaan.com:1686/hls/espn2.m3u8?md5=Y_3w7VvXxEPZyjw7XVY_gQ&expires=1785342021
 #EXTINF:-1 group-title="sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",beIN Sports 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",beIN Sports 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+http://145.239.5.177:80/559/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",beIN Sports 3
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg",beIN Sports Xtra 720p
