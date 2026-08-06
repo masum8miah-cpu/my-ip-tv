@@ -155,8 +155,6 @@ https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w5722
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" tvg-id="" tvg-name="" group-title="Bangladeshi",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" tvg-id="MovieBanglaTV" tvg-name="" group-title="Bangladeshi",Movie Bangla TV
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 # Group: Hindi
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" tvg-id="" tvg-name="Zee Anmol TV" group-title="Hindi",Zee Anmol TV
@@ -215,10 +213,6 @@ https://fifa.assadikb.workers.dev/?id=sony_max
 https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png" tvg-id="" tvg-name="" group-title="Hindi",Colors Cineplex HD
 https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" tvg-id="" tvg-name="" group-title="Hindi",Sony Entertainment Television
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonyentertainmnt_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp" tvg-id="" tvg-name="" group-title="Hindi",Sony Entertainment Television HD
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_entertainment&e=.m3u8
 
 # Group: sports
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" tvg-id="" tvg-name="" group-title="sports",T Sports HD
@@ -341,6 +335,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",Sony Yay Bangla
 https://fifa.assadikb.workers.dev/?id=sonyyay
+#EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",ZB Cartun TV
+https://server.zillarbarta.com/zbcatun/video.m3u8
 
 # Group: 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" tvg-id="" tvg-name="" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Discovery  HD
