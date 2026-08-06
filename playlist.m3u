@@ -117,8 +117,6 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_news&format=.m3u8
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=star_news&format=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png" tvg-id="" tvg-name="" group-title="Bangladeshi",Desh TV
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=desh_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" tvg-id="188000" tvg-name="Channel 9 HD" group-title="Bangladeshi",Channel 9 HD
-https://sm-monirul.top/@monirul_Islam_SM/play/jamuna_tv.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/3a36a406fcc9616cd0b32514bb29eb36.jpg" tvg-id="atn_bangla" tvg-name="ATN Bangla" group-title="Bangladeshi",ATN Bangla
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_bangla&format=.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" tvg-id="229000" tvg-name="Maasranga TV" group-title="Bangladeshi",Maasranga TV
@@ -132,9 +130,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" tvg-id="100000" tvg-name="Bangla Vision" group-title="Bangladeshi",Bangla Vision
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bangla_vision&format=.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" tvg-id="247000" tvg-name="Independent TV " group-title="Bangladeshi",Independent TV
-https://sm-monirul.top/@monirul_Islam_SM/play/independent_tv.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" tvg-id="6" tvg-name="Ekattor HD" group-title="Bangladeshi",Ekattor HD
-https://sm-monirul.top/@monirul_Islam_SM/play/ekattor_tv.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nagorik-tv.png" tvg-id="" tvg-name="" group-title="Bangladeshi",Nagorik Tv
 http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189283848.png" tvg-id="23" tvg-name="Ekhon TV" group-title="Bangladeshi",Ekhon TV
@@ -317,10 +313,6 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Sun Bangla
 https://madanitv.assadikb.workers.dev/live.php?id=1669&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" tvg-id="sonyaathhd.in" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",SONY AATH HD
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" tvg-id="sonyaathhd.in" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",SONY AATH HD
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 # Group: 𝐌𝐮𝐬𝐢𝐜
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRKS6TwR/20240823_022008.png" tvg-id="" tvg-name="" group-title="𝐌𝐮𝐬𝐢𝐜",9XM
@@ -351,8 +343,6 @@ https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" tvg-id="211000" tvg-name="Joy" group-title="𝐊𝐢𝐝𝐬",Joy
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
-#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" tvg-id="213000" tvg-name="Funny Junior HD" group-title="𝐊𝐢𝐝𝐬",Funny Junior HD
-https://sm-monirul.top/@monirul_Islam_SM/play/ekattor_tv.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png" tvg-id="242000" tvg-name="Nikki" group-title="𝐊𝐢𝐝𝐬",Nikki
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" tvg-id="244000" tvg-name="Crazy Ex" group-title="𝐊𝐢𝐝𝐬",Crazy Ex
