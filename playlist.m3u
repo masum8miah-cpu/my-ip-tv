@@ -20,7 +20,7 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_bangla&format=.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" tvg-id="229000" tvg-name="Maasranga TV" group-title="Bangladeshi",Maasranga TV
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" tvg-id="132000" tvg-name="Channel I HD" group-title="Bangladeshi",Channel I HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
+https://sm-monirul.top/@monirul_Islam_SM/play/ekattor_tv.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" tvg-id="100000" tvg-name="Bangla Vision" group-title="Bangladeshi",Bangla Vision
 http://playshare.co:8080/live/9585959/969659955/426.ts
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" tvg-id="247000" tvg-name="Independent TV " group-title="Bangladeshi",Independent TV
@@ -34,7 +34,7 @@ http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png" tvg-id="14" tvg-name="BTV" group-title="Bangladeshi",BTV
 http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8?hdnts=st%3D1785434441~exp%3D1785456041~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-wion%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F20c3c0d9-0256-43fe-bca6-70fdd490b957%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.40.212.240_yuppfast_2_channel_14_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.40.212.240_yuppfast_2_channel_14_-1~hmac%3Dd4dd758b33aa95479baa428e0115ab796d90252e61709c99c40e90c0562b5be3
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" tvg-id="17" tvg-name="Deepto TV HD" group-title="Bangladeshi",Deepto TV HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
+https://sm-monirul.top/@monirul_Islam_SM/play/ekattor_tv.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189283848.png" tvg-id="23" tvg-name="Ekhon TV" group-title="Bangladeshi",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" tvg-id="24" tvg-name="SRK TV" group-title="Bangladeshi",SRK TV
@@ -93,8 +93,6 @@ http://103.175.73.12:8080/live/13/13_0.m3u8
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" tvg-id="" tvg-name="MK Six" group-title="Hindi",MK Six
 https://cdn-3.pishow.tv/live/1253/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png" tvg-id="" tvg-name="" group-title="Hindi",& Picture
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png" tvg-id="" tvg-name="" group-title="Hindi",& Tv
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png" tvg-id="" tvg-name="" group-title="Hindi",Zee Tv
@@ -121,10 +119,14 @@ http://103.175.73.12:8080/live/51/51_0.m3u8
 http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" tvg-id="" tvg-name="" group-title="Hindi",Manoranjan Movies
 http://103.175.73.12:8080/live/23/23_0.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max-hd.png" tvg-id="" tvg-name="" group-title="Hindi",Sony MAX HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max2.png" tvg-id="" tvg-name="" group-title="Hindi",Sony MAX2
 https://fifa.assadikb.workers.dev/?id=sonymax_2
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max.png" tvg-id="" tvg-name="" group-title="Hindi",Sony MAX
 https://fifa.assadikb.workers.dev/?id=sony_max
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png" tvg-id="" tvg-name="" group-title="Hindi",Sony HD (SET HD)
+https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-cineplex-hd.png" tvg-id="" tvg-name="" group-title="Hindi",Colors Cineplex HD
 https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp" tvg-id="" tvg-name="" group-title="Hindi",Sony Entertainment Television
@@ -221,10 +223,6 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sun-bangla.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Sun Bangla
 https://madanitv.assadikb.workers.dev/live.php?id=1669&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" tvg-id="sonyaathhd.in" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",SONY AATH HD
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" tvg-id="sonyaathhd.in" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",SONY AATH HD
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 # Group: 𝐌𝐮𝐬𝐢𝐜
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRKS6TwR/20240823_022008.png" tvg-id="" tvg-name="" group-title="𝐌𝐮𝐬𝐢𝐜",9XM
@@ -256,7 +254,7 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" tvg-id="211000" tvg-name="Joy" group-title="𝐊𝐢𝐝𝐬",Joy
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" tvg-id="213000" tvg-name="Funny Junior HD" group-title="𝐊𝐢𝐝𝐬",Funny Junior HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
+https://sm-monirul.top/@monirul_Islam_SM/play/ekattor_tv.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png" tvg-id="242000" tvg-name="Nikki" group-title="𝐊𝐢𝐝𝐬",Nikki
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" tvg-id="244000" tvg-name="Crazy Ex" group-title="𝐊𝐢𝐝𝐬",Crazy Ex
