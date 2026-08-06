@@ -3,10 +3,12 @@
 # Group: Bonus Channels
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png" tvg-id="" tvg-name="" group-title="Bonus Channels",BTV National
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_national_hd&format=.m3u8
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Somoy TV
-https://sm-monirul.top/@monirul_Islam_SM/play/somoy_tv.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" tvg-id="185000" tvg-name="DBC News HD" group-title="Bonus Channels",DBC News HD
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dbc_news&format=.m3u8
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" tvg-id="100000" tvg-name="Bangla Vision" group-title="Bonus Channels",Bangla Vision
+http://playshare.co:8080/live/9585959/969659955/426.ts
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" tvg-id="99000" tvg-name="NTV" group-title="Bonus Channels",NTV
+https://sm-monirul.top/@monirul_Islam_SM/play/n_tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/deepto-tv-seeklogo.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNvkbdL4/1000114150.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Star movies
@@ -15,8 +17,6 @@ http://66.102.126.10:8000/play/a021/index.m3u8
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg" tvg-id="" tvg-name="" group-title="Bonus Channels",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tbn24.com/logo.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Star Gold
-http://66.102.126.10:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexHD.png" tvg-id="" tvg-name="" group-title="Bonus Channels",COLORS CINEPLEX HD
 http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsCineplexBollywood.png" tvg-id="colorscineplexbollywood" tvg-name="" group-title="Bonus Channels",Colors Cineplex Bollywood
@@ -31,284 +31,74 @@ https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a4
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/news18-bangla-news.png" tvg-id="" tvg-name="" group-title="Bonus Channels",News18 Bangla News
 https://is.gd/uRBzMk
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/al-jazeera.png" tvg-id="" tvg-name="" group-title="Bonus Channels",AL Jazeera
-https://hls.assadikb.workers.dev/?url=https://babu.khelalive.top/vids/ix/stream.m3u8?id=al-jazeera
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/enterr10-bangla.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Enterr10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-hd.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Colors HD
-http://66.102.126.10:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4be60fcb499d59949c222f746ece58f4_playmist_jamuna_tv_400x400.jpg" tvg-id="jamuna_tv" tvg-name="Jamuna TV" group-title="Bonus Channels",Jamuna TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=jamuna_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82f2d197736c65ee983b3d691ad7c1f3_playmist_channel24.png" tvg-id="channel_24" tvg-name="Channel 24" group-title="Bonus Channels",Channel 24
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_24&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d7df8a2523be6a1fc0c54ddafc046dc2_playmist_independent_400x400.jpg" tvg-id="independent_tv" tvg-name="Independent TV" group-title="Bonus Channels",Independent TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=independent_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c05517a566e36853dc54d325a24921ad_playmist_time_tv_usa400x400.jpg" tvg-id="time_tv_usa" tvg-name="TIME TV USA" group-title="Bonus Channels",TIME TV USA
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=time_tv_usa&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-01/images_99c9ba1977777337bdc037f79ed921ea_playmist_channel_i_500x296.jpg" tvg-id="channel_i" tvg-name="Channel I" group-title="Bonus Channels",Channel I
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_73ae9b4f27a23375a0308a3b222ee649_playmist_ntv_400x400.jpg" tvg-id="ntv" tvg-name="NTV" group-title="Bonus Channels",NTV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ntv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_8b38d691dfaf072e6c964dea814a44ba_playmist_t_sports_hd400x400.jpg" tvg-id="t_sports_hd" tvg-name="T Sports HD" group-title="Bonus Channels",T Sports HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=t_sports_hd&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_15c72a2cb794593278c9e7efe4df32d5_playmist_bangla_vision_400x400.jpg" tvg-id="bangla_vision" tvg-name="Bangla Vision" group-title="Bonus Channels",Bangla Vision
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bangla_vision&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d6c5ece652161d2d88ed547f00343687_playmist_rtv_400x400.jpg" tvg-id="rtv" tvg-name="RTV" group-title="Bonus Channels",RTV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=rtv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9a9da509523ff5fa2e65e262fe3d0125_playmist_maasranga_tv_400x400.jpg" tvg-id="maasranga_tv" tvg-name="Maasranga TV" group-title="Bonus Channels",Maasranga TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=maasranga_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_608bd1c995275bd65872dae5b2be9ba0_playmist_duronto_tv_400x400.jpg" tvg-id="duronto_tv" tvg-name="Duronto TV" group-title="Bonus Channels",Duronto TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=duronto_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0b5269c6ae6e8c382e43c2be02789c60_playmist_etv_400x400.jpg" tvg-id="etv" tvg-name="ETV" group-title="Bonus Channels",ETV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=etv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_ebcb173e194bfeede20303e348b80999_playmist_deepto_tv_400x400.jpg" tvg-id="deepto_tv" tvg-name="Deepto TV" group-title="Bonus Channels",Deepto TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=deepto_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_2ae0833e484c0a032e46050cbb8c9cc0_playmist_ekhon_tv_400x400.jpg" tvg-id="ekhon_tv" tvg-name="Ekhon TV" group-title="Bonus Channels",Ekhon TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ekhon_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_d5ddbbec6b7919b1003233819616e19b_playmist_ekattor_tv_400x400.jpg" tvg-id="ekattor_tv" tvg-name="Ekattor TV" group-title="Bonus Channels",Ekattor TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ekattor_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_5704c544bcbe25521134b299a0298be7_playmist_ptv_sports_400x400.jpg" tvg-id="ptv_sports" tvg-name="PTV Sports" group-title="Bonus Channels",PTV Sports
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ptv_sports&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_9bd5db31bbc4d98defd1cb51a5606d9c_playmist_unite_sports_2.jpg" tvg-id="unite8_sports_2" tvg-name="Unite8 Sports 2" group-title="Bonus Channels",Unite8 Sports 2
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=unite8_sports_2&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-20/images_d165c628a0db9286da3914ca916a4971_playmist_tsn_1400x400.jpg" tvg-id="tsn_1" tvg-name="TSN 1" group-title="Bonus Channels",TSN 1
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tsn_1&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c92bf4f46958e65be6cc370e3fc1f0dd_playmist_tsn_2_400x400.jpg" tvg-id="tsn_2" tvg-name="TSN 2" group-title="Bonus Channels",TSN 2
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tsn_2&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-19/images_905f151dfde79e14a2b9e7b934683ba6_playmist_tsn3_300.jpg" tvg-id="tsn_3" tvg-name="TSN 3" group-title="Bonus Channels",TSN 3
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tsn_3&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_1bb4b50bd8e39a63808ed6fa38beb0df_playmist_willow_hd_tv_400x400.jpg" tvg-id="willow_tv" tvg-name="Willow TV" group-title="Bonus Channels",Willow TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=willow_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_02eb54f07cbc8c01db3c545aca60d37c_playmist_4g.jpg" tvg-id="bein_sports_1" tvg-name="Bein Sports 1" group-title="Bonus Channels",Bein Sports 1
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bein_sports_1&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg" tvg-id="espn" tvg-name="ESPN" group-title="Bonus Channels",ESPN
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=espn&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_552c5631b1d8ba169911ab3d7bc3952a_playmist_a_sports_hd_400x400.jpg" tvg-id="a_sports" tvg-name="A Sports" group-title="Bonus Channels",A Sports
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=a_sports&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_cadf0a534c4de626332004067cee3103_playmist_nfl_network400x400.jpg" tvg-id="nfl_network" tvg-name="NFL Network" group-title="Bonus Channels",NFL Network
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=nfl_network&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_c1c4607b44cda506121e777ebeafffce_playmist_bleav_football_400x400.jpg" tvg-id="bleav_football" tvg-name="Bleav Football" group-title="Bonus Channels",Bleav Football
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bleav_football&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/63dcbec8a9ed027c46e448fb003a0a64.jpg" tvg-id="cricket_gold" tvg-name="Cricket Gold" group-title="Bonus Channels",Cricket Gold
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=cricket_gold&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_5c48c1df205227964277087b833a9912_playmist_bt_sport_2400x400.jpg" tvg-id="bt_sports_2" tvg-name="BT Sports 2" group-title="Bonus Channels",BT Sports 2
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bt_sports_2&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_4af9a282522f487a6ed41692f99baad6_playmist_tnt_sports_1400x400.jpg" tvg-id="tnt_sport_1" tvg-name="TNT Sport 1" group-title="Bonus Channels",TNT Sport 1
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tnt_sport_1&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c3b7a42d7ce8dd21ce151178bca8715d_playmist_dd_sports_400x400.jpg" tvg-id="dd_sports" tvg-name="DD Sports" group-title="Bonus Channels",DD Sports
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dd_sports&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_bf450d05727fd678bee456e883af98e8_playmist_golf_channel_400x400.jpg" tvg-id="golf_channel" tvg-name="Golf Channel" group-title="Bonus Channels",Golf Channel
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=golf_channel&format=.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d60be6284234186c03d07a4ad176bcb4" tvg-id="gazi_tv" tvg-name="Gazi TV" group-title="Bonus Channels",Gazi TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=gazi_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_c852d6eba40e680a258e9e18aff2d9f2_playmist_desh_tv_400x400.jpg" tvg-id="desh_tv" tvg-name="Desh TV" group-title="Bonus Channels",Desh TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=desh_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8a69251df11b66c4e85e7a2fe6d89286_playmist_boishakhi_tv_400x400.jpg" tvg-id="boishakhi_tv" tvg-name="Boishakhi TV" group-title="Bonus Channels",Boishakhi TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=boishakhi_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0f3afa480f77dd7d97d49b449a05f3fa_playmist_channel_9_400x400.jpg" tvg-id="channel_9" tvg-name="Channel 9" group-title="Bonus Channels",Channel 9
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_9&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_a5ac9561e182c07073e46bc30b3c8cab_playmist_asian_tv.png" tvg-id="asian_tv" tvg-name="Asian TV" group-title="Bonus Channels",Asian TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=asian_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png" tvg-id="sa_tv" tvg-name="SA TV" group-title="Bonus Channels",SA TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sa_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8fd7517559098b744a0595d094228d8d_playmist_bangla_tv_400x400.jpg" tvg-id="bangla_tv" tvg-name="Bangla TV" group-title="Bonus Channels",Bangla TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bangla_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1c2c83a36e990c46964ce6ef25528d84_playmist_mohona_tv400x400.jpg" tvg-id="mohona_tv" tvg-name="Mohona TV" group-title="Bonus Channels",Mohona TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=mohona_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_7e6104384dddd36f39e1a27fe0a61059_playmist_nexus_tv_400x400.jpg" tvg-id="nexus_tv" tvg-name="NEXUS TV" group-title="Bonus Channels",NEXUS TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=nexus_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82c9c8c5aa07c6b94a62cf2ffbe21375_playmist_bijoy_tv_400x400.jpg" tvg-id="bijoy_tv" tvg-name="Bijoy TV" group-title="Bonus Channels",Bijoy TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bijoy_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_e58bddfe000aa3e5df9f7c2e90416d90_playmist_global_tv_400x400.jpg" tvg-id="global_tv" tvg-name="Global TV" group-title="Bonus Channels",Global TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=global_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_6131ede1b10602da29f1271fff0cda77_playmist_my_tv_400x400.jpg" tvg-id="my_tv" tvg-name="My TV" group-title="Bonus Channels",My TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=my_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_fb867854a7203c153946b83ab4e972e6_playmist_ananda_tv_400x400.jpg" tvg-id="ananda_tv" tvg-name="Ananda TV" group-title="Bonus Channels",Ananda TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ananda_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_e50aa586435e7c34aca4fedb8aa0d9da_playmist_green_tv.jpg" tvg-id="green_tv_hd" tvg-name="Green TV HD" group-title="Bonus Channels",Green TV HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=green_tv_hd&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_9ea3bc79ad1fad76ae1ef2e1dd3c1b42_playmist_btv_world_400x400.jpg" tvg-id="btv_world" tvg-name="BTV World" group-title="Bonus Channels",BTV World
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_world&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/b994ae24dd627fb8b680e5cd654d1e9c.jpg" tvg-id="btv_ctg" tvg-name="BTV CTG" group-title="Bonus Channels",BTV CTG
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_ctg&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_0ec7deccac559ad2e22206dae03454e1_playmist_r_plus_400x400.jpg" tvg-id="r_plus" tvg-name="R Plus" group-title="Bonus Channels",R Plus
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=r_plus&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_454ca4e52d414605814d0f4778fd8137_playmist_rupshi_bangla400x400.jpg" tvg-id="rupshi_bangla" tvg-name="Rupshi Bangla" group-title="Bonus Channels",Rupshi Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=rupshi_bangla&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_68b8c3bbc8b629bbc2c00880b4546d74_playmist_sangeet_bangla400x400.jpg" tvg-id="sangeet_bangla" tvg-name="Sangeet Bangla" group-title="Bonus Channels",Sangeet Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sangeet_bangla&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_ffb6c3be0674cf2d59f66c78d4da5b9a_playmist_news_time_bangla_400x400.jpg" tvg-id="news_time_bangla" tvg-name="News Time Bangla" group-title="Bonus Channels",News Time Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=news_time_bangla&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_bea6d56aa19a59e2bc272736880a97f3_playmist_bbc_news_400x400.jpg" tvg-id="bbc_news" tvg-name="BBC News" group-title="Bonus Channels",BBC News
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bbc_news&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_e9cbcb0f33668b33e4b5dd06143aa1c6_playmist_dw400x400.jpg" tvg-id="dw_news" tvg-name="DW News" group-title="Bonus Channels",DW News
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dw_news&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3ce5ce236141274767c8ee8148b88a5d_playmist_cnn_400x400.jpg" tvg-id="cnn" tvg-name="CNN" group-title="Bonus Channels",CNN
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=cnn&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c8ecdf803a94e7b04619fb573f201146_playmist_aljazeera_news400x400.jpg" tvg-id="aljazeera_news" tvg-name="Aljazeera News" group-title="Bonus Channels",Aljazeera News
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=aljazeera_news&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e7674693d1fdcfada9523f3b4315d417_playmist_bloomberg_tv_400x400.jpg" tvg-id="bloomberg_tv" tvg-name="Bloomberg TV" group-title="Bonus Channels",Bloomberg TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bloomberg_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a806cf1e3ba0981e00a8f340fab8a6f8_playmist_abc_news_400x400.jpg" tvg-id="abc_news" tvg-name="ABC News" group-title="Bonus Channels",ABC News
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=abc_news&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e67654cc3d37f4eda1a16709b2b88f6d_playmist_cnbc_tv_400x400.jpg" tvg-id="cnbc_tv" tvg-name="CNBC TV" group-title="Bonus Channels",CNBC TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=cnbc_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_eaacf02e8523f40c627b8234c614963d_playmist_cp_24_400x400.jpg" tvg-id="cp_24" tvg-name="CP 24" group-title="Bonus Channels",CP 24
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=cp_24&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8d6efb719d7295f50d5cbb49e3a11a0f_playmist_fox_news400x400.jpg" tvg-id="fox_news" tvg-name="Fox News" group-title="Bonus Channels",Fox News
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=fox_news&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_245b453c334a625e5049ee95e8a1eb13_playmist_sky_news_400x400.jpg" tvg-id="sky_news" tvg-name="Sky News" group-title="Bonus Channels",Sky News
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sky_news&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_8610a5f1c975ccf85e23a6077de2f1f2_playmist_abn.jpg" tvg-id="abn" tvg-name="ABN " group-title="Bonus Channels",ABN
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=abn&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c7e1c6e2ec548dee61a1a754955b76e1_playmist_india_today400x400.jpg" tvg-id="india_today" tvg-name="India Today" group-title="Bonus Channels",India Today
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=india_today&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_bf19837ffd975c6258a0f5ee993d73d1_playmist_iran_press400x400.jpg" tvg-id="iran_press" tvg-name="Iran Press" group-title="Bonus Channels",Iran Press
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=iran_press&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_ebb056ba1a466e52261aad45829a4160_playmist_dubai_tv400x400.jpg" tvg-id="dubai_tv" tvg-name="Dubai TV" group-title="Bonus Channels",Dubai TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dubai_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0d9da1f8dd16733fdcaed3729f89bca4" tvg-id="tv9_bharatvarsh" tvg-name="TV9 Bharatvarsh" group-title="Bonus Channels",TV9 Bharatvarsh
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tv9_bharatvarsh&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_c126a1f2ceda33dad15b71f1d3210b44_playmist_republic_tv_bharat_400x400.jpg" tvg-id="republic_tv_bharat" tvg-name="Republic TV Bharat" group-title="Bonus Channels",Republic TV Bharat
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=republic_tv_bharat&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f07da3fcbcf0b957c04c18d17bd612b_playmist_hindi_khabar_400x400.jpg" tvg-id="hindi_khabar" tvg-name="Hindi Khabar" group-title="Bonus Channels",Hindi Khabar
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hindi_khabar&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d52623f16135dea6bd76f7bdacd4b886_playmist_bharat_samachar_500x296.jpg" tvg-id="bharat_samachar" tvg-name="Bharat Samachar" group-title="Bonus Channels",Bharat Samachar
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bharat_samachar&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_86e9d3e52b45d2bb9c321b8168aa01e9_playmist_anb_news_400x400.jpg" tvg-id="anb_news" tvg-name="ANB News" group-title="Bonus Channels",ANB News
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=anb_news&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_292f3cc412bf05a14544657749e4a0be_playmist_news_1_india_400x400.jpg" tvg-id="news_1_india" tvg-name="News 1 India" group-title="Bonus Channels",News 1 India
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=news_1_india&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ad482966b8ccc41fc9bd98dd9382ff0d_playmist_sadhna_prime_news_400x400.jpg" tvg-id="sadhna_prime_news" tvg-name="Sadhna Prime News" group-title="Bonus Channels",Sadhna Prime News
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sadhna_prime_news&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a220fac6da08a832112ea4603c9a3c33_playmist_accu_weather_400x400.jpg" tvg-id="accu_weather" tvg-name="Accu Weather" group-title="Bonus Channels",Accu Weather
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=accu_weather&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c6a3d7e8d5ba4bd874a958a0c6f16e8e_playmist_fox_weather400x400.jpg" tvg-id="fox_weather" tvg-name="Fox Weather " group-title="Bonus Channels",Fox Weather
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=fox_weather&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c9929be9ffadd600f20e2d1c4fd26b95_playmist_sky_news_weather400x400.jpg" tvg-id="sky_news_weather" tvg-name="Sky News Weather" group-title="Bonus Channels",Sky News Weather
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sky_news_weather&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_12ff352e97642f2042f8e88a93eca33d_playmist_weather_spy400x400.jpg" tvg-id="weather_spy" tvg-name="Weather SPY" group-title="Bonus Channels",Weather SPY
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=weather_spy&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_31a018cec62068612c9dc5efa6b13856_playmist_life_time_400x400.jpg" tvg-id="life_time" tvg-name="LIFE TIME" group-title="Bonus Channels",LIFE TIME
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=life_time&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bad71649a48765ea1bfa3b043822e061_playmist_trt_world_400x400.jpg" tvg-id="trt_world" tvg-name="TRT World" group-title="Bonus Channels",TRT World
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=trt_world&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_79fbc39a1e2b6627305b440da7c524d7_playmist_mtv_400x400.jpg" tvg-id="mtv" tvg-name="MTV" group-title="Bonus Channels",MTV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=mtv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_fd05780c80bb076f35db9e243ee2d5f7_playmist_fox_5_400x400.jpg" tvg-id="fox_5" tvg-name="Fox 5" group-title="Bonus Channels",Fox 5
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=fox_5&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bbcc532afe02dc4d7edd093b4f3882c4_playmist_fox_business400x400.jpg" tvg-id="fox_business" tvg-name="Fox business" group-title="Bonus Channels",Fox business
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=fox_business&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5cd9688088c2f3b2201b17378bc5081c_playmist_cbs_tv_400x400.jpg" tvg-id="cbs_tv" tvg-name="CBS TV" group-title="Bonus Channels",CBS TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=cbs_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5a24c9ea31ddb4a1dd46cc0f11b79c8e_playmist_usa_tv_400x400.jpg" tvg-id="usa_tv" tvg-name="   	 USA TV" group-title="Bonus Channels",USA TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=usa_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_aac39f78c7d0e3df940fda4299217e86_playmist_fx_tv400x400.jpg" tvg-id="fx_tv" tvg-name="FX TV" group-title="Bonus Channels",FX TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=fx_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_8a12f27b8b702fb205273e384dbf83ab_playmist_weather_channel_400x400.jpg" tvg-id="weather_channel" tvg-name="WEATHER CHANNEL" group-title="Bonus Channels",WEATHER CHANNEL
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=weather_channel&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_48a2f0e255841fe6c7d77b642dd9a9b1_playmist_vtv_usa_400x400.jpg" tvg-id="vtv_usa" tvg-name="VTV USA" group-title="Bonus Channels",VTV USA
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=vtv_usa&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_af4d270a6fc7246b2dc185399cce7dbd_playmist_wion_400x400.jpg" tvg-id="wion" tvg-name="Wion" group-title="Bonus Channels",Wion
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=wion&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_50eab684012024afd51f7d4c4fcc7aa7_playmist_news_india_24x7_400x400.jpg" tvg-id="news_india_24x7" tvg-name="News India 24x7" group-title="Bonus Channels",News India 24x7
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=news_india_24x7&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_08717fb2d69f80063278b28057347175_playmist_abc_news_400x400.jpg" tvg-id="abc_7_bay" tvg-name="ABC 7 Bay" group-title="Bonus Channels",ABC 7 Bay
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=abc_7_bay&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/26530a5da6b296078125b8fe235e349f.jpg" tvg-id="fifa" tvg-name="FIFA+" group-title="Bonus Channels",FIFA+
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=fifa&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-06/images_25ab94e371e82ccbd0f03b2c7754c712_playmist_btv_national_400x400.jpg" tvg-id="btv_national" tvg-name="BTV National" group-title="Bonus Channels",BTV National
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_national&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_fc0d1242765efd4c1494fbfe4ff65c7a_playmist_enter_10_bangla400x400.jpg" tvg-id="enter_10_bangla" tvg-name="Enter 10 Bangla" group-title="Bonus Channels",Enter 10 Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=enter_10_bangla&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg" tvg-id="sony_aath" tvg-name="Sony AATH" group-title="Bonus Channels",Sony AATH
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sony_aath&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b9a8bdbfcea2fb4656204d06f615682a_playmist_thikana400x400.jpg" tvg-id="thikana" tvg-name="Thikana" group-title="Bonus Channels",Thikana
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=thikana&format=.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b7fc826556dc5d8465f5046ed959cf03" tvg-id="cartoon_network" tvg-name="Cartoon Network" group-title="Bonus Channels",Cartoon Network
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=cartoon_network&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_b29360e9b3bf9d3ce34bd67d06d7c004_playmist_and_pictures_hd_400x400.jpg" tvg-id="and_pictures_hd" tvg-name="And Pictures HD" group-title="Bonus Channels",And Pictures HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=and_pictures_hd&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_281d2359842d306ac384314f30059648_playmist_zee_24_ghanta_400x400.jpg" tvg-id="zee_24_ghanta" tvg-name="Zee 24 Ghanta" group-title="Bonus Channels",Zee 24 Ghanta
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=zee_24_ghanta&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/d37be82dbf29f05cbf9ecf97ce4ebce6.jpg" tvg-id="talk_sport" tvg-name="Talk Sport" group-title="Bonus Channels",Talk Sport
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=talk_sport&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_9cba0e4a98d7a55986c6b194441ac753_playmist_b4u_hitz_400x400.jpg" tvg-id="b4u_hitz" tvg-name="B4U Hitz" group-title="Bonus Channels",B4U Hitz
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=b4u_hitz&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-28/images_7eb39c04f7cf7ab782e6324c484d93e5_playmist_ntv_europe_400x400.jpg" tvg-id="ntv_europe" tvg-name="NTV Europe" group-title="Bonus Channels",NTV Europe
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ntv_europe&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_308780d623c52c9b477206d44a374ff3_playmist_dhoom_music_bangla_400x400.jpg" tvg-id="dhoom_music_bangla" tvg-name="Dhoom Music Bangla" group-title="Bonus Channels",Dhoom Music Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dhoom_music_bangla&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg" tvg-id="hindi_movie_classic_24" tvg-name="Hindi Movie Classic 24" group-title="Bonus Channels",Hindi Movie Classic 24
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hindi_movie_classic_24&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/1efe6869f35988df55cde8f973f3b5bd.jpg" tvg-id="drama_24" tvg-name="Drama 24" group-title="Bonus Channels",Drama 24
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=drama_24&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_4b0e2707eaa2037e3c13948ddce9be7b_playmist_movie_bangla_400x400.jpg" tvg-id="movie_bangla" tvg-name="Movie Bangla" group-title="Bonus Channels",Movie Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=movie_bangla&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_45a1af747f3728954d1e83ab457d8e53_playmist_republic_bangla_400x400.jpg" tvg-id="republic_bangla" tvg-name="Republic Bangla" group-title="Bonus Channels",Republic Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=republic_bangla&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_293d590e382ae09a9d8028c4c56d4ee3_playmist_music_india_400x400.jpg" tvg-id="music_india" tvg-name="Music India" group-title="Bonus Channels",Music India
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=music_india&format=.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/55f043e74c7bbb36ca4664b4fa8c9d9c" tvg-id="nickjr" tvg-name="Nickjr" group-title="Bonus Channels",Nickjr
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=nickjr&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_55fa6cf36df126454996a9e4cf7f8e85_playmist_peace_tv_bangla_hd_400x400.jpg" tvg-id="peace_tv_bangla_hd" tvg-name="Peace TV Bangla HD" group-title="Bonus Channels",Peace TV Bangla HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=peace_tv_bangla_hd&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/e0eb8b0468e84add45cf9dcedc27c612.jpg" tvg-id="goldmines_bollywood" tvg-name="Goldmines Bollywood" group-title="Bonus Channels",Goldmines Bollywood
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=goldmines_bollywood&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-05/thumbnails_e7c232fc971625f04bb5f1c464a92159_playmist_live_tv_placeholder.png" tvg-id="test_live_tv" tvg-name="Test Live TV" group-title="Bonus Channels",Test Live TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=test_live_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_9cd5e0424aa0759556a829aa36fd4121_playmist_dd_bangla400x400.jpg" tvg-id="dd_bangla" tvg-name="DD Bangla" group-title="Bonus Channels",DD Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dd_bangla&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg" tvg-id="kolkata_tv" tvg-name="kolkata TV" group-title="Bonus Channels",kolkata TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=kolkata_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/bf65e9176988a3523b45793c8f47bead" tvg-id="sports_fishing_tv" tvg-name="Sports Fishing TV" group-title="Bonus Channels",Sports Fishing TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sports_fishing_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e6222cfb0e0f7e22736f3496cc98a897_playmist_discovery_hd_400x400.jpg" tvg-id="discovery_hd" tvg-name="Discovery HD" group-title="Bonus Channels",Discovery HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=discovery_hd&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_665747d089b71dd7f26eb503b51abfed_playmist_9xm_400x400.jpg" tvg-id="9xm" tvg-name="9XM" group-title="Bonus Channels",9XM
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=9xm&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_d42ab13fe207d824670f04d717bfd88b_playmist_bein_sports.jpg" tvg-id="bein_sports" tvg-name="beIN SPORTS" group-title="Bonus Channels",beIN SPORTS
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bein_sports&format=.m3u8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f7bf0ed09ce9943149669a03acb4df70" tvg-id="disney_junior" tvg-name="Disney Junior" group-title="Bonus Channels",Disney Junior
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=disney_junior&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_178fd67f7c1b0e4143333962bc7600e7_playmist_dubai_sports_2_400x400.jpg" tvg-id="dubai_sports_1" tvg-name="Dubai Sports 1" group-title="Bonus Channels",Dubai Sports 1
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dubai_sports_1&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_db46edea3e5aae6a063369b686c1192d_playmist_goal_tv_400x400.jpg" tvg-id="goal_tv" tvg-name="Goal TV" group-title="Bonus Channels",Goal TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=goal_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_92666995d4995d2bb46b92598d2b3e48_playmist_disney_channel_400x400.jpg" tvg-id="disney_channel" tvg-name="Disney Channel" group-title="Bonus Channels",Disney Channel
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=disney_channel&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg" tvg-id="nat_geo_tv" tvg-name="Nat Geo TV" group-title="Bonus Channels",Nat Geo TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=nat_geo_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_4c08302f7fbe506a998e74c89fcf08ac_playmist_tv9_bangla_400x400.jpg" tvg-id="tv9_bangla" tvg-name="TV9 Bangla" group-title="Bonus Channels",TV9 Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=tv9_bangla&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_a49ebd8c1eabd8e7cc20297a0fda92f5_playmist_animal_planet_hd_400x400.jpg" tvg-id="animal_planet_hd" tvg-name="Animal Planet HD" group-title="Bonus Channels",Animal Planet HD
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=animal_planet_hd&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_d5f21c410f16519379a4ca7f1c4a14f5_playmist_zoom_tv400x400.jpg" tvg-id="zoom_tv" tvg-name="Zoom TV" group-title="Bonus Channels",Zoom TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=zoom_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_500x296.jpg" tvg-id="amc" tvg-name="Amc" group-title="Bonus Channels",Amc
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=amc&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_fa199bbc64f6fb27edca5b1205217dce_playmist_manoranjan_movies_400x400.jpg" tvg-id="manoranjan_movies" tvg-name="Manoranjan Movies" group-title="Bonus Channels",Manoranjan Movies
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=manoranjan_movies&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_3f22715a97b25bb49be73ed06edcabef_playmist_goldmines_movies_400x400.jpg" tvg-id="goldmines_movies" tvg-name="Goldmines Movies" group-title="Bonus Channels",Goldmines Movies
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=goldmines_movies&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_c5adf129be936d1f292d53f697e9e4ef_playmist_hbo400x400.jpg" tvg-id="hbo" tvg-name="HBO" group-title="Bonus Channels",HBO
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hbo&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg" tvg-id="hbo_2" tvg-name="HBO 2" group-title="Bonus Channels",HBO 2
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hbo_2&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_845fa61e4b31dbf35e442cd6037ed2e6_playmist_and_tv.jpg" tvg-id="and_tv" tvg-name="And tv" group-title="Bonus Channels",And tv
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=and_tv&format=.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-hindi.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Sonic Hindi
-http://live.balajibroadband.com:3500/live/815.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Sonic Bangla
-http://live.balajibroadband.com:3500/live/1345.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Nick Bangla
-http://live.balajibroadband.com:3500/live/1341.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzkJZV7Z/Hridoy-TV-new-channel-(16).webp" tvg-id="doraemon" tvg-name="" group-title="Bonus Channels",0. desney
-https://yowaimo.in/Sflex-ArtlPVT0719/DISNEY_CHANNEL.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" tvg-id="MotuPatlu" tvg-name="" group-title="Bonus Channels",0. WowKidz (Motu Patlu)
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-24-ghanta.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Iqraa TV
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Somoy Tv
+https://bongoflix.eamintalukdar.workers.dev/output/4XcqdovJzbbC9WdJA9gk.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2V7K9fD/20240822-230750.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Jamuna
+https://bongoflix.eamintalukdar.workers.dev/output/KGdZEdA7qQ43dmPkgk1j.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnBz3S8W/20240822-230603.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Ekattor HD
+https://bongoflix.eamintalukdar.workers.dev/output/EWDrV5QskgarZEUBb3pU.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvmC5cF5/20240822_230837.png" tvg-id="" tvg-name="" group-title="Bonus Channels",DBC News
+https://bongoflix.eamintalukdar.workers.dev/output/pF66Tkz0qFwP2aMMqHyt.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd019sYq/20240822_230705.png" tvg-id="" tvg-name="" group-title="Bonus Channels",SA TV
+https://bongoflix.eamintalukdar.workers.dev/output/rELXiuUXqbgzPb06Npom.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png" tvg-id="" tvg-name="" group-title="Bonus Channels",News 24
+https://bongoflix.eamintalukdar.workers.dev/output/cdgr3tw6WoG7JyRnLbi0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png" tvg-id="" tvg-name="" group-title="Bonus Channels",ATN News
+https://bongoflix.eamintalukdar.workers.dev/output/da6WMXAk.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqnQyn0/20240822-225501.png" tvg-id="" tvg-name="" group-title="Bonus Channels",N TV
+https://bongoflix.eamintalukdar.workers.dev/output/xV4jEKf3D9zc.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1L8tBR2/20240822-225717.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Desh TV
+https://bongoflix.eamintalukdar.workers.dev/output/ryFkXfd1a4CQ7mMdc820.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnTgFms2/20240822-225636.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Banglavision
+https://bongoflix.eamintalukdar.workers.dev/output/tgUzpPc9r6xw.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WS3tVK/20240822-225402.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Channel i
+https://bongoflix.eamintalukdar.workers.dev/output/FNHpYvGZ7FkCE10PwTHm.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NFp4xR7/20240822-225600.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Boishakhi
+https://bongoflix.eamintalukdar.workers.dev/output/1d3uG9VCgrR9DRtWZM57.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ry4QcVbh/20240822-231240.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Green TV
+https://bongoflix.eamintalukdar.workers.dev/output/cLuA3hJR.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdj4TwHX/20240822-230629.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Asian
+https://bongoflix.eamintalukdar.workers.dev/output/pKb5k6NnzxsKpWUs6E8M.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLTBDmGm/20240822-225315.png" tvg-id="" tvg-name="" group-title="Bonus Channels",ATN Bangla
+https://bongoflix.eamintalukdar.workers.dev/output/P3y2URgG7LDe.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822_225533.png" tvg-id="" tvg-name="" group-title="Bonus Channels",R TV
+https://bongoflix.eamintalukdar.workers.dev/output/ba47dHpDk3Se.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsDjtcFp/20240822_225424.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Ekushe TV
+https://bongoflix.eamintalukdar.workers.dev/output/SyQuXz8sC3TB.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxxzBhDM/20240822-230101.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Mohona Tv
+https://bongoflix.eamintalukdar.workers.dev/output/AkyX5dunzju4cpo26dr7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Tw4qxSqv/20240822-230126.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Bijoy Tv
+https://bongoflix.eamintalukdar.workers.dev/output/N8Xbo5vdwVU6sF43RsW0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKKgpWF8/20240822-231026.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Ananda Tv
+https://bongoflix.eamintalukdar.workers.dev/output/LeUAm4F1iixYns3s3Non.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9kQDTZ/20240822-225812.png" tvg-id="" tvg-name="" group-title="Bonus Channels",My Tv
+https://bongoflix.eamintalukdar.workers.dev/output/XMpHaEf0ANBhv8w6NWR7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25PhXvzC/20240823-020526.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Amar Digital
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBBXzzB/20240823-020556.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Amar Bangla
+http://115.187.41.216:8080/hls/amarbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Star Plus HD
+http://202.70.146.135:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Mon TV
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Discovery HD
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn6Gyrqn/20240823-024051.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Travel XP HD
+http://103.159.180.34:5001/live/562.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" tvg-id="" tvg-name="" group-title="Bonus Channels",T Sports HD
+https://bongoflix.eamintalukdar.workers.dev/output/TnMn5kZz8aLm.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Willow Sports
+https://mflixott.com/tv/dd/live.php/346.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Willow Sports 2
+https://mflixott.com/tv/dd/live.php/598.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Star Sports SL 1
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=282675&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Star Sports SL 2
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=282676&extension=m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="fifa-plus" tvg-name="" group-title="Bonus Channels",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="bein-tv" tvg-name="" group-title="Bonus Channels",beIN TV
@@ -335,18 +125,10 @@ https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/IYDn_LwwiV.png" tvg-id="" tvg-name="" group-title="Bonus Channels",9X Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/TxPUulKGQh.jpg" tvg-id="" tvg-name="" group-title="Bonus Channels",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/YkXRQgC4-_.jpg" tvg-id="" tvg-name="" group-title="Bonus Channels",Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/_OIh6UYTpa.jpg" tvg-id="" tvg-name="" group-title="Bonus Channels",Bantul The Great
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/cZxNWhHkaZ.jpg" tvg-id="" tvg-name="" group-title="Bonus Channels",Oggy and the Cockroaches
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XfqV4B56/png-transparent-mr-bean-illustration-youtube-coloring-book-character-cartoon-mr-bean-television-chil.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Mr Bean Animated
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5xSF5mzh/Gopal-Bhar-animated-TV-series-title-card.jpg" tvg-id="" tvg-name="" group-title="Bonus Channels",Gopal Bhar TV
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Discovery Hindi B
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg" tvg-id="" tvg-name="" group-title="Bonus Channels",National Geographic HD
@@ -355,10 +137,6 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg" tvg-id="" tvg-name="" group-title="Bonus Channels",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" tvg-id="" tvg-name="" group-title="Bonus Channels",News18 Bangla
-https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="Bonus Channels",ABP Ananda
-https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" tvg-id="" tvg-name="" group-title="Bonus Channels",ACCU WEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://is.gd/ywX5PG" tvg-id="" tvg-name="" group-title="Bonus Channels",CNN NEWS
@@ -367,8 +145,6 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" tvg-id="" tvg-name="" group-title="Bonus Channels",RTNEWS GLOBAL
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" tvg-id="" tvg-name="" group-title="Bonus Channels",Breaking News
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" tvg-id="" tvg-name="" group-title="Bonus Channels",Live Sports
 http://66.102.126.10:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Peace TV English
@@ -377,8 +153,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="Bonus Channels",God TV
 https://hlsb-us.god.tv/GODTV/USA-480.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Zee Bangla Cinema
-http://103.159.180.34:5001/live/3476.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" tvg-id="" tvg-name="" group-title="Bonus Channels",TV9 Bangla
@@ -475,30 +249,30 @@ https://playztv.pages.dev/promo/master.m3u8
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Iran News" group-title="Bonus Channels",Iran News
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Cartoon Network" group-title="Bonus Channels",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="QAZ Sports HD" group-title="Bonus Channels",QAZ Sports HD
 http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Cartoon Network" group-title="Bonus Channels",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="A SPOR" group-title="Bonus Channels",A SPOR
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Saudia Arabia" group-title="Bonus Channels",Saudia Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="REAL WILD" group-title="Bonus Channels",REAL WILD
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="AL EKHBARIA" group-title="Bonus Channels",AL EKHBARIA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="REAL WILD" group-title="Bonus Channels",REAL WILD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Amazon SAT" group-title="Bonus Channels",Amazon SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Al Quran Radio" group-title="Bonus Channels",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Live Sports" group-title="Bonus Channels",Live Sports
 https://s2.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Ften_cricket_576%2Ften_cricket_576.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="A SPOR" group-title="Bonus Channels",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="RT NEWS USA" group-title="Bonus Channels",RT NEWS USA
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Greenland 2: Migration (2026) (Hindi)" group-title="Bonus Channels",Greenland 2: Migration (2026) (Hindi)
 http://premimum.online/movie/jen12345/jen54321/717746.mp4
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Freelancer" group-title="Bonus Channels",Freelancer
 http://premimum.online/movie/jen12345/jen54321/353751.mp4
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="RT NEWS USA" group-title="Bonus Channels",RT NEWS USA
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Jana Nayagan (2026) (Hindi)" group-title="Bonus Channels",Jana Nayagan (2026) (Hindi)
 http://premimum.online/movie/jen12345/jen54321/724489.mp4
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Music Mastii" group-title="Bonus Channels",Music Mastii
@@ -509,6 +283,8 @@ https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg1
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26890a20f6d371fd2c36c83f7bf87733.png" tvg-id="" tvg-name="Zee 24 Ghanta" group-title="Bonus Channels",Zee 24 Ghanta
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b4ad619d5bd6dfa8a0eb3c4efc216ae3.png" tvg-id="" tvg-name="Calcutta News" group-title="Bonus Channels",Calcutta News
+https://d1msejlow1t3l4.cloudfront.net/fta/calcuttanews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2FvhXx8/hungama.png" tvg-id="" tvg-name="Hungama" group-title="Bonus Channels",Hungama
 http://premimum.online:80/live/jen12345/jen54321/18456.ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/712c7af9b6a340cddd92140b6f92e54c.png" tvg-id="" tvg-name="Discovery Kids Hindi" group-title="Bonus Channels",Discovery Kids Hindi
@@ -581,8 +357,6 @@ http://premimum.online/live/jen12345/jen54321/210.ts
 http://premimum.online:80/live/Jen12345/Jen54321/9378.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsP7SFTk/anmolcinema.png" tvg-id="" tvg-name="Anoml Cinema" group-title="Bonus Channels",Anoml Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhjkC1fW/zeecinemalu.png" tvg-id="" tvg-name="ZEE Cinemalu" group-title="Bonus Channels",ZEE Cinemalu
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y80GPf8v/colorsbanglacine.png" tvg-id="" tvg-name="Colors Bangla Cinema" group-title="Bonus Channels",Colors Bangla Cinema
 http://premimum.online:80/live/jen12345/jen54321/271038.ts
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/12/Jalsha-Movies-Logo.png" tvg-id="" tvg-name="Jalsha Movies" group-title="Bonus Channels",Jalsha Movies
@@ -621,14 +395,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLB89gFB/tvhd.png" tvg-id="" tvg-name="& TV HD" group-title="Bonus Channels",& TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhCFsVn9/anmoltv.png" tvg-id="" tvg-name="Anmol TV" group-title="Bonus Channels",Anmol TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqTFzfSb/zing.png" tvg-id="" tvg-name="Zing" group-title="Bonus Channels",Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/1c988cc725451c2480c56865af4d59d8.png" tvg-id="" tvg-name="Sony Sab" group-title="Bonus Channels",Sony Sab
 https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" tvg-id="" tvg-name="ShortsTV Active" group-title="Bonus Channels",ShortsTV Active
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSw0gWmc/starvijay.png" tvg-id="" tvg-name="Star Vijay" group-title="Bonus Channels",Star Vijay
 http://premimum.online/live/jen12345/jen54321/157.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lRqWi7GK5UoOeKQs1hPj38bMyqPBwEo35pwDVGaw3Qbqs=s900-c-k-c0x00ffffff-no-rj" tvg-id="" tvg-name="Peppers" group-title="Bonus Channels",Peppers
+https://d1msejlow1t3l4.cloudfront.net/fta/peppers/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Star_maa.png/revision/latest?cb=20210520145908" tvg-id="" tvg-name="Star Maa" group-title="Bonus Channels",Star Maa
 http://premimum.online/live/jen12345/jen54321/168.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCMgXnFW/zee-telugu.png" tvg-id="" tvg-name="ZEE Telugu" group-title="Bonus Channels",ZEE Telugu
@@ -669,6 +445,8 @@ http://premimum.online:80/live/jen12345/jen54321/7344.ts
 http://premimum.online/live/jen12345/jen54321/406.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2Fm0Hp3/popular-sci.png" tvg-id="" tvg-name="Popular Science" group-title="Bonus Channels",Popular Science
 https://amg13231-actve-amg13231c5-sportstribal-emea-1269.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-sportstribalemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WzVzrWPq/dissci.png" tvg-id="" tvg-name="Discovery Science" group-title="Bonus Channels",Discovery Science
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFx533B/disturbo.png" tvg-id="" tvg-name="Discovery Turbo" group-title="Bonus Channels",Discovery Turbo
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7FRBDhV/dis-id.png" tvg-id="" tvg-name="Investigation Discovery" group-title="Bonus Channels",Investigation Discovery
@@ -719,8 +497,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3e/Peace_TV_Bangla_logo_2020.png/revision/latest?cb=20220106022526" tvg-id="" tvg-name="Peace TV Bangla" group-title="Bonus Channels",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0127f7f59e1b1b714be76545172cdba0.png" tvg-id="" tvg-name="Mahaa Bhakti" group-title="Bonus Channels",Mahaa Bhakti
-https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0b79cae17adfb14c6c414a426671c735.png" tvg-id="" tvg-name="ETV Life" group-title="Bonus Channels",ETV Life
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yH-6zqZ4au4F824e13zChJ3qTpcLp16tqOj4wt-To-dto6kLwgN4Yb8ddjSuBGNzO8rP-r3FgA=s900-c-k-c0x00ffffff-no-rj" tvg-id="" tvg-name="Divine TV" group-title="Bonus Channels",Divine TV
