@@ -292,7 +292,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Sony Aath (server 1)
 http://dvltv.cc:8080/live/Livetv66/55887799/161685.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" tvg-id="sonyaathhd.in" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",SONY AATH HD (server2)
-https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCWYdSgj/20240823-020619.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Khusbo Bangla
@@ -337,6 +337,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",Sony Yay Bangla
 https://fifa.assadikb.workers.dev/?id=sonyyay
+#EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",ZB Cartun TV
+https://server.zillarbarta.com/zbcatun/video.m3u8
 
 # Group: 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" tvg-id="" tvg-name="" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Discovery  HD
