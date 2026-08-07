@@ -141,7 +141,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"188000\" tvg-name=\"Channel 9 HD\" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png\" group-title=\"Bangladeshi\",Channel 9 HD"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:24:38.839Z",
+      "lastUpdate": "2026-08-07T04:39:22.470Z",
       "backupHistory": []
     },
     "atn bangla": {
@@ -173,7 +173,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"229000\" tvg-name=\"Maasranga TV\" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png\" group-title=\"Bangladeshi\",Maasranga TV"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:24:46.367Z",
+      "lastUpdate": "2026-08-07T04:39:30.371Z",
       "backupHistory": []
     },
     "boishakhi tv": {
@@ -269,7 +269,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"247000\" tvg-name=\"Independent TV \" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png\" group-title=\"Bangladeshi\",Independent TV"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:10:01.984Z",
+      "lastUpdate": "2026-08-07T04:39:31.786Z",
       "backupHistory": []
     },
     "ekattor hd": {
@@ -285,7 +285,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"6\" tvg-name=\"Ekattor HD\" tvg-country=\"BD\" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png\" tvg-chno=\"6\" group-title=\"Bangladeshi\",Ekattor HD"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:10:04.213Z",
+      "lastUpdate": "2026-08-07T04:39:34.199Z",
       "backupHistory": []
     },
     "nagorik tv": {
@@ -685,7 +685,7 @@
         "extinf": "#EXTINF:-1 group-title=\"Hindi\" tvg-logo=\"https://i.postimg.cc/XJ1SbVzN/20240823_022738.png\",& Picture"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:10:11.086Z",
+      "lastUpdate": "2026-08-07T04:39:41.185Z",
       "backupHistory": []
     },
     "& tv": {
@@ -964,8 +964,20 @@
         "url": "https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8",
         "extinf": ""
       },
-      "lastUpdate": "2026-08-07T04:10:15.670Z",
-      "backupHistory": []
+      "lastUpdate": "2026-08-07T04:39:47.793Z",
+      "backupHistory": [
+        {
+          "original": {
+            "name": "Sony HD (SET HD)",
+            "tvgId": "",
+            "tvgName": "",
+            "logo": "https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png",
+            "url": "https://book4u.top/worker/index.php?path=api/bff81131e7/playlist.m3u8",
+            "extinf": "#EXTINF:-1 tvg-logo=\"https://otapp.store/uploads/tv_image/sm/sony-hd-set-hd.png\" group-title=\"Hindi\" http-user-agent=\"oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1\",Sony HD (SET HD)"
+          },
+          "replacedAt": "2026-08-07T04:10:15.670Z"
+        }
+      ]
     },
     "colors cineplex hd": {
       "status": "original",
@@ -996,7 +1008,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp\" group-title=\"Hindi\" http-user-agent=\"okhttp/5.1.0\",Sony Entertainment Television"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:10:18.790Z",
+      "lastUpdate": "2026-08-07T04:39:50.677Z",
       "backupHistory": []
     },
     "sony entertainment television hd": {
@@ -1012,7 +1024,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://assets-prod.services.toffeelive.com/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp\" group-title=\"Hindi\" http-user-agent=\"okhttp/5.1.0\",Sony Entertainment Television HD"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:10:18.985Z",
+      "lastUpdate": "2026-08-07T04:39:50.782Z",
       "backupHistory": []
     },
     "t sports hd": {
@@ -1076,7 +1088,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"GOALTV\" tvg-name=\"GOAL TV\" tvg-logo=\"https://i.imgur.com/zsj6tLX.jpeg\" group-title=\"sports\",GOAL TV"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:10:23.590Z",
+      "lastUpdate": "2026-08-07T04:39:54.878Z",
       "backupHistory": []
     },
     "sports range": {
@@ -1092,7 +1104,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"217000\" tvg-name=\"Sports Range\" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png\" group-title=\"sports\",Sports Range"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:10:24.193Z",
+      "lastUpdate": "2026-08-07T04:39:55.577Z",
       "backupHistory": []
     },
     "fighters": {
@@ -1108,7 +1120,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"219000\" tvg-name=\"Fighters\" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png\" group-title=\"sports\",Fighters"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:10:24.792Z",
+      "lastUpdate": "2026-08-07T04:39:56.187Z",
       "backupHistory": []
     },
     "bein sports": {
@@ -1355,8 +1367,20 @@
         "url": "https://starsportshindiii.pages.dev/index.m3u8",
         "extinf": ""
       },
-      "lastUpdate": "2026-08-07T04:10:42.253Z",
-      "backupHistory": []
+      "lastUpdate": "2026-08-07T04:40:11.882Z",
+      "backupHistory": [
+        {
+          "original": {
+            "name": "Star Sports 1 Hindi",
+            "tvgId": "",
+            "tvgName": "",
+            "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",
+            "url": "https://cdn7.zohanayaan.com:1686/hls/starhindi.m3u8?md5=XCeg2aguG4ncj4PwfwwETw&expires=1785342019",
+            "extinf": "#EXTINF:-1 tvg-logo=\"https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png\" group-title=\"sports\" http-referrer=\"https://executeandship.com/\" referrer=\"https://executeandship.com/\",Star Sports 1 Hindi"
+          },
+          "replacedAt": "2026-08-07T04:10:42.253Z"
+        }
+      ]
     },
     "ptv sports": {
       "status": "original",
@@ -1394,8 +1418,20 @@
         "url": "http://premimum.online:80/live/jen12345/jen54321/23943.ts",
         "extinf": ""
       },
-      "lastUpdate": "2026-08-07T04:10:57.454Z",
-      "backupHistory": []
+      "lastUpdate": "2026-08-07T04:40:24.753Z",
+      "backupHistory": [
+        {
+          "original": {
+            "name": "Willow HD",
+            "tvgId": "",
+            "tvgName": "",
+            "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",
+            "url": "https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=RmV_m3IhEuyeoAtv6kJFCA&expires=1785342019",
+            "extinf": "#EXTINF:-1 tvg-logo=\"https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png\" group-title=\"sports\" http-referrer=\"https://executeandship.com/\" referrer=\"https://executeandship.com/\",Willow HD"
+          },
+          "replacedAt": "2026-08-07T04:10:57.454Z"
+        }
+      ]
     },
     "willow hd 2": {
       "status": "removed",
@@ -1410,7 +1446,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png\" group-title=\"sports\" http-referrer=\"https://executeandship.com/\" referrer=\"https://executeandship.com/\",Willow HD 2"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:11:03.421Z",
+      "lastUpdate": "2026-08-07T04:40:30.729Z",
       "backupHistory": []
     },
     "ten sports (server2)": {
@@ -1465,8 +1501,20 @@
         "url": "http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/7343/index.m3u8",
         "extinf": ""
       },
-      "lastUpdate": "2026-08-07T04:11:13.751Z",
-      "backupHistory": []
+      "lastUpdate": "2026-08-07T04:40:39.388Z",
+      "backupHistory": [
+        {
+          "original": {
+            "name": "Sky Sports Cricket",
+            "tvgId": "",
+            "tvgName": "",
+            "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",
+            "url": "https://cdn6.zohanayaan.com:1686/hls/skyscric.m3u8?md5=tLewvoBEQOPKTZYmKrODEw&expires=1785342019",
+            "extinf": "#EXTINF:-1 tvg-logo=\"https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png\" group-title=\"sports\" http-referrer=\"https://executeandship.com/\" referrer=\"https://executeandship.com/\",Sky Sports Cricket"
+          },
+          "replacedAt": "2026-08-07T04:11:13.751Z"
+        }
+      ]
     },
     "sky sports f1": {
       "status": "removed",
@@ -1481,7 +1529,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png\" group-title=\"sports\" http-referrer=\"https://executeandship.com/\" referrer=\"https://executeandship.com/\",Sky Sports F1"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:11:23.410Z",
+      "lastUpdate": "2026-08-07T04:40:49.103Z",
       "backupHistory": []
     },
     "espn 2": {
@@ -1497,7 +1545,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png\" group-title=\"sports\" http-referrer=\"https://executeandship.com/\" referrer=\"https://executeandship.com/\",ESPN 2"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:11:41.859Z",
+      "lastUpdate": "2026-08-07T04:41:07.677Z",
       "backupHistory": []
     },
     "bein sports 1": {
@@ -1520,8 +1568,20 @@
         "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
         "extinf": ""
       },
-      "lastUpdate": "2026-08-07T04:11:47.090Z",
-      "backupHistory": []
+      "lastUpdate": "2026-08-07T04:41:11.853Z",
+      "backupHistory": [
+        {
+          "original": {
+            "name": "beIN Sports 1",
+            "tvgId": "",
+            "tvgName": "",
+            "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+            "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8",
+            "extinf": "#EXTINF:-1 group-title=\"sports\" tvg-logo=\"https://imglink.cc/cdn/kIiut6WBq0.jpg\",beIN Sports 1"
+          },
+          "replacedAt": "2026-08-07T04:11:47.090Z"
+        }
+      ]
     },
     "bein sports 2": {
       "status": "replaced",
@@ -1543,8 +1603,20 @@
         "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
         "extinf": ""
       },
-      "lastUpdate": "2026-08-07T04:11:49.973Z",
-      "backupHistory": []
+      "lastUpdate": "2026-08-07T04:41:13.910Z",
+      "backupHistory": [
+        {
+          "original": {
+            "name": "beIN Sports 2",
+            "tvgId": "",
+            "tvgName": "",
+            "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+            "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8",
+            "extinf": "#EXTINF:-1 group-title=\"sports\" tvg-logo=\"https://imglink.cc/cdn/kIiut6WBq0.jpg\",beIN Sports 2"
+          },
+          "replacedAt": "2026-08-07T04:11:49.973Z"
+        }
+      ]
     },
     "bein sports 3": {
       "status": "replaced",
@@ -1566,8 +1638,20 @@
         "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
         "extinf": ""
       },
-      "lastUpdate": "2026-08-07T04:11:50.887Z",
-      "backupHistory": []
+      "lastUpdate": "2026-08-07T04:41:13.980Z",
+      "backupHistory": [
+        {
+          "original": {
+            "name": "beIN Sports 3",
+            "tvgId": "",
+            "tvgName": "",
+            "logo": "https://imglink.cc/cdn/kIiut6WBq0.jpg",
+            "url": "http://27.124.71.27/beIN_Sports_3/index.m3u8",
+            "extinf": "#EXTINF:-1 group-title=\"sports\" tvg-logo=\"https://imglink.cc/cdn/kIiut6WBq0.jpg\",beIN Sports 3"
+          },
+          "replacedAt": "2026-08-07T04:11:50.887Z"
+        }
+      ]
     },
     "bein sports xtra 720p": {
       "status": "original",
@@ -1614,7 +1698,7 @@
         "extinf": "#EXTINF:-1 group-title=\"sports\" tvg-logo=\"https://imglink.cc/cdn/u7SqaFacbH.png\",TSN 1"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:11:56.892Z",
+      "lastUpdate": "2026-08-07T04:41:20.092Z",
       "backupHistory": []
     },
     "tsn 2": {
@@ -1630,7 +1714,7 @@
         "extinf": "#EXTINF:-1 group-title=\"sports\" tvg-logo=\"https://imglink.cc/cdn/u7SqaFacbH.png\",TSN 2"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:11:59.984Z",
+      "lastUpdate": "2026-08-07T04:41:23.180Z",
       "backupHistory": []
     },
     "star jalsha hd": {
@@ -1669,8 +1753,20 @@
         "url": "http://premimum.online/live/jen12345/jen54321/425.ts",
         "extinf": ""
       },
-      "lastUpdate": "2026-08-07T04:12:36.526Z",
-      "backupHistory": []
+      "lastUpdate": "2026-08-07T04:41:58.868Z",
+      "backupHistory": [
+        {
+          "original": {
+            "name": "Jalsha Movies HD",
+            "tvgId": "",
+            "tvgName": "",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png",
+            "url": "https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FJalsha_Movie%2Ftracks-v1a1%2Fmono.m3u8",
+            "extinf": "#EXTINF:-1 tvg-logo=\"https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png\" group-title=\"Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚\",Jalsha Movies HD"
+          },
+          "replacedAt": "2026-08-07T04:12:36.526Z"
+        }
+      ]
     },
     "aakash aath": {
       "status": "original",
@@ -1701,7 +1797,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://otapp.store/uploads/tv_image/sm/colors-bangla.png\" group-title=\"Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚\" http-user-agent=\"oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1\",Colors Bangla 1"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:12:46.629Z",
+      "lastUpdate": "2026-08-07T04:42:08.760Z",
       "backupHistory": []
     },
     "colors bangla 2": {
@@ -1717,7 +1813,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://otapp.store/uploads/tv_image/sm/colors-bangla.png\" group-title=\"Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚\" http-user-agent=\"oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1\",Colors Bangla 2"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:07.291Z",
+      "lastUpdate": "2026-08-07T04:42:29.373Z",
       "backupHistory": []
     },
     "zee bangla hd": {
@@ -1845,7 +1941,7 @@
         "extinf": "#EXTINF:-1 group-title=\"Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚\" tvg-logo=\"https://i.postimg.cc/TYCmvBR7/20240823-020800.png\",Ruposhi Bangla"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:12.768Z",
+      "lastUpdate": "2026-08-07T04:42:35.140Z",
       "backupHistory": []
     },
     "in | bangla jago tv": {
@@ -2101,7 +2197,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"211000\" tvg-name=\"Joy\" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png\" group-title=\"𝐊𝐢𝐝𝐬\",Joy"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:17.090Z",
+      "lastUpdate": "2026-08-07T04:42:38.983Z",
       "backupHistory": []
     },
     "funny junior hd": {
@@ -2117,7 +2213,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"213000\" tvg-name=\"Funny Junior HD\" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png\" group-title=\"𝐊𝐢𝐝𝐬\",Funny Junior HD"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:17.693Z",
+      "lastUpdate": "2026-08-07T04:42:39.688Z",
       "backupHistory": []
     },
     "nikki": {
@@ -2133,7 +2229,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"242000\" tvg-name=\"Nikki\" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png\" group-title=\"𝐊𝐢𝐝𝐬\",Nikki"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:18.393Z",
+      "lastUpdate": "2026-08-07T04:42:40.385Z",
       "backupHistory": []
     },
     "crazy ex": {
@@ -2149,7 +2245,7 @@
         "extinf": "#EXTINF:-1 tvg-id=\"244000\" tvg-name=\"Crazy Ex\" tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png\" group-title=\"𝐊𝐢𝐝𝐬\",Crazy Ex"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:19.092Z",
+      "lastUpdate": "2026-08-07T04:42:41.087Z",
       "backupHistory": []
     },
     "nick bangla": {
@@ -2213,7 +2309,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://iili.io/F8gQjJS.png\" group-title=\"𝐊𝐢𝐝𝐬\",ZB Cartun TV"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:20.684Z",
+      "lastUpdate": "2026-08-07T04:42:42.476Z",
       "backupHistory": []
     },
     "animal planet": {
@@ -2229,7 +2325,7 @@
         "extinf": "#EXTINF:-1 group-title=\"𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲\"tvg-logo=\"https://i.postimg.cc/43NXkFx5/20240823_023458.png\",Animal Planet"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:39.059Z",
+      "lastUpdate": "2026-08-07T04:43:00.677Z",
       "backupHistory": []
     },
     "discovery hd": {
@@ -2277,7 +2373,7 @@
         "extinf": "#EXTINF:-1 group-title=\"𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲\"tvg-logo=\"https://i.postimg.cc/MZR248Yw/20240823-024104.png\",Love Natural"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:40.184Z",
+      "lastUpdate": "2026-08-07T04:43:01.874Z",
       "backupHistory": []
     },
     "makkah tv": {
@@ -2597,7 +2693,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png\" group-title=\"English movie\",Cineedge HD"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:45.790Z",
+      "lastUpdate": "2026-08-07T04:43:09.880Z",
       "backupHistory": []
     },
     "uniques hd": {
@@ -2613,7 +2709,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png\" group-title=\"English movie\",Uniques HD"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:46.387Z",
+      "lastUpdate": "2026-08-07T04:43:10.480Z",
       "backupHistory": []
     },
     "superrix hd": {
@@ -2629,7 +2725,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png\" group-title=\"English movie\",Superrix HD"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:46.991Z",
+      "lastUpdate": "2026-08-07T04:43:11.087Z",
       "backupHistory": []
     },
     "screem": {
@@ -2645,7 +2741,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png\" group-title=\"English movie\",Screem"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:47.588Z",
+      "lastUpdate": "2026-08-07T04:43:11.778Z",
       "backupHistory": []
     },
     "crimes": {
@@ -2661,7 +2757,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png\" group-title=\"English movie\",Crimes"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:48.186Z",
+      "lastUpdate": "2026-08-07T04:43:12.377Z",
       "backupHistory": []
     },
     "true stories": {
@@ -2677,7 +2773,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png\" group-title=\"English movie\",True Stories"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:48.788Z",
+      "lastUpdate": "2026-08-07T04:43:12.982Z",
       "backupHistory": []
     },
     "intelligence": {
@@ -2693,7 +2789,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png\" group-title=\"English movie\",Intelligence"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:49.388Z",
+      "lastUpdate": "2026-08-07T04:43:13.683Z",
       "backupHistory": []
     },
     "originals": {
@@ -2709,7 +2805,7 @@
         "extinf": "#EXTINF:-1 tvg-logo=\"https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png\" group-title=\"English movie\",Originals"
       },
       "replacement": null,
-      "lastUpdate": "2026-08-07T04:13:49.990Z",
+      "lastUpdate": "2026-08-07T04:43:14.378Z",
       "backupHistory": []
     },
     "and flix hd": {
