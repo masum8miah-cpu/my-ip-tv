@@ -205,6 +205,8 @@ http://103.175.73.12:8080/live/51/51_0.m3u8
 http://103.175.73.12:8080/live/271/271_0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s" tvg-id="" tvg-name="" group-title="Hindi",Manoranjan Movies
 http://103.175.73.12:8080/live/23/23_0.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max-hd.png" tvg-id="" tvg-name="" group-title="Hindi",Sony MAX HD
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max2.png" tvg-id="" tvg-name="" group-title="Hindi",Sony MAX2
 https://fifa.assadikb.workers.dev/?id=sonymax_2
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-max.png" tvg-id="" tvg-name="" group-title="Hindi",Sony MAX
@@ -253,6 +255,8 @@ http://monirul.bro.bd/sm/stream.php?id=star_sports_1_hd&e=.m3u8
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",PTV Sports
 http://monirul.bro.bd/sm/stream.php?id=ptv_sports_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",Willow HD
+http://premimum.online:80/live/jen12345/jen54321/23943.ts
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",Ten Sports (server2)
 https://fifa.assadikb.workers.dev/?id=ten_cricket
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",A Sports HD
@@ -333,8 +337,6 @@ https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",Sony Yay Bangla
 https://fifa.assadikb.workers.dev/?id=sonyyay
-#EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",ZB Cartun TV
-https://server.zillarbarta.com/zbcatun/video.m3u8
 
 # Group: 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" tvg-id="" tvg-name="" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Discovery  HD
