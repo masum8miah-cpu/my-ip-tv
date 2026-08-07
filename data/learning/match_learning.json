@@ -18,7 +18,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:39:22.472Z",
+      "lastMatch": "2026-08-07T05:29:45.342Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -42,7 +42,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:39:30.373Z",
+      "lastMatch": "2026-08-07T05:29:52.853Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -66,7 +66,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:39:31.787Z",
+      "lastMatch": "2026-08-07T05:29:54.365Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -90,7 +90,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:39:34.201Z",
+      "lastMatch": "2026-08-07T05:29:56.767Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -104,7 +104,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:39:41.187Z",
+      "lastMatch": "2026-08-07T05:30:03.860Z",
       "sourceTypes": [
         "manual"
       ]
@@ -123,7 +123,7 @@
       ],
       "successCount": 1,
       "failCount": 0,
-      "lastMatch": "2026-08-07T04:39:47.794Z",
+      "lastMatch": "2026-08-07T05:30:06.017Z",
       "sourceTypes": [
         "manual"
       ]
@@ -136,7 +136,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:39:50.678Z",
+      "lastMatch": "2026-08-07T05:30:09.056Z",
       "sourceTypes": [
         "manual"
       ]
@@ -149,7 +149,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:39:50.783Z",
+      "lastMatch": "2026-08-07T05:30:09.251Z",
       "sourceTypes": [
         "manual"
       ]
@@ -162,7 +162,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:39:54.879Z",
+      "lastMatch": "2026-08-07T05:30:13.156Z",
       "sourceTypes": [
         "manual"
       ]
@@ -185,7 +185,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:39:55.578Z",
+      "lastMatch": "2026-08-07T05:30:13.765Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -209,7 +209,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:39:56.189Z",
+      "lastMatch": "2026-08-07T05:30:14.465Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -229,29 +229,28 @@
       ],
       "successCount": 1,
       "failCount": 0,
-      "lastMatch": "2026-08-07T04:40:11.883Z",
+      "lastMatch": "2026-08-07T05:30:26.321Z",
       "sourceTypes": [
         "manual"
       ]
     },
     "willow hd": {
       "aliases": [
-        "willow"
+        "willow hd 2"
       ],
       "tvgIds": [],
-      "tvgNames": [
-        "willow"
-      ],
+      "tvgNames": [],
       "logos": [
-        "https://i.postimg.cc/SRfmPD1t/willow.png"
+        "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png"
       ],
       "similarNames": [
-        "willow"
+        "willow hd 2"
       ],
-      "successCount": 1,
-      "failCount": 0,
-      "lastMatch": "2026-08-07T04:40:24.755Z",
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T05:30:43.531Z",
       "sourceTypes": [
+        "manual",
         "manual"
       ]
     },
@@ -260,16 +259,16 @@
         "willow hd"
       ],
       "tvgIds": [],
-      "tvgNames": [
-        "willow hd"
+      "tvgNames": [],
+      "logos": [
+        "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png"
       ],
-      "logos": [],
       "similarNames": [
         "willow hd"
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:40:30.731Z",
+      "lastMatch": "2026-08-07T05:30:45.764Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -291,7 +290,7 @@
       ],
       "successCount": 1,
       "failCount": 0,
-      "lastMatch": "2026-08-07T04:40:39.418Z",
+      "lastMatch": "2026-08-07T05:30:54.130Z",
       "sourceTypes": [
         "manual"
       ]
@@ -310,7 +309,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:40:49.104Z",
+      "lastMatch": "2026-08-07T05:31:00.007Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -330,7 +329,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:41:07.679Z",
+      "lastMatch": "2026-08-07T05:31:18.604Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -350,7 +349,7 @@
       ],
       "successCount": 1,
       "failCount": 0,
-      "lastMatch": "2026-08-07T04:41:11.854Z",
+      "lastMatch": "2026-08-07T05:31:22.874Z",
       "sourceTypes": [
         "manual"
       ]
@@ -369,7 +368,7 @@
       ],
       "successCount": 1,
       "failCount": 0,
-      "lastMatch": "2026-08-07T04:41:13.911Z",
+      "lastMatch": "2026-08-07T05:31:24.952Z",
       "sourceTypes": [
         "manual"
       ]
@@ -388,7 +387,7 @@
       ],
       "successCount": 1,
       "failCount": 0,
-      "lastMatch": "2026-08-07T04:41:13.981Z",
+      "lastMatch": "2026-08-07T05:31:25.059Z",
       "sourceTypes": [
         "manual"
       ]
@@ -407,7 +406,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:41:20.094Z",
+      "lastMatch": "2026-08-07T05:31:31.066Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -427,7 +426,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:41:23.181Z",
+      "lastMatch": "2026-08-07T05:31:34.161Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -449,7 +448,7 @@
       ],
       "successCount": 1,
       "failCount": 0,
-      "lastMatch": "2026-08-07T04:41:58.869Z",
+      "lastMatch": "2026-08-07T05:32:09.861Z",
       "sourceTypes": [
         "manual"
       ]
@@ -470,7 +469,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:42:08.761Z",
+      "lastMatch": "2026-08-07T05:32:19.853Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -492,9 +491,28 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:42:29.375Z",
+      "lastMatch": "2026-08-07T05:32:40.460Z",
       "sourceTypes": [
         "manual",
+        "manual"
+      ]
+    },
+    "sony aath hd (server2)": {
+      "aliases": [
+        "sony aath"
+      ],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [
+        "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"
+      ],
+      "similarNames": [
+        "sony aath"
+      ],
+      "successCount": 1,
+      "failCount": 0,
+      "lastMatch": "2026-08-07T05:32:50.015Z",
+      "sourceTypes": [
         "manual"
       ]
     },
@@ -514,7 +532,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:42:35.142Z",
+      "lastMatch": "2026-08-07T05:32:53.998Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -538,7 +556,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:42:38.984Z",
+      "lastMatch": "2026-08-07T05:32:58.665Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -562,7 +580,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:42:39.689Z",
+      "lastMatch": "2026-08-07T05:32:59.364Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -586,7 +604,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:42:40.386Z",
+      "lastMatch": "2026-08-07T05:33:00.062Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -610,7 +628,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:42:41.088Z",
+      "lastMatch": "2026-08-07T05:33:00.761Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -624,7 +642,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:42:42.477Z",
+      "lastMatch": "2026-08-07T05:33:02.162Z",
       "sourceTypes": [
         "manual"
       ]
@@ -645,7 +663,7 @@
       ],
       "successCount": 0,
       "failCount": 2,
-      "lastMatch": "2026-08-07T04:43:00.678Z",
+      "lastMatch": "2026-08-07T05:33:20.304Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -659,7 +677,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:43:01.876Z",
+      "lastMatch": "2026-08-07T05:33:21.457Z",
       "sourceTypes": [
         "manual"
       ]
@@ -672,7 +690,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:43:09.881Z",
+      "lastMatch": "2026-08-07T05:33:27.456Z",
       "sourceTypes": [
         "manual"
       ]
@@ -685,7 +703,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:43:10.481Z",
+      "lastMatch": "2026-08-07T05:33:28.057Z",
       "sourceTypes": [
         "manual"
       ]
@@ -698,7 +716,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:43:11.174Z",
+      "lastMatch": "2026-08-07T05:33:28.662Z",
       "sourceTypes": [
         "manual"
       ]
@@ -711,7 +729,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:43:11.780Z",
+      "lastMatch": "2026-08-07T05:33:29.360Z",
       "sourceTypes": [
         "manual"
       ]
@@ -724,7 +742,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:43:12.379Z",
+      "lastMatch": "2026-08-07T05:33:30.059Z",
       "sourceTypes": [
         "manual"
       ]
@@ -737,7 +755,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:43:12.983Z",
+      "lastMatch": "2026-08-07T05:33:30.655Z",
       "sourceTypes": [
         "manual"
       ]
@@ -750,7 +768,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:43:13.684Z",
+      "lastMatch": "2026-08-07T05:33:31.255Z",
       "sourceTypes": [
         "manual"
       ]
@@ -763,7 +781,7 @@
       "similarNames": [],
       "successCount": 0,
       "failCount": 1,
-      "lastMatch": "2026-08-07T04:43:14.379Z",
+      "lastMatch": "2026-08-07T05:33:31.855Z",
       "sourceTypes": [
         "manual"
       ]
