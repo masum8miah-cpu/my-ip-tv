@@ -1,0 +1,1643 @@
+{
+  "checks": {
+    "sm-monirul.top": {
+      "totalChecks": 43,
+      "onlineCount": 43,
+      "offlineCount": 0,
+      "headSupported": 43,
+      "getSupported": 43,
+      "tokenPatterns": [],
+      "avgResponseTime": 560.0930232558139,
+      "totalResponseTime": 24084,
+      "lastCheck": "2026-08-07T04:14:12.397Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "owrcovpcdn.net": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 0,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 4,
+      "totalResponseTime": 4,
+      "lastCheck": "2026-08-07T04:09:45.350Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "owrcovcrpy.gpcdn.net": {
+      "totalChecks": 44,
+      "onlineCount": 0,
+      "offlineCount": 44,
+      "headSupported": 0,
+      "getSupported": 44,
+      "tokenPatterns": [],
+      "avgResponseTime": 2.3863636363636362,
+      "totalResponseTime": 105,
+      "lastCheck": "2026-08-07T04:13:19.091Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "owpcdn.net": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 0,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 3,
+      "totalResponseTime": 3,
+      "lastCheck": "2026-08-07T04:09:53.839Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "iptvbd.live": {
+      "totalChecks": 8,
+      "onlineCount": 1,
+      "offlineCount": 7,
+      "headSupported": 8,
+      "getSupported": 8,
+      "tokenPatterns": [],
+      "avgResponseTime": 58.875,
+      "totalResponseTime": 471,
+      "lastCheck": "2026-08-07T04:13:19.089Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "app24.jagobd.com.bd": {
+      "totalChecks": 3,
+      "onlineCount": 3,
+      "offlineCount": 0,
+      "headSupported": 3,
+      "getSupported": 3,
+      "tokenPatterns": [],
+      "avgResponseTime": 759.3333333333334,
+      "totalResponseTime": 2278,
+      "lastCheck": "2026-08-07T04:13:40.943Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "210.4.72.204": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 106,
+      "totalResponseTime": 106,
+      "lastCheck": "2026-08-07T04:10:01.344Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "nomawnoijl.gpcdn.net": {
+      "totalChecks": 15,
+      "onlineCount": 0,
+      "offlineCount": 15,
+      "headSupported": 0,
+      "getSupported": 15,
+      "tokenPatterns": [],
+      "avgResponseTime": 2.066666666666667,
+      "totalResponseTime": 31,
+      "lastCheck": "2026-08-07T04:13:49.899Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "103.151.61.12": {
+      "totalChecks": 5,
+      "onlineCount": 2,
+      "offlineCount": 3,
+      "headSupported": 5,
+      "getSupported": 5,
+      "tokenPatterns": [
+        "token=i7bZaZWaFrSIE0"
+      ],
+      "avgResponseTime": 75.6,
+      "totalResponseTime": 378,
+      "lastCheck": "2026-08-07T04:13:07.288Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "stream.ottplus.live": {
+      "totalChecks": 9,
+      "onlineCount": 9,
+      "offlineCount": 0,
+      "headSupported": 9,
+      "getSupported": 9,
+      "tokenPatterns": [],
+      "avgResponseTime": 82.55555555555556,
+      "totalResponseTime": 743,
+      "lastCheck": "2026-08-07T04:13:39.162Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "srknowapp.ncare.live": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 206,
+      "totalResponseTime": 206,
+      "lastCheck": "2026-08-07T04:10:04.666Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "vods2.aynaott.com": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 242,
+      "totalResponseTime": 242,
+      "lastCheck": "2026-08-07T04:10:04.908Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "app.ncare.live": {
+      "totalChecks": 4,
+      "onlineCount": 4,
+      "offlineCount": 0,
+      "headSupported": 4,
+      "getSupported": 4,
+      "tokenPatterns": [],
+      "avgResponseTime": 211,
+      "totalResponseTime": 844,
+      "lastCheck": "2026-08-07T04:13:13.059Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "stream.shariarsuvo.com": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 256,
+      "totalResponseTime": 256,
+      "lastCheck": "2026-08-07T04:10:06.155Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "live-stream.utkalbongo.com": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 18,
+      "totalResponseTime": 18,
+      "lastCheck": "2026-08-07T04:10:06.531Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "stream.channeleuropetvboxlondon.co.uk": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 745,
+      "totalResponseTime": 745,
+      "lastCheck": "2026-08-07T04:10:07.483Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "deshitv.deshitv24.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 529,
+      "totalResponseTime": 529,
+      "lastCheck": "2026-08-07T04:10:08.013Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "103.175.73.12": {
+      "totalChecks": 16,
+      "onlineCount": 15,
+      "offlineCount": 1,
+      "headSupported": 16,
+      "getSupported": 16,
+      "tokenPatterns": [],
+      "avgResponseTime": 83.3125,
+      "totalResponseTime": 1333,
+      "lastCheck": "2026-08-07T04:13:16.281Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "cdn-2.pishow.tv": {
+      "totalChecks": 4,
+      "onlineCount": 4,
+      "offlineCount": 0,
+      "headSupported": 4,
+      "getSupported": 4,
+      "tokenPatterns": [],
+      "avgResponseTime": 101.25,
+      "totalResponseTime": 405,
+      "lastCheck": "2026-08-07T04:10:09.454Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "cdn-uw2-prod.tsv2.amagi.tv": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 665.5,
+      "totalResponseTime": 1331,
+      "lastCheck": "2026-08-07T04:13:14.787Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 650,
+      "totalResponseTime": 650,
+      "lastCheck": "2026-08-07T04:10:10.175Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "cdn-3.pishow.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 211,
+      "totalResponseTime": 211,
+      "lastCheck": "2026-08-07T04:10:10.387Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "stream.ottplus.bd": {
+      "totalChecks": 3,
+      "onlineCount": 0,
+      "offlineCount": 3,
+      "headSupported": 0,
+      "getSupported": 3,
+      "tokenPatterns": [],
+      "avgResponseTime": 20.666666666666668,
+      "totalResponseTime": 62,
+      "lastCheck": "2026-08-07T04:13:29.089Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "d1g8wgjurz8via.cloudfront.net": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 19,
+      "totalResponseTime": 38,
+      "lastCheck": "2026-08-07T04:13:08.922Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "sony.dongobd247.workers.dev": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 542,
+      "totalResponseTime": 542,
+      "lastCheck": "2026-08-07T04:10:12.931Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "fifa.assadikb.workers.dev": {
+      "totalChecks": 4,
+      "onlineCount": 4,
+      "offlineCount": 0,
+      "headSupported": 4,
+      "getSupported": 4,
+      "tokenPatterns": [],
+      "avgResponseTime": 547,
+      "totalResponseTime": 2188,
+      "lastCheck": "2026-08-07T04:13:19.094Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "book4u.top": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 230,
+      "totalResponseTime": 230,
+      "lastCheck": "2026-08-07T04:10:15.175Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "s2.itcnbd.live": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 107,
+      "totalResponseTime": 107,
+      "lastCheck": "2026-08-07T04:10:15.656Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "madanitv.assadikb.workers.dev": {
+      "totalChecks": 5,
+      "onlineCount": 5,
+      "offlineCount": 0,
+      "headSupported": 5,
+      "getSupported": 5,
+      "tokenPatterns": [],
+      "avgResponseTime": 220,
+      "totalResponseTime": 1100,
+      "lastCheck": "2026-08-07T04:13:19.094Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "mflixott.com": {
+      "totalChecks": 4,
+      "onlineCount": 0,
+      "offlineCount": 4,
+      "headSupported": 4,
+      "getSupported": 4,
+      "tokenPatterns": [],
+      "avgResponseTime": 349.5,
+      "totalResponseTime": 1398,
+      "lastCheck": "2026-08-07T04:13:07.290Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "monirul.bro.bd": {
+      "totalChecks": 5,
+      "onlineCount": 5,
+      "offlineCount": 0,
+      "headSupported": 5,
+      "getSupported": 5,
+      "tokenPatterns": [],
+      "avgResponseTime": 1454,
+      "totalResponseTime": 7270,
+      "lastCheck": "2026-08-07T04:11:03.422Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "rnttwmjcin.turknet.ercdn.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 1339,
+      "totalResponseTime": 1339,
+      "lastCheck": "2026-08-07T04:10:21.815Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "bein-esp-xumo.amagi.tv": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 691.5,
+      "totalResponseTime": 1383,
+      "lastCheck": "2026-08-07T04:11:51.575Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "streams2.sofast.tv": {
+      "totalChecks": 2,
+      "onlineCount": 1,
+      "offlineCount": 1,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 417,
+      "totalResponseTime": 834,
+      "lastCheck": "2026-08-07T04:10:31.142Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "ua.online24.pm": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 948,
+      "totalResponseTime": 948,
+      "lastCheck": "2026-08-07T04:10:25.742Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "proxpanel.cc": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 2998,
+      "totalResponseTime": 2998,
+      "lastCheck": "2026-08-07T04:10:29.444Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "dvltv.cc": {
+      "totalChecks": 4,
+      "onlineCount": 4,
+      "offlineCount": 0,
+      "headSupported": 4,
+      "getSupported": 4,
+      "tokenPatterns": [],
+      "avgResponseTime": 144.75,
+      "totalResponseTime": 579,
+      "lastCheck": "2026-08-07T04:13:39.290Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "dms.redbull.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 351,
+      "totalResponseTime": 351,
+      "lastCheck": "2026-08-07T04:10:30.114Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "dfr80qz435crc.cloudfront.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 242,
+      "totalResponseTime": 242,
+      "lastCheck": "2026-08-07T04:10:30.356Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "d3qs3d2rkhfqrt.cloudfront.net": {
+      "totalChecks": 5,
+      "onlineCount": 5,
+      "offlineCount": 0,
+      "headSupported": 5,
+      "getSupported": 5,
+      "tokenPatterns": [],
+      "avgResponseTime": 110.2,
+      "totalResponseTime": 551,
+      "lastCheck": "2026-08-07T04:13:44.935Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "lbgo.bozztv.com": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 732,
+      "totalResponseTime": 732,
+      "lastCheck": "2026-08-07T04:10:31.898Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "103.253.18.58": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 192,
+      "totalResponseTime": 192,
+      "lastCheck": "2026-08-07T04:10:32.091Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "tvsen7.aynascope.net": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 116,
+      "totalResponseTime": 232,
+      "lastCheck": "2026-08-07T04:10:32.325Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "cdn7.zohanayaan.com": {
+      "totalChecks": 2,
+      "onlineCount": 0,
+      "offlineCount": 2,
+      "headSupported": 0,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 489,
+      "totalResponseTime": 978,
+      "lastCheck": "2026-08-07T04:11:32.779Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "cdn3.zohanayaan.com": {
+      "totalChecks": 7,
+      "onlineCount": 0,
+      "offlineCount": 7,
+      "headSupported": 0,
+      "getSupported": 7,
+      "tokenPatterns": [],
+      "avgResponseTime": 481,
+      "totalResponseTime": 3367,
+      "lastCheck": "2026-08-07T04:11:39.954Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "cdn1.zohanayaan.com": {
+      "totalChecks": 3,
+      "onlineCount": 0,
+      "offlineCount": 3,
+      "headSupported": 0,
+      "getSupported": 3,
+      "tokenPatterns": [],
+      "avgResponseTime": 479.3333333333333,
+      "totalResponseTime": 1438,
+      "lastCheck": "2026-08-07T04:11:29.045Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "starsportshindiii.pages.dev": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 38,
+      "totalResponseTime": 38,
+      "lastCheck": "2026-08-07T04:10:42.252Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "cdn6.zohanayaan.com": {
+      "totalChecks": 3,
+      "onlineCount": 0,
+      "offlineCount": 3,
+      "headSupported": 0,
+      "getSupported": 3,
+      "tokenPatterns": [],
+      "avgResponseTime": 486.6666666666667,
+      "totalResponseTime": 1460,
+      "lastCheck": "2026-08-07T04:11:05.221Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "tvsen5.aynaott.com": {
+      "totalChecks": 4,
+      "onlineCount": 1,
+      "offlineCount": 3,
+      "headSupported": 4,
+      "getSupported": 4,
+      "tokenPatterns": [
+        "token=2fe7bf4f892cf09f80087b8146545bad"
+      ],
+      "avgResponseTime": 75.5,
+      "totalResponseTime": 302,
+      "lastCheck": "2026-08-07T04:11:51.733Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "warm-caverns-48629-92fab798385f.herokuapp.com": {
+      "totalChecks": 2,
+      "onlineCount": 0,
+      "offlineCount": 2,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 268,
+      "totalResponseTime": 536,
+      "lastCheck": "2026-08-07T04:11:03.420Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "premimum.online": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 44.5,
+      "totalResponseTime": 89,
+      "lastCheck": "2026-08-07T04:12:36.526Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "cdn10.zohanayaan.com": {
+      "totalChecks": 2,
+      "onlineCount": 0,
+      "offlineCount": 2,
+      "headSupported": 0,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 492,
+      "totalResponseTime": 984,
+      "lastCheck": "2026-08-07T04:11:12.777Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "cdn2.zohanayaan.com": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 0,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 479,
+      "totalResponseTime": 479,
+      "lastCheck": "2026-08-07T04:11:09.037Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "ytoxw6un.ottclub.xyz": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 174,
+      "totalResponseTime": 174,
+      "lastCheck": "2026-08-07T04:11:13.750Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "cdn4.zohanayaan.com": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 0,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 477,
+      "totalResponseTime": 477,
+      "lastCheck": "2026-08-07T04:11:15.857Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "cdn8.zohanayaan.com": {
+      "totalChecks": 2,
+      "onlineCount": 0,
+      "offlineCount": 2,
+      "headSupported": 0,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 479.5,
+      "totalResponseTime": 959,
+      "lastCheck": "2026-08-07T04:11:25.186Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "27.124.71.27": {
+      "totalChecks": 11,
+      "onlineCount": 0,
+      "offlineCount": 11,
+      "headSupported": 3,
+      "getSupported": 11,
+      "tokenPatterns": [],
+      "avgResponseTime": 54.54545454545455,
+      "totalResponseTime": 600,
+      "lastCheck": "2026-08-07T04:13:40.117Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "andro.226503.xyz": {
+      "totalChecks": 3,
+      "onlineCount": 3,
+      "offlineCount": 0,
+      "headSupported": 3,
+      "getSupported": 3,
+      "tokenPatterns": [],
+      "avgResponseTime": 27,
+      "totalResponseTime": 81,
+      "lastCheck": "2026-08-07T04:11:50.887Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "tvsen7.aynaott.com": {
+      "totalChecks": 6,
+      "onlineCount": 0,
+      "offlineCount": 6,
+      "headSupported": 0,
+      "getSupported": 6,
+      "tokenPatterns": [],
+      "avgResponseTime": 48,
+      "totalResponseTime": 288,
+      "lastCheck": "2026-08-07T04:11:59.984Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "s3.itcnbd.live": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 216,
+      "totalResponseTime": 216,
+      "lastCheck": "2026-08-07T04:12:00.311Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "live.bdixbd.net": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 0,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 52,
+      "totalResponseTime": 52,
+      "lastCheck": "2026-08-07T04:12:01.105Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "198.195.239.50": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 0,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 5002,
+      "totalResponseTime": 5002,
+      "lastCheck": "2026-08-07T04:12:34.534Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "103.165.93.31": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 55,
+      "totalResponseTime": 55,
+      "lastCheck": "2026-08-07T04:12:36.418Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "hls.assadikb.workers.dev": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 862,
+      "totalResponseTime": 1724,
+      "lastCheck": "2026-08-07T04:13:51.416Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "padmaonline.duckdns.org": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 49,
+      "totalResponseTime": 49,
+      "lastCheck": "2026-08-07T04:12:39.020Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "main.epgmaker.com": {
+      "totalChecks": 2,
+      "onlineCount": 0,
+      "offlineCount": 2,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 165,
+      "totalResponseTime": 330,
+      "lastCheck": "2026-08-07T04:13:07.289Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "live.dinesh29.com.np": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 0,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 5003,
+      "totalResponseTime": 5003,
+      "lastCheck": "2026-08-07T04:13:07.194Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "103.159.180.34": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 631.5,
+      "totalResponseTime": 1263,
+      "lastCheck": "2026-08-07T04:14:21.251Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "live-bangla.akamaized.net": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 16.5,
+      "totalResponseTime": 33,
+      "lastCheck": "2026-08-07T04:13:08.117Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "live20.bozztv.com": {
+      "totalChecks": 7,
+      "onlineCount": 7,
+      "offlineCount": 0,
+      "headSupported": 7,
+      "getSupported": 7,
+      "tokenPatterns": [],
+      "avgResponseTime": 398.42857142857144,
+      "totalResponseTime": 2789,
+      "lastCheck": "2026-08-07T04:14:19.581Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "mumt05.tangotv.in": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 90,
+      "totalResponseTime": 90,
+      "lastCheck": "2026-08-07T04:13:12.767Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "banglajagotv.livebox.co.in": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 92,
+      "totalResponseTime": 92,
+      "lastCheck": "2026-08-07T04:13:12.861Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "pubads.g.doubleclick.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 946,
+      "totalResponseTime": 946,
+      "lastCheck": "2026-08-07T04:13:14.211Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "wiselp.wiseplayout.com": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 279,
+      "totalResponseTime": 279,
+      "lastCheck": "2026-08-07T04:13:15.138Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "cdn-4.pishow.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 215,
+      "totalResponseTime": 215,
+      "lastCheck": "2026-08-07T04:13:15.356Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "server.zillarbarta.com": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 68,
+      "totalResponseTime": 68,
+      "lastCheck": "2026-08-07T04:13:20.604Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "vodzong.mjunoon.tv": {
+      "totalChecks": 3,
+      "onlineCount": 0,
+      "offlineCount": 3,
+      "headSupported": 3,
+      "getSupported": 3,
+      "tokenPatterns": [],
+      "avgResponseTime": 545.3333333333334,
+      "totalResponseTime": 1636,
+      "lastCheck": "2026-08-07T04:13:39.059Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "dzkyvlfyge.erbvr.com": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 818,
+      "totalResponseTime": 1636,
+      "lastCheck": "2026-08-07T04:13:42.581Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 211,
+      "totalResponseTime": 211,
+      "lastCheck": "2026-08-07T04:13:42.792Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "vg-republictvyupp.akamaized.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 123,
+      "totalResponseTime": 123,
+      "lastCheck": "2026-08-07T04:13:42.916Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "dyjmyiv3bp2ez.cloudfront.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 60,
+      "totalResponseTime": 60,
+      "lastCheck": "2026-08-07T04:13:42.977Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "live-dangal.akamaized.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 26,
+      "totalResponseTime": 26,
+      "lastCheck": "2026-08-07T04:13:43.003Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "live-dangal2.akamaized.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 96,
+      "totalResponseTime": 96,
+      "lastCheck": "2026-08-07T04:13:43.100Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "d2lk5u59tns74c.cloudfront.net": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 99.5,
+      "totalResponseTime": 199,
+      "lastCheck": "2026-08-07T04:13:44.183Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "aajtaklive-amd.akamaized.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 28,
+      "totalResponseTime": 28,
+      "lastCheck": "2026-08-07T04:13:43.570Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi-n5tuk.amagi.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 519,
+      "totalResponseTime": 519,
+      "lastCheck": "2026-08-07T04:13:44.089Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "pl-indiatvnews.akamaized.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 105,
+      "totalResponseTime": 105,
+      "lastCheck": "2026-08-07T04:13:44.290Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "ndtv24x7elemarchana.akamaized.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 211,
+      "totalResponseTime": 211,
+      "lastCheck": "2026-08-07T04:13:44.501Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "ndtvindiaelemarchana.akamaized.net": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 237,
+      "totalResponseTime": 237,
+      "lastCheck": "2026-08-07T04:13:44.738Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "akdnetwork.co.in": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 266,
+      "totalResponseTime": 266,
+      "lastCheck": "2026-08-07T04:13:45.203Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 200,
+      "totalResponseTime": 200,
+      "lastCheck": "2026-08-07T04:13:50.191Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "dbcanada.sonarbanglatv.com": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 1001,
+      "totalResponseTime": 1001,
+      "lastCheck": "2026-08-07T04:13:51.192Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "66.102.126.10": {
+      "totalChecks": 2,
+      "onlineCount": 2,
+      "offlineCount": 0,
+      "headSupported": 2,
+      "getSupported": 2,
+      "tokenPatterns": [],
+      "avgResponseTime": 217.5,
+      "totalResponseTime": 435,
+      "lastCheck": "2026-08-07T04:13:51.838Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 208,
+      "totalResponseTime": 208,
+      "lastCheck": "2026-08-07T04:13:51.626Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "alvetv.com": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 0,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 5001,
+      "totalResponseTime": 5001,
+      "lastCheck": "2026-08-07T04:14:12.371Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "live.balajibroadband.com": {
+      "totalChecks": 3,
+      "onlineCount": 3,
+      "offlineCount": 0,
+      "headSupported": 3,
+      "getSupported": 3,
+      "tokenPatterns": [],
+      "avgResponseTime": 717.6666666666666,
+      "totalResponseTime": 2153,
+      "lastCheck": "2026-08-07T04:14:14.553Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "yowaimo.in": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 3522,
+      "totalResponseTime": 3522,
+      "lastCheck": "2026-08-07T04:14:18.076Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 213,
+      "totalResponseTime": 213,
+      "lastCheck": "2026-08-07T04:14:19.368Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 205,
+      "totalResponseTime": 205,
+      "lastCheck": "2026-08-07T04:14:19.787Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 555,
+      "totalResponseTime": 555,
+      "lastCheck": "2026-08-07T04:14:20.343Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "cdn-ue1-prod.tsv2.amagi.tv": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 435,
+      "totalResponseTime": 435,
+      "lastCheck": "2026-08-07T04:14:20.778Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    }
+  }
+}
