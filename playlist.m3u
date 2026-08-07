@@ -220,7 +220,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=1477&e=.m3u8
 
 # Group: sports
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" tvg-id="" tvg-name="" group-title="sports",T Sports HD
-http://monirul.bro.bd/sm/stream.php?id=t_sports&e=.m3u8
+https://bongoflix.eamintalukdar.workers.dev/output/TnMn5kZz8aLm.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" tvg-id="" tvg-name="A SPOR" group-title="sports",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" tvg-id="" tvg-name="" group-title="sports",beIN sports Xtra HD
@@ -246,21 +246,21 @@ https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" tvg-id="" tvg-name="" group-title="sports",Star Sports 1 Hindi HD
 http://103.253.18.58:8000/play/a00t
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" tvg-id="" tvg-name="" group-title="sports",Star Sports 2 HD (720p)
-http://monirul.bro.bd/sm/stream.php?id=star_sports_2_hd&e=.m3u8
+http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" tvg-id="" tvg-name="" group-title="sports",Star Sports Select 1 HD (720p)
 http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" tvg-id="" tvg-name="" group-title="sports",Star Sports Select 2 HD (720p)
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",Star Sports 1 (server1)
-http://monirul.bro.bd/sm/stream.php?id=star_sports_1_hd&e=.m3u8
+http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",Star Sports 1 Hindi
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",PTV Sports
-http://monirul.bro.bd/sm/stream.php?id=ptv_sports_hd&e=.m3u8
+http://premimum.online/live/jen12345/jen54321/89.ts
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",Ten Sports (server2)
 https://fifa.assadikb.workers.dev/?id=ten_cricket
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",A Sports HD
-http://monirul.bro.bd/sm/stream.php?id=a_sports_hd&e=.m3u8
+https://playztv-apps.pages.dev/asports/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",Sky Sports Cricket
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/7343/index.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" tvg-id="" tvg-name="" group-title="sports",beIN Sports 1
