@@ -137,10 +137,6 @@ http://66.102.126.10:8000/play/a00f/index.m3u8
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=and_pictures_hd&format=.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg" tvg-id="hindi_movie_classic_24" tvg-name="Hindi Movie Classic 24" group-title="Hindi",Hindi Movie Classic 24
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hindi_movie_classic_24&format=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" tvg-id="" tvg-name="" group-title="Hindi",Zee Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png" tvg-id="" tvg-name="Shemaroo Bollywood" group-title="Hindi",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 # Group: sports
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" tvg-id="" tvg-name="" group-title="sports",T Sports HD
@@ -236,7 +232,7 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=dubai_sports_1&format=.m3u8
 
 # Group: Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
-http://103.151.61.12/Star_Jalsha/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+https://sm-monirul.top/sm/proxy.php?id=star_jalsha&formet=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/star-jalsha-hd-uk.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha hd
 https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Jalsha Movies HD
@@ -269,14 +265,10 @@ https://madanitv.assadikb.workers.dev/live.php?id=1669&e=.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/colors-hd.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Colors HD
 http://66.102.126.10:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_68b8c3bbc8b629bbc2c00880b4546d74_playmist_sangeet_bangla400x400.jpg" tvg-id="sangeet_bangla" tvg-name="Sangeet Bangla" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Sangeet Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sangeet_bangla&format=.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg" tvg-id="sony_aath" tvg-name="Sony AATH" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Sony AATH
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sony_aath&format=.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-13/images_45a1af747f3728954d1e83ab457d8e53_playmist_republic_bangla_400x400.jpg" tvg-id="republic_bangla" tvg-name="Republic Bangla" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Republic Bangla
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=republic_bangla&format=.m3u8
+https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_067234e427ca902620258631b762cea8_playmist_kolkata_tv_400x400.jpg" tvg-id="kolkata_tv" tvg-name="kolkata TV" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",kolkata TV
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=kolkata_tv&format=.m3u8
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla Cinema
 http://103.159.180.34:5001/live/3476.m3u8
 
@@ -295,8 +287,6 @@ https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=3006&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sangeet-bangla.png" tvg-id="" tvg-name="" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_293d590e382ae09a9d8028c4c56d4ee3_playmist_music_india_400x400.jpg" tvg-id="music_india" tvg-name="Music India" group-title="𝐌𝐮𝐬𝐢𝐜",Music India
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=music_india&format=.m3u8
 
 # Group: 𝐊𝐢𝐝𝐬
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbKqj0w3/1000086946.jpg" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",Moto Patlu
