@@ -7,9 +7,9 @@
       "headSupported": 43,
       "getSupported": 43,
       "tokenPatterns": [],
-      "avgResponseTime": 450.86046511627904,
-      "totalResponseTime": 19387,
-      "lastCheck": "2026-08-07T04:43:17.239Z",
+      "avgResponseTime": 574.953488372093,
+      "totalResponseTime": 24723,
+      "lastCheck": "2026-08-07T05:33:34.828Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -65,7 +65,7 @@
       "tokenPatterns": [],
       "avgResponseTime": 3,
       "totalResponseTime": 3,
-      "lastCheck": "2026-08-07T04:39:14.613Z",
+      "lastCheck": "2026-08-07T05:29:37.548Z",
       "sourceTypes": [
         "manual"
       ]
@@ -77,9 +77,9 @@
       "headSupported": 0,
       "getSupported": 44,
       "tokenPatterns": [],
-      "avgResponseTime": 2.4545454545454546,
-      "totalResponseTime": 108,
-      "lastCheck": "2026-08-07T04:42:41.085Z",
+      "avgResponseTime": 2.590909090909091,
+      "totalResponseTime": 114,
+      "lastCheck": "2026-08-07T05:33:00.759Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -134,9 +134,9 @@
       "headSupported": 0,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 3,
-      "totalResponseTime": 3,
-      "lastCheck": "2026-08-07T04:39:23.058Z",
+      "avgResponseTime": 2,
+      "totalResponseTime": 2,
+      "lastCheck": "2026-08-07T05:29:45.929Z",
       "sourceTypes": [
         "manual"
       ]
@@ -148,9 +148,9 @@
       "headSupported": 8,
       "getSupported": 8,
       "tokenPatterns": [],
-      "avgResponseTime": 130.625,
-      "totalResponseTime": 1045,
-      "lastCheck": "2026-08-07T04:42:41.080Z",
+      "avgResponseTime": 279.125,
+      "totalResponseTime": 2233,
+      "lastCheck": "2026-08-07T05:33:00.757Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -169,9 +169,9 @@
       "headSupported": 3,
       "getSupported": 3,
       "tokenPatterns": [],
-      "avgResponseTime": 1010.3333333333334,
-      "totalResponseTime": 3031,
-      "lastCheck": "2026-08-07T04:43:03.401Z",
+      "avgResponseTime": 786,
+      "totalResponseTime": 2358,
+      "lastCheck": "2026-08-07T05:33:22.241Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -185,9 +185,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 104,
-      "totalResponseTime": 104,
-      "lastCheck": "2026-08-07T04:39:31.233Z",
+      "avgResponseTime": 100,
+      "totalResponseTime": 100,
+      "lastCheck": "2026-08-07T05:29:53.752Z",
       "sourceTypes": [
         "manual"
       ]
@@ -199,9 +199,9 @@
       "headSupported": 0,
       "getSupported": 15,
       "tokenPatterns": [],
-      "avgResponseTime": 2.3333333333333335,
-      "totalResponseTime": 35,
-      "lastCheck": "2026-08-07T04:43:14.281Z",
+      "avgResponseTime": 2.2666666666666666,
+      "totalResponseTime": 34,
+      "lastCheck": "2026-08-07T05:33:31.766Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -229,9 +229,9 @@
       "tokenPatterns": [
         "token=i7bZaZWaFrSIE0"
       ],
-      "avgResponseTime": 75.4,
-      "totalResponseTime": 377,
-      "lastCheck": "2026-08-07T04:42:29.291Z",
+      "avgResponseTime": 71.4,
+      "totalResponseTime": 357,
+      "lastCheck": "2026-08-07T05:32:40.457Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -241,16 +241,17 @@
       ]
     },
     "stream.ottplus.live": {
-      "totalChecks": 9,
+      "totalChecks": 10,
       "onlineCount": 9,
-      "offlineCount": 0,
-      "headSupported": 9,
-      "getSupported": 9,
+      "offlineCount": 1,
+      "headSupported": 10,
+      "getSupported": 10,
       "tokenPatterns": [],
-      "avgResponseTime": 102.77777777777777,
-      "totalResponseTime": 925,
-      "lastCheck": "2026-08-07T04:43:00.805Z",
+      "avgResponseTime": 77.5,
+      "totalResponseTime": 775,
+      "lastCheck": "2026-08-07T05:33:20.428Z",
       "sourceTypes": [
+        "manual",
         "manual",
         "manual",
         "manual",
@@ -269,9 +270,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 242,
-      "totalResponseTime": 242,
-      "lastCheck": "2026-08-07T04:39:34.692Z",
+      "avgResponseTime": 205,
+      "totalResponseTime": 205,
+      "lastCheck": "2026-08-07T05:29:57.175Z",
       "sourceTypes": [
         "manual"
       ]
@@ -283,9 +284,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 169,
-      "totalResponseTime": 169,
-      "lastCheck": "2026-08-07T04:39:34.863Z",
+      "avgResponseTime": 235,
+      "totalResponseTime": 235,
+      "lastCheck": "2026-08-07T05:29:57.410Z",
       "sourceTypes": [
         "manual"
       ]
@@ -297,9 +298,9 @@
       "headSupported": 4,
       "getSupported": 4,
       "tokenPatterns": [],
-      "avgResponseTime": 203,
-      "totalResponseTime": 812,
-      "lastCheck": "2026-08-07T04:42:35.440Z",
+      "avgResponseTime": 198.5,
+      "totalResponseTime": 794,
+      "lastCheck": "2026-08-07T05:32:54.294Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -314,9 +315,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 243,
-      "totalResponseTime": 243,
-      "lastCheck": "2026-08-07T04:39:36.062Z",
+      "avgResponseTime": 248,
+      "totalResponseTime": 248,
+      "lastCheck": "2026-08-07T05:29:58.649Z",
       "sourceTypes": [
         "manual"
       ]
@@ -328,9 +329,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 300,
-      "totalResponseTime": 300,
-      "lastCheck": "2026-08-07T04:39:36.716Z",
+      "avgResponseTime": 368,
+      "totalResponseTime": 368,
+      "lastCheck": "2026-08-07T05:29:59.356Z",
       "sourceTypes": [
         "manual"
       ]
@@ -342,9 +343,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 737,
-      "totalResponseTime": 737,
-      "lastCheck": "2026-08-07T04:39:37.657Z",
+      "avgResponseTime": 780,
+      "totalResponseTime": 780,
+      "lastCheck": "2026-08-07T05:30:00.325Z",
       "sourceTypes": [
         "manual"
       ]
@@ -356,9 +357,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 337,
-      "totalResponseTime": 337,
-      "lastCheck": "2026-08-07T04:39:37.994Z",
+      "avgResponseTime": 320,
+      "totalResponseTime": 320,
+      "lastCheck": "2026-08-07T05:30:00.645Z",
       "sourceTypes": [
         "manual"
       ]
@@ -370,9 +371,9 @@
       "headSupported": 16,
       "getSupported": 16,
       "tokenPatterns": [],
-      "avgResponseTime": 87.1875,
-      "totalResponseTime": 1395,
-      "lastCheck": "2026-08-07T04:42:38.176Z",
+      "avgResponseTime": 89.6875,
+      "totalResponseTime": 1435,
+      "lastCheck": "2026-08-07T05:32:57.900Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -399,9 +400,9 @@
       "headSupported": 4,
       "getSupported": 4,
       "tokenPatterns": [],
-      "avgResponseTime": 98,
-      "totalResponseTime": 392,
-      "lastCheck": "2026-08-07T04:39:39.444Z",
+      "avgResponseTime": 112.75,
+      "totalResponseTime": 451,
+      "lastCheck": "2026-08-07T05:30:02.284Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -416,9 +417,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 591,
-      "totalResponseTime": 1182,
-      "lastCheck": "2026-08-07T04:42:36.306Z",
+      "avgResponseTime": 760,
+      "totalResponseTime": 1520,
+      "lastCheck": "2026-08-07T05:32:56.378Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -431,9 +432,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 844,
-      "totalResponseTime": 844,
-      "lastCheck": "2026-08-07T04:39:40.365Z",
+      "avgResponseTime": 643,
+      "totalResponseTime": 643,
+      "lastCheck": "2026-08-07T05:30:03.002Z",
       "sourceTypes": [
         "manual"
       ]
@@ -445,24 +446,25 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 170,
-      "totalResponseTime": 170,
-      "lastCheck": "2026-08-07T04:39:40.536Z",
+      "avgResponseTime": 215,
+      "totalResponseTime": 215,
+      "lastCheck": "2026-08-07T05:30:03.217Z",
       "sourceTypes": [
         "manual"
       ]
     },
     "stream.ottplus.bd": {
-      "totalChecks": 3,
+      "totalChecks": 4,
       "onlineCount": 0,
-      "offlineCount": 3,
+      "offlineCount": 4,
       "headSupported": 0,
-      "getSupported": 3,
+      "getSupported": 4,
       "tokenPatterns": [],
-      "avgResponseTime": 23,
-      "totalResponseTime": 69,
-      "lastCheck": "2026-08-07T04:42:50.784Z",
+      "avgResponseTime": 24.25,
+      "totalResponseTime": 97,
+      "lastCheck": "2026-08-07T05:33:10.427Z",
       "sourceTypes": [
+        "manual",
         "manual",
         "manual",
         "manual"
@@ -475,9 +477,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 17.5,
-      "totalResponseTime": 35,
-      "lastCheck": "2026-08-07T04:42:31.233Z",
+      "avgResponseTime": 18.5,
+      "totalResponseTime": 37,
+      "lastCheck": "2026-08-07T05:32:50.032Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -490,9 +492,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 536,
-      "totalResponseTime": 536,
-      "lastCheck": "2026-08-07T04:39:42.718Z",
+      "avgResponseTime": 542,
+      "totalResponseTime": 542,
+      "lastCheck": "2026-08-07T05:30:05.308Z",
       "sourceTypes": [
         "manual"
       ]
@@ -504,9 +506,9 @@
       "headSupported": 4,
       "getSupported": 4,
       "tokenPatterns": [],
-      "avgResponseTime": 218,
-      "totalResponseTime": 872,
-      "lastCheck": "2026-08-07T04:42:41.090Z",
+      "avgResponseTime": 227,
+      "totalResponseTime": 908,
+      "lastCheck": "2026-08-07T05:33:00.762Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -521,24 +523,25 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 235,
-      "totalResponseTime": 235,
-      "lastCheck": "2026-08-07T04:39:42.939Z",
+      "avgResponseTime": 227,
+      "totalResponseTime": 227,
+      "lastCheck": "2026-08-07T05:30:05.537Z",
       "sourceTypes": [
         "manual"
       ]
     },
     "s2.itcnbd.live": {
-      "totalChecks": 1,
-      "onlineCount": 1,
+      "totalChecks": 2,
+      "onlineCount": 2,
       "offlineCount": 0,
-      "headSupported": 1,
-      "getSupported": 1,
+      "headSupported": 2,
+      "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 237,
-      "totalResponseTime": 237,
-      "lastCheck": "2026-08-07T04:39:47.792Z",
+      "avgResponseTime": 111.5,
+      "totalResponseTime": 223,
+      "lastCheck": "2026-08-07T05:32:50.013Z",
       "sourceTypes": [
+        "manual",
         "manual"
       ]
     },
@@ -549,9 +552,9 @@
       "headSupported": 5,
       "getSupported": 5,
       "tokenPatterns": [],
-      "avgResponseTime": 223,
-      "totalResponseTime": 1115,
-      "lastCheck": "2026-08-07T04:42:41.088Z",
+      "avgResponseTime": 218,
+      "totalResponseTime": 1090,
+      "lastCheck": "2026-08-07T05:33:00.762Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -567,9 +570,9 @@
       "headSupported": 4,
       "getSupported": 4,
       "tokenPatterns": [],
-      "avgResponseTime": 340,
-      "totalResponseTime": 1360,
-      "lastCheck": "2026-08-07T04:42:29.293Z",
+      "avgResponseTime": 348,
+      "totalResponseTime": 1392,
+      "lastCheck": "2026-08-07T05:32:40.458Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -584,9 +587,9 @@
       "headSupported": 5,
       "getSupported": 5,
       "tokenPatterns": [],
-      "avgResponseTime": 360,
-      "totalResponseTime": 1800,
-      "lastCheck": "2026-08-07T04:40:30.731Z",
+      "avgResponseTime": 348,
+      "totalResponseTime": 1740,
+      "lastCheck": "2026-08-07T05:30:45.764Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -602,9 +605,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 1402,
-      "totalResponseTime": 1402,
-      "lastCheck": "2026-08-07T04:39:52.547Z",
+      "avgResponseTime": 1466,
+      "totalResponseTime": 1466,
+      "lastCheck": "2026-08-07T05:30:11.067Z",
       "sourceTypes": [
         "manual"
       ]
@@ -616,9 +619,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 681,
-      "totalResponseTime": 1362,
-      "lastCheck": "2026-08-07T04:41:14.660Z",
+      "avgResponseTime": 677.5,
+      "totalResponseTime": 1355,
+      "lastCheck": "2026-08-07T05:31:25.749Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -631,9 +634,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 639,
-      "totalResponseTime": 1278,
-      "lastCheck": "2026-08-07T04:40:02.938Z",
+      "avgResponseTime": 508.5,
+      "totalResponseTime": 1017,
+      "lastCheck": "2026-08-07T05:30:21.176Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -646,9 +649,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 885,
-      "totalResponseTime": 885,
-      "lastCheck": "2026-08-07T04:39:57.074Z",
+      "avgResponseTime": 1264,
+      "totalResponseTime": 1264,
+      "lastCheck": "2026-08-07T05:30:15.729Z",
       "sourceTypes": [
         "manual"
       ]
@@ -660,9 +663,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 3037,
-      "totalResponseTime": 3037,
-      "lastCheck": "2026-08-07T04:40:00.851Z",
+      "avgResponseTime": 3002,
+      "totalResponseTime": 3002,
+      "lastCheck": "2026-08-07T05:30:19.223Z",
       "sourceTypes": [
         "manual"
       ]
@@ -674,9 +677,9 @@
       "headSupported": 4,
       "getSupported": 4,
       "tokenPatterns": [],
-      "avgResponseTime": 212,
-      "totalResponseTime": 848,
-      "lastCheck": "2026-08-07T04:43:00.956Z",
+      "avgResponseTime": 115,
+      "totalResponseTime": 460,
+      "lastCheck": "2026-08-07T05:33:20.568Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -691,9 +694,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 320,
-      "totalResponseTime": 320,
-      "lastCheck": "2026-08-07T04:40:01.502Z",
+      "avgResponseTime": 640,
+      "totalResponseTime": 640,
+      "lastCheck": "2026-08-07T05:30:20.052Z",
       "sourceTypes": [
         "manual"
       ]
@@ -705,9 +708,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 237,
-      "totalResponseTime": 237,
-      "lastCheck": "2026-08-07T04:40:01.740Z",
+      "avgResponseTime": 238,
+      "totalResponseTime": 238,
+      "lastCheck": "2026-08-07T05:30:20.290Z",
       "sourceTypes": [
         "manual"
       ]
@@ -719,9 +722,9 @@
       "headSupported": 5,
       "getSupported": 5,
       "tokenPatterns": [],
-      "avgResponseTime": 106,
-      "totalResponseTime": 530,
-      "lastCheck": "2026-08-07T04:43:09.064Z",
+      "avgResponseTime": 100.4,
+      "totalResponseTime": 502,
+      "lastCheck": "2026-08-07T05:33:26.613Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -737,9 +740,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 667,
-      "totalResponseTime": 667,
-      "lastCheck": "2026-08-07T04:40:03.723Z",
+      "avgResponseTime": 664,
+      "totalResponseTime": 664,
+      "lastCheck": "2026-08-07T05:30:21.955Z",
       "sourceTypes": [
         "manual"
       ]
@@ -751,9 +754,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 193,
-      "totalResponseTime": 193,
-      "lastCheck": "2026-08-07T04:40:03.916Z",
+      "avgResponseTime": 191,
+      "totalResponseTime": 191,
+      "lastCheck": "2026-08-07T05:30:22.147Z",
       "sourceTypes": [
         "manual"
       ]
@@ -765,62 +768,39 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 110.5,
-      "totalResponseTime": 221,
-      "lastCheck": "2026-08-07T04:40:04.140Z",
+      "avgResponseTime": 111.5,
+      "totalResponseTime": 223,
+      "lastCheck": "2026-08-07T05:30:22.371Z",
       "sourceTypes": [
         "manual",
         "manual"
       ]
     },
     "cdn7.zohanayaan.com": {
-      "totalChecks": 2,
+      "totalChecks": 1,
       "onlineCount": 0,
-      "offlineCount": 2,
+      "offlineCount": 1,
       "headSupported": 0,
-      "getSupported": 2,
+      "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 491,
-      "totalResponseTime": 982,
-      "lastCheck": "2026-08-07T04:40:58.473Z",
+      "avgResponseTime": 504,
+      "totalResponseTime": 504,
+      "lastCheck": "2026-08-07T05:30:22.372Z",
       "sourceTypes": [
-        "manual",
-        "manual"
-      ]
-    },
-    "cdn3.zohanayaan.com": {
-      "totalChecks": 7,
-      "onlineCount": 0,
-      "offlineCount": 7,
-      "headSupported": 0,
-      "getSupported": 7,
-      "tokenPatterns": [],
-      "avgResponseTime": 477,
-      "totalResponseTime": 3339,
-      "lastCheck": "2026-08-07T04:41:05.626Z",
-      "sourceTypes": [
-        "manual",
-        "manual",
-        "manual",
-        "manual",
-        "manual",
-        "manual",
         "manual"
       ]
     },
     "cdn1.zohanayaan.com": {
-      "totalChecks": 3,
+      "totalChecks": 1,
       "onlineCount": 0,
-      "offlineCount": 3,
+      "offlineCount": 1,
       "headSupported": 0,
-      "getSupported": 3,
+      "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 488.3333333333333,
-      "totalResponseTime": 1465,
-      "lastCheck": "2026-08-07T04:40:54.713Z",
+      "avgResponseTime": 477,
+      "totalResponseTime": 477,
+      "lastCheck": "2026-08-07T05:30:26.208Z",
       "sourceTypes": [
-        "manual",
-        "manual",
         "manual"
       ]
     },
@@ -831,9 +811,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 42,
-      "totalResponseTime": 42,
-      "lastCheck": "2026-08-07T04:40:11.882Z",
+      "avgResponseTime": 44,
+      "totalResponseTime": 44,
+      "lastCheck": "2026-08-07T05:30:26.319Z",
       "sourceTypes": [
         "manual"
       ]
@@ -845,10 +825,46 @@
       "headSupported": 0,
       "getSupported": 3,
       "tokenPatterns": [],
-      "avgResponseTime": 476.6666666666667,
-      "totalResponseTime": 1430,
-      "lastCheck": "2026-08-07T04:40:30.732Z",
+      "avgResponseTime": 484,
+      "totalResponseTime": 1452,
+      "lastCheck": "2026-08-07T05:31:09.508Z",
       "sourceTypes": [
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "cdn10.zohanayaan.com": {
+      "totalChecks": 4,
+      "onlineCount": 0,
+      "offlineCount": 4,
+      "headSupported": 0,
+      "getSupported": 4,
+      "tokenPatterns": [],
+      "avgResponseTime": 478.25,
+      "totalResponseTime": 1913,
+      "lastCheck": "2026-08-07T05:30:53.140Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
+        "manual"
+      ]
+    },
+    "cdn3.zohanayaan.com": {
+      "totalChecks": 6,
+      "onlineCount": 0,
+      "offlineCount": 6,
+      "headSupported": 0,
+      "getSupported": 6,
+      "tokenPatterns": [],
+      "avgResponseTime": 487.6666666666667,
+      "totalResponseTime": 2926,
+      "lastCheck": "2026-08-07T05:31:16.696Z",
+      "sourceTypes": [
+        "manual",
+        "manual",
+        "manual",
         "manual",
         "manual",
         "manual"
@@ -865,7 +881,7 @@
       ],
       "avgResponseTime": 76,
       "totalResponseTime": 304,
-      "lastCheck": "2026-08-07T04:41:14.819Z",
+      "lastCheck": "2026-08-07T05:31:25.908Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -873,46 +889,16 @@
         "manual"
       ]
     },
-    "warm-caverns-48629-92fab798385f.herokuapp.com": {
-      "totalChecks": 2,
-      "onlineCount": 0,
-      "offlineCount": 2,
-      "headSupported": 2,
-      "getSupported": 2,
-      "tokenPatterns": [],
-      "avgResponseTime": 265,
-      "totalResponseTime": 530,
-      "lastCheck": "2026-08-07T04:40:30.728Z",
-      "sourceTypes": [
-        "manual",
-        "manual"
-      ]
-    },
-    "premimum.online": {
-      "totalChecks": 2,
-      "onlineCount": 2,
-      "offlineCount": 0,
-      "headSupported": 2,
-      "getSupported": 2,
-      "tokenPatterns": [],
-      "avgResponseTime": 47,
-      "totalResponseTime": 94,
-      "lastCheck": "2026-08-07T04:41:58.867Z",
-      "sourceTypes": [
-        "manual",
-        "manual"
-      ]
-    },
-    "cdn10.zohanayaan.com": {
+    "cdn9.zohanayaan.com": {
       "totalChecks": 2,
       "onlineCount": 0,
       "offlineCount": 2,
       "headSupported": 0,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 483,
-      "totalResponseTime": 966,
-      "lastCheck": "2026-08-07T04:40:38.365Z",
+      "avgResponseTime": 482,
+      "totalResponseTime": 964,
+      "lastCheck": "2026-08-07T05:30:45.757Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -927,7 +913,7 @@
       "tokenPatterns": [],
       "avgResponseTime": 479,
       "totalResponseTime": 479,
-      "lastCheck": "2026-08-07T04:40:34.622Z",
+      "lastCheck": "2026-08-07T05:30:49.723Z",
       "sourceTypes": [
         "manual"
       ]
@@ -939,9 +925,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 175,
-      "totalResponseTime": 175,
-      "lastCheck": "2026-08-07T04:40:39.387Z",
+      "avgResponseTime": 174,
+      "totalResponseTime": 174,
+      "lastCheck": "2026-08-07T05:30:54.128Z",
       "sourceTypes": [
         "manual"
       ]
@@ -953,9 +939,9 @@
       "headSupported": 0,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 478,
-      "totalResponseTime": 478,
-      "lastCheck": "2026-08-07T04:40:41.550Z",
+      "avgResponseTime": 476,
+      "totalResponseTime": 476,
+      "lastCheck": "2026-08-07T05:30:56.234Z",
       "sourceTypes": [
         "manual"
       ]
@@ -967,11 +953,25 @@
       "headSupported": 0,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 479.5,
-      "totalResponseTime": 959,
-      "lastCheck": "2026-08-07T04:40:50.889Z",
+      "avgResponseTime": 482,
+      "totalResponseTime": 964,
+      "lastCheck": "2026-08-07T05:31:01.871Z",
       "sourceTypes": [
         "manual",
+        "manual"
+      ]
+    },
+    "cdn5.zohanayaan.com": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 0,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 479,
+      "totalResponseTime": 479,
+      "lastCheck": "2026-08-07T05:31:05.732Z",
+      "sourceTypes": [
         "manual"
       ]
     },
@@ -982,9 +982,9 @@
       "headSupported": 3,
       "getSupported": 11,
       "tokenPatterns": [],
-      "avgResponseTime": 55.90909090909091,
-      "totalResponseTime": 615,
-      "lastCheck": "2026-08-07T04:43:01.784Z",
+      "avgResponseTime": 54.90909090909091,
+      "totalResponseTime": 604,
+      "lastCheck": "2026-08-07T05:33:21.396Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -1006,9 +1006,9 @@
       "headSupported": 3,
       "getSupported": 3,
       "tokenPatterns": [],
-      "avgResponseTime": 28,
-      "totalResponseTime": 84,
-      "lastCheck": "2026-08-07T04:41:13.979Z",
+      "avgResponseTime": 36,
+      "totalResponseTime": 108,
+      "lastCheck": "2026-08-07T05:31:25.057Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -1022,9 +1022,9 @@
       "headSupported": 0,
       "getSupported": 6,
       "tokenPatterns": [],
-      "avgResponseTime": 49.166666666666664,
-      "totalResponseTime": 295,
-      "lastCheck": "2026-08-07T04:41:23.179Z",
+      "avgResponseTime": 47.666666666666664,
+      "totalResponseTime": 286,
+      "lastCheck": "2026-08-07T05:31:34.158Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -1041,9 +1041,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 260,
-      "totalResponseTime": 260,
-      "lastCheck": "2026-08-07T04:41:23.553Z",
+      "avgResponseTime": 233,
+      "totalResponseTime": 233,
+      "lastCheck": "2026-08-07T05:31:34.492Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1057,7 +1057,7 @@
       "tokenPatterns": [],
       "avgResponseTime": 57,
       "totalResponseTime": 57,
-      "lastCheck": "2026-08-07T04:41:23.554Z",
+      "lastCheck": "2026-08-07T05:31:34.493Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1069,9 +1069,9 @@
       "headSupported": 0,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 5003,
-      "totalResponseTime": 5003,
-      "lastCheck": "2026-08-07T04:41:56.927Z",
+      "avgResponseTime": 5002,
+      "totalResponseTime": 5002,
+      "lastCheck": "2026-08-07T05:32:07.872Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1083,9 +1083,23 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 50,
-      "totalResponseTime": 50,
-      "lastCheck": "2026-08-07T04:41:58.778Z",
+      "avgResponseTime": 54,
+      "totalResponseTime": 54,
+      "lastCheck": "2026-08-07T05:32:09.748Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "premimum.online": {
+      "totalChecks": 1,
+      "onlineCount": 1,
+      "offlineCount": 0,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [],
+      "avgResponseTime": 30,
+      "totalResponseTime": 30,
+      "lastCheck": "2026-08-07T05:32:09.859Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1097,9 +1111,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 952,
-      "totalResponseTime": 1904,
-      "lastCheck": "2026-08-07T04:43:15.982Z",
+      "avgResponseTime": 923,
+      "totalResponseTime": 1846,
+      "lastCheck": "2026-08-07T05:33:33.673Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -1114,7 +1128,7 @@
       "tokenPatterns": [],
       "avgResponseTime": 50,
       "totalResponseTime": 50,
-      "lastCheck": "2026-08-07T04:42:01.304Z",
+      "lastCheck": "2026-08-07T05:32:12.510Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1128,7 +1142,7 @@
       "tokenPatterns": [],
       "avgResponseTime": 165,
       "totalResponseTime": 330,
-      "lastCheck": "2026-08-07T04:42:29.292Z",
+      "lastCheck": "2026-08-07T05:32:40.458Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -1143,7 +1157,7 @@
       "tokenPatterns": [],
       "avgResponseTime": 5002,
       "totalResponseTime": 5002,
-      "lastCheck": "2026-08-07T04:42:29.273Z",
+      "lastCheck": "2026-08-07T05:32:40.364Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1155,9 +1169,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 519,
-      "totalResponseTime": 1038,
-      "lastCheck": "2026-08-07T04:43:23.896Z",
+      "avgResponseTime": 899.5,
+      "totalResponseTime": 1799,
+      "lastCheck": "2026-08-07T05:33:43.823Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -1170,9 +1184,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 166,
-      "totalResponseTime": 332,
-      "lastCheck": "2026-08-07T04:42:30.192Z",
+      "avgResponseTime": 146,
+      "totalResponseTime": 292,
+      "lastCheck": "2026-08-07T05:32:41.346Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -1180,14 +1194,14 @@
     },
     "live20.bozztv.com": {
       "totalChecks": 7,
-      "onlineCount": 7,
-      "offlineCount": 0,
+      "onlineCount": 6,
+      "offlineCount": 1,
       "headSupported": 7,
       "getSupported": 7,
       "tokenPatterns": [],
-      "avgResponseTime": 415.14285714285717,
-      "totalResponseTime": 2906,
-      "lastCheck": "2026-08-07T04:43:22.200Z",
+      "avgResponseTime": 338.42857142857144,
+      "totalResponseTime": 2369,
+      "lastCheck": "2026-08-07T05:33:41.418Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -1195,6 +1209,22 @@
         "manual",
         "manual",
         "manual",
+        "manual"
+      ]
+    },
+    "edge2.roarzone.net": {
+      "totalChecks": 1,
+      "onlineCount": 0,
+      "offlineCount": 1,
+      "headSupported": 1,
+      "getSupported": 1,
+      "tokenPatterns": [
+        "token=c1bbca22ab088b19c0bba490f6f74c67dcff3a88-61933a142add01f3550129205ce90895-1781061323-1781050523"
+      ],
+      "avgResponseTime": 49,
+      "totalResponseTime": 49,
+      "lastCheck": "2026-08-07T05:32:47.985Z",
+      "sourceTypes": [
         "manual"
       ]
     },
@@ -1205,9 +1235,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 82,
-      "totalResponseTime": 82,
-      "lastCheck": "2026-08-07T04:42:35.139Z",
+      "avgResponseTime": 79,
+      "totalResponseTime": 79,
+      "lastCheck": "2026-08-07T05:32:53.996Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1219,9 +1249,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 92,
-      "totalResponseTime": 92,
-      "lastCheck": "2026-08-07T04:42:35.234Z",
+      "avgResponseTime": 91,
+      "totalResponseTime": 91,
+      "lastCheck": "2026-08-07T05:32:54.089Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1233,9 +1263,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 267,
-      "totalResponseTime": 267,
-      "lastCheck": "2026-08-07T04:42:35.877Z",
+      "avgResponseTime": 1001,
+      "totalResponseTime": 1001,
+      "lastCheck": "2026-08-07T05:32:55.755Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1247,9 +1277,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 222,
-      "totalResponseTime": 222,
-      "lastCheck": "2026-08-07T04:42:36.599Z",
+      "avgResponseTime": 296,
+      "totalResponseTime": 296,
+      "lastCheck": "2026-08-07T05:32:56.764Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1261,9 +1291,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 529,
-      "totalResponseTime": 529,
-      "lastCheck": "2026-08-07T04:42:37.132Z",
+      "avgResponseTime": 170,
+      "totalResponseTime": 170,
+      "lastCheck": "2026-08-07T05:32:56.935Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1275,9 +1305,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 69,
-      "totalResponseTime": 69,
-      "lastCheck": "2026-08-07T04:42:42.456Z",
+      "avgResponseTime": 73,
+      "totalResponseTime": 73,
+      "lastCheck": "2026-08-07T05:33:02.144Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1289,9 +1319,9 @@
       "headSupported": 3,
       "getSupported": 3,
       "tokenPatterns": [],
-      "avgResponseTime": 539,
-      "totalResponseTime": 1617,
-      "lastCheck": "2026-08-07T04:43:00.676Z",
+      "avgResponseTime": 522.3333333333334,
+      "totalResponseTime": 1567,
+      "lastCheck": "2026-08-07T05:33:20.302Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -1305,9 +1335,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 1190.5,
-      "totalResponseTime": 2381,
-      "lastCheck": "2026-08-07T04:43:05.784Z",
+      "avgResponseTime": 939,
+      "totalResponseTime": 1878,
+      "lastCheck": "2026-08-07T05:33:24.121Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -1320,9 +1350,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 199,
-      "totalResponseTime": 199,
-      "lastCheck": "2026-08-07T04:43:05.985Z",
+      "avgResponseTime": 210,
+      "totalResponseTime": 210,
+      "lastCheck": "2026-08-07T05:33:24.333Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1334,9 +1364,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 314,
-      "totalResponseTime": 314,
-      "lastCheck": "2026-08-07T04:43:06.300Z",
+      "avgResponseTime": 126,
+      "totalResponseTime": 126,
+      "lastCheck": "2026-08-07T05:33:24.460Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1348,9 +1378,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 283,
-      "totalResponseTime": 283,
-      "lastCheck": "2026-08-07T04:43:06.583Z",
+      "avgResponseTime": 76,
+      "totalResponseTime": 76,
+      "lastCheck": "2026-08-07T05:33:24.538Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1362,9 +1392,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 58,
-      "totalResponseTime": 58,
-      "lastCheck": "2026-08-07T04:43:06.641Z",
+      "avgResponseTime": 80,
+      "totalResponseTime": 80,
+      "lastCheck": "2026-08-07T05:33:24.618Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1376,9 +1406,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 350,
-      "totalResponseTime": 350,
-      "lastCheck": "2026-08-07T04:43:06.993Z",
+      "avgResponseTime": 329,
+      "totalResponseTime": 329,
+      "lastCheck": "2026-08-07T05:33:24.948Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1390,9 +1420,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 104,
-      "totalResponseTime": 208,
-      "lastCheck": "2026-08-07T04:43:08.107Z",
+      "avgResponseTime": 108,
+      "totalResponseTime": 216,
+      "lastCheck": "2026-08-07T05:33:25.836Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -1405,9 +1435,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 137,
-      "totalResponseTime": 137,
-      "lastCheck": "2026-08-07T04:43:07.434Z",
+      "avgResponseTime": 53,
+      "totalResponseTime": 53,
+      "lastCheck": "2026-08-07T05:33:25.317Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1419,9 +1449,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 574,
-      "totalResponseTime": 574,
-      "lastCheck": "2026-08-07T04:43:08.009Z",
+      "avgResponseTime": 407,
+      "totalResponseTime": 407,
+      "lastCheck": "2026-08-07T05:33:25.724Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1433,9 +1463,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 204,
-      "totalResponseTime": 204,
-      "lastCheck": "2026-08-07T04:43:08.311Z",
+      "avgResponseTime": 299,
+      "totalResponseTime": 299,
+      "lastCheck": "2026-08-07T05:33:26.137Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1447,9 +1477,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 217,
-      "totalResponseTime": 217,
-      "lastCheck": "2026-08-07T04:43:08.530Z",
+      "avgResponseTime": 117,
+      "totalResponseTime": 117,
+      "lastCheck": "2026-08-07T05:33:26.254Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1461,9 +1491,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 310,
-      "totalResponseTime": 310,
-      "lastCheck": "2026-08-07T04:43:08.840Z",
+      "avgResponseTime": 171,
+      "totalResponseTime": 171,
+      "lastCheck": "2026-08-07T05:33:26.426Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1475,9 +1505,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 271,
-      "totalResponseTime": 271,
-      "lastCheck": "2026-08-07T04:43:09.335Z",
+      "avgResponseTime": 260,
+      "totalResponseTime": 260,
+      "lastCheck": "2026-08-07T05:33:26.874Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1489,9 +1519,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 197,
-      "totalResponseTime": 197,
-      "lastCheck": "2026-08-07T04:43:14.576Z",
+      "avgResponseTime": 198,
+      "totalResponseTime": 198,
+      "lastCheck": "2026-08-07T05:33:32.054Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1503,9 +1533,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 1170,
-      "totalResponseTime": 1170,
-      "lastCheck": "2026-08-07T04:43:15.747Z",
+      "avgResponseTime": 1093,
+      "totalResponseTime": 1093,
+      "lastCheck": "2026-08-07T05:33:33.149Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1517,9 +1547,9 @@
       "headSupported": 2,
       "getSupported": 2,
       "tokenPatterns": [],
-      "avgResponseTime": 223,
-      "totalResponseTime": 446,
-      "lastCheck": "2026-08-07T04:43:16.424Z",
+      "avgResponseTime": 371,
+      "totalResponseTime": 742,
+      "lastCheck": "2026-08-07T05:33:34.283Z",
       "sourceTypes": [
         "manual",
         "manual"
@@ -1532,9 +1562,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 227,
-      "totalResponseTime": 227,
-      "lastCheck": "2026-08-07T04:43:16.211Z",
+      "avgResponseTime": 390,
+      "totalResponseTime": 390,
+      "lastCheck": "2026-08-07T05:33:34.064Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1546,9 +1576,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 776,
-      "totalResponseTime": 776,
-      "lastCheck": "2026-08-07T04:43:17.226Z",
+      "avgResponseTime": 522,
+      "totalResponseTime": 522,
+      "lastCheck": "2026-08-07T05:33:34.820Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1560,9 +1590,9 @@
       "headSupported": 3,
       "getSupported": 3,
       "tokenPatterns": [],
-      "avgResponseTime": 545.3333333333334,
-      "totalResponseTime": 1636,
-      "lastCheck": "2026-08-07T04:43:18.877Z",
+      "avgResponseTime": 925.6666666666666,
+      "totalResponseTime": 2777,
+      "lastCheck": "2026-08-07T05:33:37.607Z",
       "sourceTypes": [
         "manual",
         "manual",
@@ -1576,9 +1606,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 1845,
-      "totalResponseTime": 1845,
-      "lastCheck": "2026-08-07T04:43:20.724Z",
+      "avgResponseTime": 2319,
+      "totalResponseTime": 2319,
+      "lastCheck": "2026-08-07T05:33:39.927Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1590,9 +1620,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 187,
-      "totalResponseTime": 187,
-      "lastCheck": "2026-08-07T04:43:21.987Z",
+      "avgResponseTime": 201,
+      "totalResponseTime": 201,
+      "lastCheck": "2026-08-07T05:33:41.206Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1604,9 +1634,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 205,
-      "totalResponseTime": 205,
-      "lastCheck": "2026-08-07T04:43:22.406Z",
+      "avgResponseTime": 213,
+      "totalResponseTime": 213,
+      "lastCheck": "2026-08-07T05:33:41.631Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1618,9 +1648,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 282,
-      "totalResponseTime": 282,
-      "lastCheck": "2026-08-07T04:43:22.690Z",
+      "avgResponseTime": 340,
+      "totalResponseTime": 340,
+      "lastCheck": "2026-08-07T05:33:41.971Z",
       "sourceTypes": [
         "manual"
       ]
@@ -1632,9 +1662,9 @@
       "headSupported": 1,
       "getSupported": 1,
       "tokenPatterns": [],
-      "avgResponseTime": 651,
-      "totalResponseTime": 651,
-      "lastCheck": "2026-08-07T04:43:23.341Z",
+      "avgResponseTime": 642,
+      "totalResponseTime": 642,
+      "lastCheck": "2026-08-07T05:33:42.615Z",
       "sourceTypes": [
         "manual"
       ]
