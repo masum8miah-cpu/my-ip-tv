@@ -155,8 +155,6 @@ https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w5722
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" tvg-id="" tvg-name="" group-title="Bangladeshi",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" tvg-id="MovieBanglaTV" tvg-name="" group-title="Bangladeshi",Movie Bangla TV
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 # Group: Hindi
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" tvg-id="" tvg-name="Zee Anmol TV" group-title="Hindi",Zee Anmol TV
@@ -297,6 +295,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCWYdSgj/20240823-020619.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Khusbo Bangla
 http://103.175.73.12:8080/live/375/375_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYCmvBR7/20240823-020800.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Ruposhi Bangla
+http://103.175.73.12:8080/live/664/664_0.m3u8
 #EXTINF:-1 tvg-logo="https://banglajagotv.com/wp-content/themes/BANGLAJAGOTV/images/logo.png" tvg-id="BanglaJagoTV" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",IN | Bangla Jago TV
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/lxfvt7jp/image/upload/v1783540225/file_00000000751c72078debe9eab2afb3e5_h4dmny.png" tvg-id="AamarBangla.in@SD" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Aamar Bangla (720p)
