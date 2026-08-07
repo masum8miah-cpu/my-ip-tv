@@ -1,0 +1,785 @@
+{
+  "matches": {
+    "channel 9 hd": {
+      "aliases": [
+        "channel i hd"
+      ],
+      "tvgIds": [
+        "132000"
+      ],
+      "tvgNames": [
+        "channel i hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png"
+      ],
+      "similarNames": [
+        "channel i hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:09:53.252Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "maasranga tv": {
+      "aliases": [
+        "deepto tv hd"
+      ],
+      "tvgIds": [
+        "134000"
+      ],
+      "tvgNames": [
+        "deepto tv hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png"
+      ],
+      "similarNames": [
+        "deepto tv hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:10:00.479Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "independent tv": {
+      "aliases": [
+        "deepto tv hd"
+      ],
+      "tvgIds": [
+        "134000"
+      ],
+      "tvgNames": [
+        "deepto tv hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png"
+      ],
+      "similarNames": [
+        "deepto tv hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:10:01.986Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "ekattor hd": {
+      "aliases": [
+        "cineedge hd"
+      ],
+      "tvgIds": [
+        "197000"
+      ],
+      "tvgNames": [
+        "cineedge hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png"
+      ],
+      "similarNames": [
+        "cineedge hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:10:04.214Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "& picture": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:10:11.134Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "sony hd (set hd)": {
+      "aliases": [
+        "sony tv hd"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "sony tv hd"
+      ],
+      "logos": [],
+      "similarNames": [
+        "sony tv hd"
+      ],
+      "successCount": 1,
+      "failCount": 0,
+      "lastMatch": "2026-08-07T04:10:15.697Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "sony entertainment television": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:10:18.805Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "sony entertainment television hd": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:10:18.991Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "goal tv": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:10:23.592Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "sports range": {
+      "aliases": [
+        "channel 24 hd"
+      ],
+      "tvgIds": [
+        "94000"
+      ],
+      "tvgNames": [
+        "channel 24 hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png"
+      ],
+      "similarNames": [
+        "channel 24 hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:10:24.194Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "fighters": {
+      "aliases": [
+        "channel 24 hd"
+      ],
+      "tvgIds": [
+        "94000"
+      ],
+      "tvgNames": [
+        "channel 24 hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png"
+      ],
+      "similarNames": [
+        "channel 24 hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:10:24.793Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "star sports 1 hindi": {
+      "aliases": [
+        "star sports-1 hindi"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "star sports-1 hindi"
+      ],
+      "logos": [],
+      "similarNames": [
+        "star sports-1 hindi"
+      ],
+      "successCount": 1,
+      "failCount": 0,
+      "lastMatch": "2026-08-07T04:10:42.254Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "willow hd": {
+      "aliases": [
+        "willow"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "willow"
+      ],
+      "logos": [
+        "https://i.postimg.cc/SRfmPD1t/willow.png"
+      ],
+      "similarNames": [
+        "willow"
+      ],
+      "successCount": 1,
+      "failCount": 0,
+      "lastMatch": "2026-08-07T04:10:57.456Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "willow hd 2": {
+      "aliases": [
+        "willow hd"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "willow hd"
+      ],
+      "logos": [],
+      "similarNames": [
+        "willow hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:11:03.422Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "sky sports cricket": {
+      "aliases": [
+        "sky sports cricket"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "sky sports cricket"
+      ],
+      "logos": [
+        "https://i.ibb.co/JyPnwvB/sky-cricket.png"
+      ],
+      "similarNames": [
+        "sky sports cricket"
+      ],
+      "successCount": 1,
+      "failCount": 0,
+      "lastMatch": "2026-08-07T04:11:13.752Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "sky sports f1": {
+      "aliases": [
+        "sky sports f1"
+      ],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [
+        "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png"
+      ],
+      "similarNames": [
+        "sky sports f1"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:11:23.411Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "espn 2": {
+      "aliases": [
+        "espn"
+      ],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [
+        "https://imglink.cc/cdn/aqlLWjDMNH.png"
+      ],
+      "similarNames": [
+        "espn"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:11:41.860Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "bein sports 1": {
+      "aliases": [
+        "bein sports 1"
+      ],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [
+        "https://imglink.cc/cdn/kIiut6WBq0.jpg"
+      ],
+      "similarNames": [
+        "bein sports 1"
+      ],
+      "successCount": 1,
+      "failCount": 0,
+      "lastMatch": "2026-08-07T04:11:47.091Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "bein sports 2": {
+      "aliases": [
+        "bein sports 1"
+      ],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [
+        "https://imglink.cc/cdn/kIiut6WBq0.jpg"
+      ],
+      "similarNames": [
+        "bein sports 1"
+      ],
+      "successCount": 1,
+      "failCount": 0,
+      "lastMatch": "2026-08-07T04:11:49.974Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "bein sports 3": {
+      "aliases": [
+        "bein sports 1"
+      ],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [
+        "https://imglink.cc/cdn/kIiut6WBq0.jpg"
+      ],
+      "similarNames": [
+        "bein sports 1"
+      ],
+      "successCount": 1,
+      "failCount": 0,
+      "lastMatch": "2026-08-07T04:11:50.888Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "tsn 1": {
+      "aliases": [
+        "tsn 3"
+      ],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [
+        "https://imglink.cc/cdn/u7SqaFacbH.png"
+      ],
+      "similarNames": [
+        "tsn 3"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:11:56.893Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "tsn 2": {
+      "aliases": [
+        "tsn 3"
+      ],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [
+        "https://imglink.cc/cdn/u7SqaFacbH.png"
+      ],
+      "similarNames": [
+        "tsn 3"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:11:59.985Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "jalsha movies hd": {
+      "aliases": [
+        "jalsha movies"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "jalsha movies"
+      ],
+      "logos": [
+        "https://www.indiantvinfo.com/media/2022/12/Jalsha-Movies-Logo.png"
+      ],
+      "similarNames": [
+        "jalsha movies"
+      ],
+      "successCount": 1,
+      "failCount": 0,
+      "lastMatch": "2026-08-07T04:12:36.528Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "colors bangla 1": {
+      "aliases": [
+        "colors bangla"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "colors bangla"
+      ],
+      "logos": [
+        "https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/47/Colors_Bangla_%282016-present%29.png/revision/latest/scale-to-width-down/200?cb=20210829014018"
+      ],
+      "similarNames": [
+        "colors bangla"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:12:46.654Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "colors bangla 2": {
+      "aliases": [
+        "colors bangla"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "colors bangla"
+      ],
+      "logos": [
+        "https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/47/Colors_Bangla_%282016-present%29.png/revision/latest/scale-to-width-down/200?cb=20210829014018"
+      ],
+      "similarNames": [
+        "colors bangla"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:13:07.292Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "ruposhi bangla": {
+      "aliases": [
+        "ruposhi bangla"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "ruposhi bangla"
+      ],
+      "logos": [
+        "https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rupashi_Bangla_logo_%282015%29.png/revision/latest?cb=20211024145145"
+      ],
+      "similarNames": [
+        "ruposhi bangla"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:13:12.769Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "joy": {
+      "aliases": [
+        "channel 24 hd"
+      ],
+      "tvgIds": [
+        "94000"
+      ],
+      "tvgNames": [
+        "channel 24 hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png"
+      ],
+      "similarNames": [
+        "channel 24 hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:13:17.091Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "funny junior hd": {
+      "aliases": [
+        "channel i hd"
+      ],
+      "tvgIds": [
+        "132000"
+      ],
+      "tvgNames": [
+        "channel i hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png"
+      ],
+      "similarNames": [
+        "channel i hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:13:17.694Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "nikki": {
+      "aliases": [
+        "channel 24 hd"
+      ],
+      "tvgIds": [
+        "94000"
+      ],
+      "tvgNames": [
+        "channel 24 hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png"
+      ],
+      "similarNames": [
+        "channel 24 hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:13:18.395Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "crazy ex": {
+      "aliases": [
+        "channel 24 hd"
+      ],
+      "tvgIds": [
+        "94000"
+      ],
+      "tvgNames": [
+        "channel 24 hd"
+      ],
+      "logos": [
+        "https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png"
+      ],
+      "similarNames": [
+        "channel 24 hd"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:13:19.093Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "zb cartun tv": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:20.685Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "animal planet": {
+      "aliases": [
+        "animal planet"
+      ],
+      "tvgIds": [],
+      "tvgNames": [
+        "animal planet"
+      ],
+      "logos": [
+        "https://i.postimg.cc/sxs7Y6cL/animal-planet.png"
+      ],
+      "similarNames": [
+        "animal planet"
+      ],
+      "successCount": 0,
+      "failCount": 2,
+      "lastMatch": "2026-08-07T04:13:39.060Z",
+      "sourceTypes": [
+        "manual",
+        "manual"
+      ]
+    },
+    "love natural": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:40.185Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "cineedge hd": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:45.792Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "uniques hd": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:46.388Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "superrix hd": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:46.992Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "screem": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:47.589Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "crimes": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:48.187Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "true stories": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:48.789Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "intelligence": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:49.389Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "originals": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:13:49.991Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    },
+    "movie bangla tv": {
+      "aliases": [],
+      "tvgIds": [],
+      "tvgNames": [],
+      "logos": [],
+      "similarNames": [],
+      "successCount": 0,
+      "failCount": 1,
+      "lastMatch": "2026-08-07T04:14:12.388Z",
+      "sourceTypes": [
+        "manual"
+      ]
+    }
+  }
+}
