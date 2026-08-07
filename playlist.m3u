@@ -19,8 +19,6 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=atn_bangla&format=.m3u8
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=channel_i&format=.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" tvg-id="100000" tvg-name="Bangla Vision" group-title="Bangladeshi",Bangla Vision
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=bangla_vision&format=.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nagorik-tv.png" tvg-id="" tvg-name="" group-title="Bangladeshi",Nagorik Tv
-http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189283848.png" tvg-id="23" tvg-name="Ekhon TV" group-title="Bangladeshi",Ekhon TV
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" tvg-id="24" tvg-name="SRK TV" group-title="Bangladeshi",SRK TV
