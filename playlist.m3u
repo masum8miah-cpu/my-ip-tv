@@ -257,8 +257,6 @@ http://monirul.bro.bd/sm/stream.php?id=star_sports_1_hd&e=.m3u8
 https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",PTV Sports
 http://monirul.bro.bd/sm/stream.php?id=ptv_sports_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",Willow HD
-http://premimum.online:80/live/jen12345/jen54321/23943.ts
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",Ten Sports (server2)
 https://fifa.assadikb.workers.dev/?id=ten_cricket
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",A Sports HD
@@ -294,7 +292,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Sony Aath (server 1)
 http://dvltv.cc:8080/live/Livetv66/55887799/161685.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" tvg-id="sonyaathhd.in" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",SONY AATH HD (server2)
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCWYdSgj/20240823-020619.png" tvg-id="" tvg-name="" group-title="Kolkata 𝐁𝐚𝐧𝐠𝐥𝐚",Khusbo Bangla
