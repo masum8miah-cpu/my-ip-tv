@@ -1,28 +1,20 @@
 #EXTM3U
 
 # Group: Bonus Channels
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vTYq396x/20250529-071345.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcHKBtjy/20260524-023828.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Iqraa TV
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Somoy Tv
-https://bongoflix.eamintalukdar.workers.dev/output/4XcqdovJzbbC9WdJA9gk.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8cfPVhg/20240822-225146.png" tvg-id="" tvg-name="" group-title="Bonus Channels",BTV
+https://bongoflix.eamintalukdar.workers.dev/output/opREbXLqJ2HFYPCXTJBa.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2V7K9fD/20240822-230750.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Jamuna
 https://bongoflix.eamintalukdar.workers.dev/output/KGdZEdA7qQ43dmPkgk1j.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnBz3S8W/20240822-230603.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Ekattor HD
 https://bongoflix.eamintalukdar.workers.dev/output/EWDrV5QskgarZEUBb3pU.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvmC5cF5/20240822_230837.png" tvg-id="" tvg-name="" group-title="Bonus Channels",DBC News
 https://bongoflix.eamintalukdar.workers.dev/output/pF66Tkz0qFwP2aMMqHyt.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd019sYq/20240822_230705.png" tvg-id="" tvg-name="" group-title="Bonus Channels",SA TV
-https://bongoflix.eamintalukdar.workers.dev/output/rELXiuUXqbgzPb06Npom.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wThf5qQt/20240822_230921.png" tvg-id="" tvg-name="" group-title="Bonus Channels",News 24
 https://bongoflix.eamintalukdar.workers.dev/output/cdgr3tw6WoG7JyRnLbi0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4SwWtd3/20240822-225840.png" tvg-id="" tvg-name="" group-title="Bonus Channels",ATN News
 https://bongoflix.eamintalukdar.workers.dev/output/da6WMXAk.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqnQyn0/20240822-225501.png" tvg-id="" tvg-name="" group-title="Bonus Channels",N TV
-https://bongoflix.eamintalukdar.workers.dev/output/xV4jEKf3D9zc.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1L8tBR2/20240822-225717.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Desh TV
-https://bongoflix.eamintalukdar.workers.dev/output/ryFkXfd1a4CQ7mMdc820.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnTgFms2/20240822-225636.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Banglavision
 https://bongoflix.eamintalukdar.workers.dev/output/tgUzpPc9r6xw.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WS3tVK/20240822-225402.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Channel i
@@ -49,32 +41,6 @@ https://bongoflix.eamintalukdar.workers.dev/output/N8Xbo5vdwVU6sF43RsW0.m3u8
 https://bongoflix.eamintalukdar.workers.dev/output/LeUAm4F1iixYns3s3Non.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB9kQDTZ/20240822-225812.png" tvg-id="" tvg-name="" group-title="Bonus Channels",My Tv
 https://bongoflix.eamintalukdar.workers.dev/output/XMpHaEf0ANBhv8w6NWR7.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Star Jalsha HD
-https://sm-monirul.top/sm/proxy.php?id=star_jalsha&formet=.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJbWDxnT/20240822-231631.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Colors Bangla Cinema
-http://live.balajibroadband.com:3500/live/1657.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/25PhXvzC/20240823-020526.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Amar Digital
-http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzBBXzzB/20240823-020556.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Amar Bangla
-http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Star Plus HD
-http://202.70.146.135:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="https://dthlivetv.com/images/channel_icons/mon_tv.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Mon TV
-http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Discovery HD
-http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Zn6Gyrqn/20240823-024051.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Travel XP HD
-http://103.159.180.34:5001/live/562.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" tvg-id="" tvg-name="" group-title="Bonus Channels",T Sports HD
-https://bongoflix.eamintalukdar.workers.dev/output/TnMn5kZz8aLm.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Willow Sports
-https://mflixott.com/tv/dd/live.php/346.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Willow Sports 2
-https://mflixott.com/tv/dd/live.php/598.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Star Sports SL 1
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=282675&extension=m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Star Sports SL 2
-http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=282676&extension=m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="fifa-plus" tvg-name="" group-title="Bonus Channels",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/V00000002/0/HLS/playlist_3000k_20260604T024843.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="bein-tv" tvg-name="" group-title="Bonus Channels",beIN TV
@@ -189,8 +155,6 @@ https://hlsb-us.god.tv/GODTV/USA-480.m3u8
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" tvg-id="" tvg-name="" group-title="Bonus Channels",TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Zee Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Colors Cineplex HD
 http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="Bonus Channels",BBC Earth
@@ -215,8 +179,6 @@ https://s2.itcnbd.live/server-2/stream/sony_sports_2_hd.m3u8
 https://s2.itcnbd.live/server-2/stream/euro_sports_hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Anando TV
 https://s2.itcnbd.live/server-2/stream/anandatv.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="" group-title="Bonus Channels",Bangla Movies
-https://s2.itcnbd.live/server-2/stream/toffee_movie.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg" tvg-id="" tvg-name="" group-title="Bonus Channels",Sony Aath
 https://s2.itcnbd.live/server-2/stream/sonyaath.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Zee Bangla HD
@@ -229,8 +191,6 @@ https://s2.itcnbd.live/server-2/stream/sony_entertainment.m3u8
 https://s2.itcnbd.live/server-2/stream/sonysab_hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Zee TV HD
 https://s2.itcnbd.live/server-2/stream/zee_tv_hd.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" tvg-id="" tvg-name="" group-title="Bonus Channels",And TV HD
-https://s2.itcnbd.live/server-2/stream/and_tv_hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Zee Cinema HD
 https://s2.itcnbd.live/server-2/stream/zee_cinema_hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png" tvg-id="" tvg-name="" group-title="Bonus Channels",Zee Action
@@ -261,8 +221,12 @@ https://s2.itcnbd.live/server-2/stream/cartoon_network_hd.m3u8
 https://s2.itcnbd.live/server-2/stream/pogo_sd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg" tvg-id="" tvg-name="" group-title="Bonus Channels",Sony Pix HD
 https://s2.itcnbd.live/server-2/stream/sonypix_hd.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="" tvg-name="Maasranga TV (720p)" group-title="Bonus Channels",Maasranga TV (720p)
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/26890a20f6d371fd2c36c83f7bf87733.png" tvg-id="" tvg-name="Zee 24 Ghanta" group-title="Bonus Channels",Zee 24 Ghanta
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/b4ad619d5bd6dfa8a0eb3c4efc216ae3.png" tvg-id="" tvg-name="Calcutta News" group-title="Bonus Channels",Calcutta News
+https://d1msejlow1t3l4.cloudfront.net/fta/calcuttanews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2FvhXx8/hungama.png" tvg-id="" tvg-name="Hungama" group-title="Bonus Channels",Hungama
 http://premimum.online:80/live/jen12345/jen54321/18456.ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/712c7af9b6a340cddd92140b6f92e54c.png" tvg-id="" tvg-name="Discovery Kids Hindi" group-title="Bonus Channels",Discovery Kids Hindi
@@ -305,6 +269,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=41
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=264
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/tg/linear_channel/logo/480x270/tg-movies-1920-x-1080_1.jpg" tvg-id="" tvg-name="TG Moves" group-title="Bonus Channels",TG Moves
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=286
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e89698f2bb371fcd67f9657168b26de5.png" tvg-id="" tvg-name="Zoom Music" group-title="Bonus Channels",Zoom Music
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2zyk7CW/9xm.png" tvg-id="" tvg-name="9XM" group-title="Bonus Channels",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/16c286c174d2ff21f9b3072028ede430.png" tvg-id="" tvg-name="Saga Music HD" group-title="Bonus Channels",Saga Music HD
@@ -313,6 +279,8 @@ https://amg00223-unisys-amg00223c5-lg-in-2048.playouts.now.amagi.tv/playlist/amg
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTHkxw2n/24hkpop.png" tvg-id="" tvg-name="24hr K Pop" group-title="Bonus Channels",24hr K Pop
 https://live20.bozztv.com/akamaissh101/ssh101/24hrkpoptv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRR1YZy6/kpoptvplay.png" tvg-id="" tvg-name="K Pop TV Play" group-title="Bonus Channels",K Pop TV Play
+https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Deluxe_Music_Logo_2019.svg/960px-Deluxe_Music_Logo_2019.svg.png" tvg-id="" tvg-name="Deluxe Music" group-title="Bonus Channels",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HW7Ms7tK/vevo.png" tvg-id="" tvg-name="VEVO Pop" group-title="Bonus Channels",VEVO Pop
@@ -321,8 +289,6 @@ https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5dtLNB7/zeeaction.png" tvg-id="" tvg-name="Zee Action" group-title="Bonus Channels",Zee Action
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/52kNZbR7/pictures.png" tvg-id="" tvg-name="& Pictures" group-title="Bonus Channels",& Pictures
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8knKJYxC/pictureshd.png" tvg-id="" tvg-name="& Pictures HD" group-title="Bonus Channels",& Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJFfR9rm/sgsellect.png" tvg-id="" tvg-name="Star Gold Select" group-title="Bonus Channels",Star Gold Select
@@ -331,10 +297,6 @@ http://premimum.online/live/jen12345/jen54321/210.ts
 http://premimum.online:80/live/Jen12345/Jen54321/9378.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsP7SFTk/anmolcinema.png" tvg-id="" tvg-name="Anoml Cinema" group-title="Bonus Channels",Anoml Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhjkC1fW/zeecinemalu.png" tvg-id="" tvg-name="ZEE Cinemalu" group-title="Bonus Channels",ZEE Cinemalu
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y80GPf8v/colorsbanglacine.png" tvg-id="" tvg-name="Colors Bangla Cinema" group-title="Bonus Channels",Colors Bangla Cinema
-http://premimum.online:80/live/jen12345/jen54321/271038.ts
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" tvg-id="" tvg-name="HBO HD" group-title="Bonus Channels",HBO HD
 https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VU0rKXI.png" tvg-id="" tvg-name="HBO 2 HD" group-title="Bonus Channels",HBO 2 HD
@@ -365,20 +327,16 @@ http://premimum.online/live/jen12345/jen54321/221.ts
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RcMRb7f/zeetvhd.png" tvg-id="" tvg-name="Zee TV HD" group-title="Bonus Channels",Zee TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxy9HM7q/tv.png" tvg-id="" tvg-name="& TV" group-title="Bonus Channels",& TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VLB89gFB/tvhd.png" tvg-id="" tvg-name="& TV HD" group-title="Bonus Channels",& TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qqTFzfSb/zing.png" tvg-id="" tvg-name="Zing" group-title="Bonus Channels",Zing
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/1c988cc725451c2480c56865af4d59d8.png" tvg-id="" tvg-name="Sony Sab" group-title="Bonus Channels",Sony Sab
 https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" tvg-id="" tvg-name="ShortsTV Active" group-title="Bonus Channels",ShortsTV Active
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bNPLNd9P/zee-marathi.png" tvg-id="" tvg-name="Zee Marathi" group-title="Bonus Channels",Zee Marathi
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSw0gWmc/starvijay.png" tvg-id="" tvg-name="Star Vijay" group-title="Bonus Channels",Star Vijay
 http://premimum.online/live/jen12345/jen54321/157.ts
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lRqWi7GK5UoOeKQs1hPj38bMyqPBwEo35pwDVGaw3Qbqs=s900-c-k-c0x00ffffff-no-rj" tvg-id="" tvg-name="Peppers" group-title="Bonus Channels",Peppers
-https://d1msejlow1t3l4.cloudfront.net/fta/peppers/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Star_maa.png/revision/latest?cb=20210520145908" tvg-id="" tvg-name="Star Maa" group-title="Bonus Channels",Star Maa
 http://premimum.online/live/jen12345/jen54321/168.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tCMgXnFW/zee-telugu.png" tvg-id="" tvg-name="ZEE Telugu" group-title="Bonus Channels",ZEE Telugu
@@ -387,8 +345,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 http://premimum.online/live/jen12345/jen54321/162.ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsSuper.png" tvg-id="" tvg-name="Colors Super" group-title="Bonus Channels",Colors Super
 http://premimum.online/live/jen12345/jen54321/163.ts
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e1aa75c59d603d612304b26597eb0a24.png" tvg-id="" tvg-name="Star Jalsha" group-title="Bonus Channels",Star Jalsha
-http://premimum.online/live/jen12345/jen54321/198.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/1280px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png" tvg-id="" tvg-name="Zee Bangla" group-title="Bonus Channels",Zee Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yYmRR5K/bangladrama.png" tvg-id="" tvg-name="24/7 Drama" group-title="Bonus Channels",24/7 Drama
@@ -445,8 +401,6 @@ https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
 http://premimum.online/live/jen12345/jen54321/101.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBPwnSkd/ptvsports.png" tvg-id="" tvg-name="PTV Sports" group-title="Bonus Channels",PTV Sports
 http://premimum.online/live/jen12345/jen54321/89.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" tvg-id="" tvg-name="Sky Sports Football" group-title="Bonus Channels",Sky Sports Football
-http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9289/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" tvg-id="" tvg-name="Sky Sports Mix" group-title="Bonus Channels",Sky Sports Mix
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9310/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRfmPD1t/willow.png" tvg-id="" tvg-name="Willow" group-title="Bonus Channels",Willow
@@ -471,10 +425,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3e/Peace_TV_Bangla_logo_2020.png/revision/latest?cb=20220106022526" tvg-id="" tvg-name="Peace TV Bangla" group-title="Bonus Channels",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/cacbd93588fb35c8a65c86fcf4310dc0.png" tvg-id="" tvg-name="Sarv Dharm Sangam" group-title="Bonus Channels",Sarv Dharm Sangam
-https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0127f7f59e1b1b714be76545172cdba0.png" tvg-id="" tvg-name="Mahaa Bhakti" group-title="Bonus Channels",Mahaa Bhakti
-https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0b79cae17adfb14c6c414a426671c735.png" tvg-id="" tvg-name="ETV Life" group-title="Bonus Channels",ETV Life
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yH-6zqZ4au4F824e13zChJ3qTpcLp16tqOj4wt-To-dto6kLwgN4Yb8ddjSuBGNzO8rP-r3FgA=s900-c-k-c0x00ffffff-no-rj" tvg-id="" tvg-name="Divine TV" group-title="Bonus Channels",Divine TV
