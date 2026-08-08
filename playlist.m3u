@@ -52,7 +52,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png" tvg-id="" tvg-name="" group-title="Bangladeshi",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" tvg-id="MovieBanglaTV" tvg-name="" group-title="Bangladeshi",Movie Bangla TV
-https://s2.itcnbd.live/server-2/stream/toffee_movie.m3u8
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_8a69251df11b66c4e85e7a2fe6d89286_playmist_boishakhi_tv_400x400.jpg" tvg-id="boishakhi_tv" tvg-name="Boishakhi TV" group-title="Bangladeshi",Boishakhi TV
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=boishakhi_tv&format=.m3u8
 #EXTINF:-1 tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png" tvg-id="sa_tv" tvg-name="SA TV" group-title="Bangladeshi",SA TV
@@ -193,8 +193,6 @@ http://monirul.bro.bd/sm/stream.php?id=a_sports_hd&e=.m3u8
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/7343/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png" tvg-id="" tvg-name="" group-title="sports",Sky Sports F1
 http://ytoxw6un.ottclub.xyz/iptv/VSQZTL9D68WBD9/9289/index.m3u8
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png" tvg-id="" tvg-name="" group-title="sports",ESPN 2
-https://bongoflix.eamintalukdar.workers.dev/output/rELXiuUXqbgzPb06Npom.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" tvg-id="" tvg-name="" group-title="sports",beIN Sports 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" tvg-id="" tvg-name="" group-title="sports",beIN Sports 2
@@ -332,7 +330,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",Sony Yay Bangla
 https://fifa.assadikb.workers.dev/?id=sonyyay
 #EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",ZB Cartun TV
-https://server.zillarbarta.com/zbcatun/video.m3u8
+https://bongoflix.eamintalukdar.workers.dev/output/xV4jEKf3D9zc.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-hindi.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",Sonic Hindi
 http://live.balajibroadband.com:3500/live/815.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-bangla.png" tvg-id="" tvg-name="" group-title="𝐊𝐢𝐝𝐬",Sonic Bangla
